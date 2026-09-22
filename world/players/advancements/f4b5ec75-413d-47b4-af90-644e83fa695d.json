@@ -426,6 +426,7 @@
       "minecraft:phantom": "2026-09-20 12:44:39 -0400",
       "minecraft:zombified_piglin": "2026-09-18 17:46:37 -0400",
       "minecraft:wither_skeleton": "2026-09-20 12:49:56 -0400",
+      "minecraft:zombie_horse": "2026-09-21 21:47:50 -0400",
       "minecraft:enderman": "2026-09-17 20:37:17 -0400",
       "minecraft:magma_cube": "2026-09-16 18:58:54 -0400",
       "minecraft:endermite": "2026-09-19 22:33:16 -0400",
@@ -3934,9 +3935,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_mushroom": "2026-09-21 21:47:53 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_bed": {
     "criteria": {
       "has_magenta_wool": "2026-09-21 21:23:54 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2026-09-21 21:42:39 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2026-09-21 21:42:39 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2026-09-21 21:42:39 -0400"
     },
     "done": true
   },
@@ -3958,9 +3983,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2026-09-21 21:42:39 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2026-09-21 21:42:39 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2026-09-21 21:42:39 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2026-09-21 21:42:39 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2026-09-21 21:42:39 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_mushroom": "2026-09-21 21:47:53 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_wool_stairs": {
     "criteria": {
       "has_magenta_wool": "2026-09-21 21:23:54 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2026-09-21 21:42:39 -0400"
     },
     "done": true
   },
