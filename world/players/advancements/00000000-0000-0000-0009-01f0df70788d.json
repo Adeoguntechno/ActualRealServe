@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:dappled_forest": "2026-09-22 18:28:01 -0400",
       "minecraft:savanna_plateau": "2026-09-02 19:29:36 -0400",
       "minecraft:forest": "2026-09-06 23:21:08 -0400",
       "minecraft:jungle": "2026-09-07 22:05:08 -0400",
@@ -3025,6 +3026,18 @@
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2026-09-21 21:07:09 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/resin_brick": {
+    "criteria": {
+      "has_resin_clump": "2026-09-22 18:53:15 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/resin_block": {
+    "criteria": {
+      "has_resin_clump": "2026-09-22 18:53:15 -0400"
     },
     "done": true
   },

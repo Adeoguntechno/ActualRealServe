@@ -8,6 +8,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2026-09-13 17:51:15 -0400",
+      "minecraft:old_growth_pine_taiga": "2026-09-22 17:58:13 -0400",
       "minecraft:forest": "2026-09-02 20:11:25 -0400",
       "minecraft:taiga": "2026-09-13 17:52:03 -0400",
       "minecraft:lush_caves": "2026-09-16 22:26:51 -0400",
@@ -3568,18 +3569,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/poplar_hanging_sign": {
-    "criteria": {
-      "has_stripped_log": "2026-09-21 22:14:56 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/poplar_planks": {
-    "criteria": {
-      "has_logs": "2026-09-21 22:14:56 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/poplar_button": {
     "criteria": {
       "has_planks": "2026-09-21 22:14:53 -0400"
@@ -3604,12 +3593,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/poplar_shelf": {
-    "criteria": {
-      "has_stripped_poplar_log": "2026-09-21 22:14:56 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/poplar_fence_gate": {
     "criteria": {
       "has_planks": "2026-09-21 22:14:53 -0400"
@@ -3619,6 +3602,42 @@
   "minecraft:recipes/decorations/poplar_fence": {
     "criteria": {
       "has_planks": "2026-09-21 22:14:53 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/poplar_pressure_plate": {
+    "criteria": {
+      "has_planks": "2026-09-21 22:14:53 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/poplar_slab": {
+    "criteria": {
+      "has_planks": "2026-09-21 22:14:53 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/poplar_hanging_sign": {
+    "criteria": {
+      "has_stripped_log": "2026-09-21 22:14:56 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/poplar_planks": {
+    "criteria": {
+      "has_logs": "2026-09-21 22:14:56 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/poplar_shelf": {
+    "criteria": {
+      "has_stripped_poplar_log": "2026-09-21 22:14:56 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_poplar_wood": {
+    "criteria": {
+      "has_log": "2026-09-21 22:14:56 -0400"
     },
     "done": true
   },
@@ -3634,21 +3653,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/poplar_pressure_plate": {
+  "minecraft:recipes/misc/bowl": {
     "criteria": {
-      "has_planks": "2026-09-21 22:14:53 -0400"
+      "has_mushroom": "2026-09-22 18:24:08 -0400"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stripped_poplar_wood": {
+  "minecraft:end/root": {
     "criteria": {
-      "has_log": "2026-09-21 22:14:56 -0400"
+      "entered_end": "2026-09-22 17:43:47 -0400"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/poplar_slab": {
+  "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
-      "has_planks": "2026-09-21 22:14:53 -0400"
+      "has_mushroom": "2026-09-22 18:24:08 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2026-09-22 17:43:47 -0400"
     },
     "done": true
   },
