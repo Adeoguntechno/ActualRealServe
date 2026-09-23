@@ -19,6 +19,7 @@
       "minecraft:savanna_plateau": "2026-09-02 20:24:37 -0400",
       "minecraft:beach": "2026-09-02 21:48:33 -0400",
       "minecraft:dark_forest": "2026-09-02 22:19:03 -0400",
+      "minecraft:stony_peaks": "2026-09-22 21:04:57 -0400",
       "minecraft:sparse_jungle": "2026-09-02 22:33:56 -0400",
       "minecraft:river": "2026-09-02 20:28:13 -0400",
       "minecraft:stony_shore": "2026-09-03 21:47:12 -0400",
@@ -4064,6 +4065,30 @@
   "minecraft:adventure/avoid_vibration": {
     "criteria": {
       "avoid_vibration": "2026-09-20 17:53:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2026-09-22 20:50:38 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2026-09-22 20:51:22 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2026-09-22 20:51:22 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2026-09-22 20:50:38 -0400"
     },
     "done": true
   },

@@ -8218,3 +8218,1188 @@ Caused by: java.io.FileNotFoundException: Jar does not contain plugin.yml
 [18:58:35] [Server thread/INFO]: 6sevelyn67 lost connection: Disconnected
 [18:58:35] [Server thread/INFO]: System chat: 6sevelyn67 left the game
 [18:59:38] [Server thread/INFO]: System chat: .Ginger8013 was slain by Zombie
+[19:02:33] [GeyserServerChild-4-3/INFO]: [Geyser-Spigot] Player connected with username Snow Leopard846 (2193)
+[19:02:34] [localSession-7-4/INFO]: [Geyser-Spigot] Snow Leopard846 (logged in as: Snow_Leopard846) has connected to the Java server
+[19:02:34] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Snow_Leopard846 joined (UUID: 00000000-0000-0000-0009-01fa79f613f5)
+[19:02:34] [Server thread/INFO]: System chat: .Snow_Leopard846 joined the game
+[19:02:34] [Server thread/INFO]: .Snow_Leopard846[/108.188.242.111:0] logged in with entity id 98733 at ([world]-2.5, 114.0, -7.5)
+[19:03:08] [GeyserServerChild-4-3/INFO]: [Geyser-Spigot] Snow Leopard846 has disconnected from the Java server because of §rBedrock client disconnected
+[19:03:08] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .Snow_Leopard846 disconnected
+[19:03:09] [Server thread/INFO]: .Snow_Leopard846 lost connection: Disconnected
+[19:03:09] [Server thread/INFO]: System chat: .Snow_Leopard846 left the game
+[19:03:33] [GeyserServerChild-4-4/INFO]: [Geyser-Spigot] Player connected with username Snow Leopard846 (2193)
+[19:03:33] [localSession-7-1/INFO]: [Geyser-Spigot] Snow Leopard846 (logged in as: Snow_Leopard846) has connected to the Java server
+[19:03:33] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Snow_Leopard846 joined (UUID: 00000000-0000-0000-0009-01fa79f613f5)
+[19:03:33] [Server thread/INFO]: System chat: .Snow_Leopard846 joined the game
+[19:03:33] [Server thread/INFO]: .Snow_Leopard846[/108.188.242.111:0] logged in with entity id 99815 at ([world]-30.557236, 109.0, -40.398933)
+[19:03:56] [Server thread/WARN]: .Snow_Leopard846 moved wrongly!
+[19:05:26] [User Authenticator #25/INFO]: UUID of player AmericanTank is c1cf6b0a-1bb8-4d32-8dab-5004fe1ddbac
+[19:05:27] [Server thread/INFO]: System chat: AmericanTank joined the game
+[19:05:27] [Server thread/INFO]: AmericanTank[/66.10.222.191:60687] logged in with entity id 101460 at ([world_the_end]946.8674924168985, 57.0, -1019.1828010793164)
+[19:05:39] [Server thread/INFO]: System chat: .Ginger8013 was shot by Skeleton
+[19:05:46] [Async Chat Thread - #24/INFO]: [Not Secure] <.Snow_Leopard846> JAMES HAS RISEN
+[19:05:52] [Async Chat Thread - #24/INFO]: [Not Secure] <.Snow_Leopard846> and emily has fallen
+[19:06:02] [Async Chat Thread - #23/INFO]: [Not Secure] <.Ginger8013> OKAY BRO SHUT UP
+[19:07:26] [Server thread/WARN]: .Snow_Leopard846 moved wrongly!
+[19:11:24] [Server thread/INFO]: AmericanTank lost connection: Disconnected
+[19:11:24] [Server thread/INFO]: System chat: AmericanTank left the game
+[19:13:02] [Server thread/INFO]: System chat: MinetheJ was slain by Drowned
+[19:16:50] [Server thread/INFO]: System chat: .Snow_Leopard846 was slain by Spider
+[19:17:54] [Server thread/INFO]: Villager Villager['Cleric'/110716, l='ServerLevel[world]', x=667.63, y=88.00, z=-149.51] died, message: 'Cleric was slain by Zombie'
+[19:20:02] [Server thread/INFO]: MinetheJ lost connection: Disconnected
+[19:20:02] [Server thread/INFO]: System chat: MinetheJ left the game
+[19:39:19] [GeyserServerChild-4-4/INFO]: [Geyser-Spigot] Snow Leopard846 has disconnected from the Java server because of §rBedrock client disconnected
+[19:39:19] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .Snow_Leopard846 disconnected
+[19:39:19] [Server thread/INFO]: .Snow_Leopard846 lost connection: Internal Exception: java.nio.channels.ClosedChannelException
+[19:39:19] [Server thread/INFO]: System chat: .Snow_Leopard846 left the game
+[19:41:37] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .juhbuh3538 disconnected
+[19:41:37] [GeyserServerChild-4-1/INFO]: [Geyser-Spigot] juhbuh3538 has disconnected from the Java server because of §rBedrock client timed out
+[19:41:37] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .Ginger8013 disconnected
+[19:41:37] [GeyserServerChild-4-2/INFO]: [Geyser-Spigot] Ginger8013 has disconnected from the Java server because of §rBedrock client timed out
+[19:41:37] [Server thread/INFO]: .juhbuh3538 lost connection: Disconnected
+[19:41:37] [Server thread/INFO]: System chat: .juhbuh3538 left the game
+[19:41:37] [Server thread/INFO]: .Ginger8013 lost connection: Disconnected
+[19:41:37] [Server thread/INFO]: System chat: .Ginger8013 left the game
+[19:42:23] [GeyserServerChild-4-1/INFO]: [Geyser-Spigot] Player connected with username Snow Leopard846 (2193)
+[19:42:23] [localSession-7-2/INFO]: [Geyser-Spigot] Snow Leopard846 (logged in as: Snow_Leopard846) has connected to the Java server
+[19:42:24] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Snow_Leopard846 joined (UUID: 00000000-0000-0000-0009-01fa79f613f5)
+[19:42:24] [Server thread/INFO]: System chat: .Snow_Leopard846 joined the game
+[19:42:24] [Server thread/INFO]: .Snow_Leopard846[/108.188.242.111:0] logged in with entity id 125818 at ([world]-12.5, 112.0, 4.5)
+[19:42:25] [GeyserServerChild-4-2/INFO]: [Geyser-Spigot] Player connected with username juhbuh3538 (2193)
+[19:42:25] [localSession-7-3/INFO]: [Geyser-Spigot] juhbuh3538 (logged in as: juhbuh3538) has connected to the Java server
+[19:42:26] [Server thread/INFO]: [floodgate] Floodgate player logged in as .juhbuh3538 joined (UUID: 00000000-0000-0000-0009-01f0df70788d)
+[19:42:26] [Server thread/INFO]: System chat: .juhbuh3538 joined the game
+[19:42:26] [Server thread/INFO]: .juhbuh3538[/143.59.232.244:0] logged in with entity id 126364 at ([world]-259.82626, 85.55398, 338.22003)
+[19:43:24] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .Snow_Leopard846 disconnected
+[19:43:24] [GeyserServerChild-4-1/INFO]: [Geyser-Spigot] Snow Leopard846 has disconnected from the Java server because of §rBedrock client disconnected
+[19:43:24] [Server thread/INFO]: .Snow_Leopard846 lost connection: Disconnected
+[19:43:24] [Server thread/INFO]: System chat: .Snow_Leopard846 left the game
+[19:47:04] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .juhbuh3538 disconnected
+[19:47:04] [GeyserServerChild-4-2/INFO]: [Geyser-Spigot] juhbuh3538 has disconnected from the Java server because of §rBedrock client timed out
+[19:47:04] [Server thread/INFO]: .juhbuh3538 lost connection: Disconnected
+[19:47:04] [Server thread/INFO]: System chat: .juhbuh3538 left the game
+[19:47:31] [GeyserServerChild-4-3/INFO]: [Geyser-Spigot] Player connected with username juhbuh3538 (2193)
+[19:47:31] [localSession-7-4/INFO]: [Geyser-Spigot] juhbuh3538 (logged in as: juhbuh3538) has connected to the Java server
+[19:47:32] [Server thread/INFO]: [floodgate] Floodgate player logged in as .juhbuh3538 joined (UUID: 00000000-0000-0000-0009-01f0df70788d)
+[19:47:32] [Server thread/INFO]: System chat: .juhbuh3538 joined the game
+[19:47:32] [Server thread/INFO]: .juhbuh3538[/143.59.232.244:0] logged in with entity id 127120 at ([world]-259.57373, 84.5, 340.74744)
+[19:56:33] [localSession-7-1/INFO]: [Geyser-Spigot] Ginger8013 (logged in as: Ginger8013) has connected to the Java server
+[19:56:33] [GeyserServerChild-4-4/INFO]: [Geyser-Spigot] Player connected with username Ginger8013 (2193)
+[19:56:33] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Ginger8013 joined (UUID: 00000000-0000-0000-0009-01f60ede433a)
+[19:56:33] [Server thread/INFO]: System chat: .Ginger8013 joined the game
+[19:56:33] [Server thread/INFO]: .Ginger8013[/108.188.242.111:0] logged in with entity id 128556 at ([world]103.99136, 62.0, 208.60774)
+[20:01:02] [Server thread/INFO]: System chat: .Ginger8013 was shot by Skeleton
+[20:01:25] [Server thread/INFO]: System chat: .Ginger8013 was shot by Skeleton
+[20:02:02] [Server thread/INFO]: System chat: .Ginger8013 was slain by Zombie
+[20:11:50] [GeyserServerChild-4-4/WARN]: [Geyser-Spigot] Exception caught in session of Ginger8013
+io.netty.channel.unix.Errors$NativeIoException: sendToAddresses(..) failed with error(-49): Can't assign requested address
+[20:11:50] [GeyserServerChild-4-3/WARN]: [Geyser-Spigot] Exception caught in session of juhbuh3538
+io.netty.channel.unix.Errors$NativeIoException: sendToAddresses(..) failed with error(-49): Can't assign requested address
+[20:11:50] [GeyserServerChild-4-3/INFO]: [Geyser-Spigot] juhbuh3538 has disconnected from the Java server because of §rAn internal error occurred!
+[20:11:50] [GeyserServerChild-4-4/INFO]: [Geyser-Spigot] Ginger8013 has disconnected from the Java server because of §rAn internal error occurred!
+[20:11:50] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .juhbuh3538 disconnected
+[20:11:50] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .Ginger8013 disconnected
+[20:11:50] [GeyserServerChild-4-4/WARN]: [Geyser-Spigot] Exception caught in session of Ginger8013
+io.netty.channel.unix.Errors$NativeIoException: sendToAddresses(..) failed with error(-49): Can't assign requested address
+[20:11:50] [GeyserServerChild-4-4/WARN]: [Geyser-Spigot] Exception caught in session of Ginger8013
+io.netty.channel.unix.Errors$NativeIoException: sendToAddresses(..) failed with error(-49): Can't assign requested address
+[20:11:50] [GeyserServerChild-4-3/WARN]: [Geyser-Spigot] Exception caught in session of juhbuh3538
+io.netty.channel.unix.Errors$NativeIoException: sendToAddresses(..) failed with error(-49): Can't assign requested address
+[20:11:50] [GeyserServerChild-4-4/WARN]: [Geyser-Spigot] Exception caught in session of Ginger8013
+io.netty.channel.unix.Errors$NativeIoException: sendToAddresses(..) failed with error(-49): Can't assign requested address
+[20:11:50] [GeyserServerChild-4-4/WARN]: [Geyser-Spigot] Exception caught in session of Ginger8013
+io.netty.channel.unix.Errors$NativeIoException: sendToAddresses(..) failed with error(-49): Can't assign requested address
+[20:11:50] [GeyserServerChild-4-4/WARN]: [Geyser-Spigot] Exception caught in session of Ginger8013
+io.netty.channel.unix.Errors$NativeIoException: sendToAddresses(..) failed with error(-49): Can't assign requested address
+[20:11:50] [GeyserServerChild-4-4/WARN]: [Geyser-Spigot] Exception caught in session of Ginger8013
+io.netty.channel.unix.Errors$NativeIoException: sendToAddresses(..) failed with error(-49): Can't assign requested address
+[20:11:50] [GeyserServerChild-4-4/WARN]: [Geyser-Spigot] Exception caught in session of Ginger8013
+io.netty.channel.unix.Errors$NativeIoException: sendToAddresses(..) failed with error(-49): Can't assign requested address
+[20:11:50] [GeyserServerChild-4-4/WARN]: [Geyser-Spigot] Exception caught in session of Ginger8013
+io.netty.channel.unix.Errors$NativeIoException: sendToAddresses(..) failed with error(-51): Network is unreachable
+[20:11:50] [GeyserServerChild-4-4/WARN]: [Geyser-Spigot] Exception caught in session of Ginger8013
+io.netty.channel.unix.Errors$NativeIoException: sendToAddresses(..) failed with error(-51): Network is unreachable
+[20:11:50] [GeyserServerChild-4-4/WARN]: [Geyser-Spigot] Exception caught in session of Ginger8013
+io.netty.channel.unix.Errors$NativeIoException: sendToAddresses(..) failed with error(-51): Network is unreachable
+[20:11:50] [GeyserServerChild-4-4/WARN]: [Geyser-Spigot] Exception caught in session of Ginger8013
+io.netty.channel.unix.Errors$NativeIoException: sendToAddresses(..) failed with error(-51): Network is unreachable
+[20:11:50] [GeyserServerChild-4-4/WARN]: [Geyser-Spigot] Exception caught in session of Ginger8013
+io.netty.channel.unix.Errors$NativeIoException: sendToAddresses(..) failed with error(-51): Network is unreachable
+[20:11:50] [GeyserServerChild-4-4/WARN]: [Geyser-Spigot] Exception caught in session of Ginger8013
+io.netty.channel.unix.Errors$NativeIoException: sendToAddresses(..) failed with error(-51): Network is unreachable
+[20:11:50] [GeyserServerChild-4-3/WARN]: [Geyser-Spigot] Exception caught in session of juhbuh3538
+io.netty.channel.unix.Errors$NativeIoException: sendToAddresses(..) failed with error(-49): Can't assign requested address
+[20:11:50] [GeyserServerChild-4-3/WARN]: [Geyser-Spigot] Exception caught in session of juhbuh3538
+io.netty.channel.unix.Errors$NativeIoException: sendToAddresses(..) failed with error(-51): Network is unreachable
+[20:11:50] [GeyserServerChild-4-4/WARN]: [Geyser-Spigot] Exception caught in session of Ginger8013
+io.netty.channel.unix.Errors$NativeIoException: sendToAddresses(..) failed with error(-51): Network is unreachable
+[20:11:50] [GeyserServerChild-4-3/WARN]: [Geyser-Spigot] Exception caught in session of juhbuh3538
+io.netty.channel.unix.Errors$NativeIoException: sendToAddresses(..) failed with error(-51): Network is unreachable
+[20:11:50] [Server thread/INFO]: .juhbuh3538 lost connection: Disconnected
+[20:11:50] [Server thread/INFO]: System chat: .juhbuh3538 left the game
+[20:11:50] [Server thread/INFO]: .Ginger8013 lost connection: Disconnected
+[20:11:50] [Server thread/INFO]: System chat: .Ginger8013 left the game
+[20:11:53] [Geyser LegacyPingPassthrough Thread/WARN]: [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+java.net.SocketException: Network is unreachable
+	at java.base/sun.nio.ch.Net.connect0(Native Method)
+	at java.base/sun.nio.ch.Net.connect(Net.java:546)
+	at java.base/sun.nio.ch.Net.connect(Net.java:535)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:585)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:284)
+	at java.base/java.net.Socket.connect(Socket.java:659)
+	at org.geysermc.geyser.ping.GeyserLegacyPingPassthrough.run(GeyserLegacyPingPassthrough.java:101)
+[20:11:56] [Geyser LegacyPingPassthrough Thread/WARN]: [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+java.net.SocketException: Network is unreachable
+	at java.base/sun.nio.ch.Net.connect0(Native Method)
+	at java.base/sun.nio.ch.Net.connect(Net.java:546)
+	at java.base/sun.nio.ch.Net.connect(Net.java:535)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:585)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:284)
+	at java.base/java.net.Socket.connect(Socket.java:659)
+	at org.geysermc.geyser.ping.GeyserLegacyPingPassthrough.run(GeyserLegacyPingPassthrough.java:101)
+[20:12:23] [GeyserServerChild-4-1/INFO]: [Geyser-Spigot] Player connected with username juhbuh3538 (2193)
+[20:12:23] [localSession-7-2/INFO]: [Geyser-Spigot] juhbuh3538 (logged in as: juhbuh3538) has connected to the Java server
+[20:12:23] [Server thread/INFO]: [floodgate] Floodgate player logged in as .juhbuh3538 joined (UUID: 00000000-0000-0000-0009-01f0df70788d)
+[20:12:23] [Server thread/INFO]: System chat: .juhbuh3538 joined the game
+[20:12:23] [Server thread/INFO]: .juhbuh3538[/143.59.232.244:0] logged in with entity id 134171 at ([world]-252.71867, 90.9968, 321.71994)
+[20:14:44] [GeyserServerChild-4-1/INFO]: [Geyser-Spigot] juhbuh3538 has disconnected from the Java server because of §rBedrock client timed out
+[20:14:44] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .juhbuh3538 disconnected
+[20:14:44] [Server thread/INFO]: .juhbuh3538 lost connection: Disconnected
+[20:14:44] [Server thread/INFO]: System chat: .juhbuh3538 left the game
+[20:15:08] [GeyserServerChild-4-2/INFO]: [Geyser-Spigot] Player connected with username juhbuh3538 (2193)
+[20:15:08] [localSession-7-3/INFO]: [Geyser-Spigot] juhbuh3538 (logged in as: juhbuh3538) has connected to the Java server
+[20:15:10] [Server thread/INFO]: [floodgate] Floodgate player logged in as .juhbuh3538 joined (UUID: 00000000-0000-0000-0009-01f0df70788d)
+[20:15:10] [Server thread/INFO]: System chat: .juhbuh3538 joined the game
+[20:15:10] [Server thread/INFO]: .juhbuh3538[/143.59.232.244:0] logged in with entity id 134630 at ([world]-251.25375, 83.0, 336.80276)
+[20:18:23] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .juhbuh3538 disconnected
+[20:18:23] [GeyserServerChild-4-2/INFO]: [Geyser-Spigot] juhbuh3538 has disconnected from the Java server because of §rBedrock client timed out
+[20:18:23] [Server thread/INFO]: .juhbuh3538 lost connection: Disconnected
+[20:18:23] [Server thread/INFO]: System chat: .juhbuh3538 left the game
+[20:18:30] [GeyserServerChild-4-3/INFO]: [Geyser-Spigot] Player connected with username juhbuh3538 (2193)
+[20:18:30] [localSession-7-4/INFO]: [Geyser-Spigot] juhbuh3538 (logged in as: juhbuh3538) has connected to the Java server
+[20:18:30] [Server thread/INFO]: [floodgate] Floodgate player logged in as .juhbuh3538 joined (UUID: 00000000-0000-0000-0009-01f0df70788d)
+[20:18:30] [Server thread/INFO]: System chat: .juhbuh3538 joined the game
+[20:18:30] [Server thread/INFO]: .juhbuh3538[/143.59.232.244:0] logged in with entity id 135363 at ([world]-236.63016, 86.32133, 325.01498)
+[20:24:12] [Server thread/WARN]: .juhbuh3538 moved too quickly! -0.44700000000000273,7.946309999999997,6.11151000000001
+[20:26:00] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .juhbuh3538 disconnected
+[20:26:00] [GeyserServerChild-4-3/INFO]: [Geyser-Spigot] juhbuh3538 has disconnected from the Java server because of §rBedrock client disconnected
+[20:26:00] [Server thread/INFO]: .juhbuh3538 lost connection: Disconnected
+[20:26:00] [Server thread/INFO]: System chat: .juhbuh3538 left the game
+[20:26:15] [GeyserServerChild-4-4/INFO]: [Geyser-Spigot] Player connected with username juhbuh3538 (2193)
+[20:26:15] [localSession-7-1/INFO]: [Geyser-Spigot] juhbuh3538 (logged in as: juhbuh3538) has connected to the Java server
+[20:26:16] [Server thread/INFO]: [floodgate] Floodgate player logged in as .juhbuh3538 joined (UUID: 00000000-0000-0000-0009-01f0df70788d)
+[20:26:16] [Server thread/INFO]: System chat: .juhbuh3538 joined the game
+[20:26:16] [Server thread/INFO]: .juhbuh3538[/143.59.232.244:0] logged in with entity id 136831 at ([world]-253.72487, 79.94631, 293.61267)
+[20:29:43] [Server thread/INFO]: .juhbuh3538 lost connection: You are sending too many packets!
+[20:29:43] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .juhbuh3538 disconnected
+[20:29:43] [localSession-7-1/INFO]: [Geyser-Spigot] juhbuh3538 has disconnected from the Java server because of §rYou are sending too many packets!
+[20:29:43] [Server thread/INFO]: System chat: .juhbuh3538 left the game.
+[20:30:43] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[20:40:48] [Geyser LegacyPingPassthrough Thread/WARN]: [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+java.net.SocketException: Network is unreachable
+	at java.base/sun.nio.ch.Net.connect0(Native Method)
+	at java.base/sun.nio.ch.Net.connect(Net.java:546)
+	at java.base/sun.nio.ch.Net.connect(Net.java:535)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:585)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:284)
+	at java.base/java.net.Socket.connect(Socket.java:659)
+	at org.geysermc.geyser.ping.GeyserLegacyPingPassthrough.run(GeyserLegacyPingPassthrough.java:101)
+[20:40:51] [Geyser LegacyPingPassthrough Thread/WARN]: [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+java.net.SocketException: Network is unreachable
+	at java.base/sun.nio.ch.Net.connect0(Native Method)
+	at java.base/sun.nio.ch.Net.connect(Net.java:546)
+	at java.base/sun.nio.ch.Net.connect(Net.java:535)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:585)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:284)
+	at java.base/java.net.Socket.connect(Socket.java:659)
+	at org.geysermc.geyser.ping.GeyserLegacyPingPassthrough.run(GeyserLegacyPingPassthrough.java:101)
+[20:40:54] [Geyser LegacyPingPassthrough Thread/WARN]: [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+java.net.SocketException: Network is unreachable
+	at java.base/sun.nio.ch.Net.connect0(Native Method)
+	at java.base/sun.nio.ch.Net.connect(Net.java:546)
+	at java.base/sun.nio.ch.Net.connect(Net.java:535)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:585)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:284)
+	at java.base/java.net.Socket.connect(Socket.java:659)
+	at org.geysermc.geyser.ping.GeyserLegacyPingPassthrough.run(GeyserLegacyPingPassthrough.java:101)
+[20:40:57] [Geyser LegacyPingPassthrough Thread/WARN]: [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+java.net.SocketException: Network is unreachable
+	at java.base/sun.nio.ch.Net.connect0(Native Method)
+	at java.base/sun.nio.ch.Net.connect(Net.java:546)
+	at java.base/sun.nio.ch.Net.connect(Net.java:535)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:585)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:284)
+	at java.base/java.net.Socket.connect(Socket.java:659)
+	at org.geysermc.geyser.ping.GeyserLegacyPingPassthrough.run(GeyserLegacyPingPassthrough.java:101)
+[20:41:00] [Geyser LegacyPingPassthrough Thread/WARN]: [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+java.net.SocketException: Network is unreachable
+	at java.base/sun.nio.ch.Net.connect0(Native Method)
+	at java.base/sun.nio.ch.Net.connect(Net.java:546)
+	at java.base/sun.nio.ch.Net.connect(Net.java:535)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:585)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:284)
+	at java.base/java.net.Socket.connect(Socket.java:659)
+	at org.geysermc.geyser.ping.GeyserLegacyPingPassthrough.run(GeyserLegacyPingPassthrough.java:101)
+[20:41:03] [Geyser LegacyPingPassthrough Thread/WARN]: [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+java.net.SocketException: Network is unreachable
+	at java.base/sun.nio.ch.Net.connect0(Native Method)
+	at java.base/sun.nio.ch.Net.connect(Net.java:546)
+	at java.base/sun.nio.ch.Net.connect(Net.java:535)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:585)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:284)
+	at java.base/java.net.Socket.connect(Socket.java:659)
+	at org.geysermc.geyser.ping.GeyserLegacyPingPassthrough.run(GeyserLegacyPingPassthrough.java:101)
+[20:41:06] [Geyser LegacyPingPassthrough Thread/WARN]: [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+java.net.SocketException: Network is unreachable
+	at java.base/sun.nio.ch.Net.connect0(Native Method)
+	at java.base/sun.nio.ch.Net.connect(Net.java:546)
+	at java.base/sun.nio.ch.Net.connect(Net.java:535)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:585)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:284)
+	at java.base/java.net.Socket.connect(Socket.java:659)
+	at org.geysermc.geyser.ping.GeyserLegacyPingPassthrough.run(GeyserLegacyPingPassthrough.java:101)
+[20:41:09] [Geyser LegacyPingPassthrough Thread/WARN]: [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+java.net.SocketException: Network is unreachable
+	at java.base/sun.nio.ch.Net.connect0(Native Method)
+	at java.base/sun.nio.ch.Net.connect(Net.java:546)
+	at java.base/sun.nio.ch.Net.connect(Net.java:535)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:585)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:284)
+	at java.base/java.net.Socket.connect(Socket.java:659)
+	at org.geysermc.geyser.ping.GeyserLegacyPingPassthrough.run(GeyserLegacyPingPassthrough.java:101)
+[20:41:12] [Geyser LegacyPingPassthrough Thread/WARN]: [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+java.net.SocketException: Network is unreachable
+	at java.base/sun.nio.ch.Net.connect0(Native Method)
+	at java.base/sun.nio.ch.Net.connect(Net.java:546)
+	at java.base/sun.nio.ch.Net.connect(Net.java:535)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:585)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:284)
+	at java.base/java.net.Socket.connect(Socket.java:659)
+	at org.geysermc.geyser.ping.GeyserLegacyPingPassthrough.run(GeyserLegacyPingPassthrough.java:101)
+[20:41:15] [Geyser LegacyPingPassthrough Thread/WARN]: [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+java.net.SocketException: Network is unreachable
+	at java.base/sun.nio.ch.Net.connect0(Native Method)
+	at java.base/sun.nio.ch.Net.connect(Net.java:546)
+	at java.base/sun.nio.ch.Net.connect(Net.java:535)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:585)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:284)
+	at java.base/java.net.Socket.connect(Socket.java:659)
+	at org.geysermc.geyser.ping.GeyserLegacyPingPassthrough.run(GeyserLegacyPingPassthrough.java:101)
+[20:41:18] [Geyser LegacyPingPassthrough Thread/WARN]: [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+java.net.SocketException: Network is unreachable
+	at java.base/sun.nio.ch.Net.connect0(Native Method)
+	at java.base/sun.nio.ch.Net.connect(Net.java:546)
+	at java.base/sun.nio.ch.Net.connect(Net.java:535)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:585)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:284)
+	at java.base/java.net.Socket.connect(Socket.java:659)
+	at org.geysermc.geyser.ping.GeyserLegacyPingPassthrough.run(GeyserLegacyPingPassthrough.java:101)
+[20:41:21] [Geyser LegacyPingPassthrough Thread/WARN]: [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+java.net.SocketException: Network is unreachable
+	at java.base/sun.nio.ch.Net.connect0(Native Method)
+	at java.base/sun.nio.ch.Net.connect(Net.java:546)
+	at java.base/sun.nio.ch.Net.connect(Net.java:535)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:585)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:284)
+	at java.base/java.net.Socket.connect(Socket.java:659)
+	at org.geysermc.geyser.ping.GeyserLegacyPingPassthrough.run(GeyserLegacyPingPassthrough.java:101)
+[20:41:24] [Geyser LegacyPingPassthrough Thread/WARN]: [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+java.net.SocketException: Network is unreachable
+	at java.base/sun.nio.ch.Net.connect0(Native Method)
+	at java.base/sun.nio.ch.Net.connect(Net.java:546)
+	at java.base/sun.nio.ch.Net.connect(Net.java:535)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:585)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:284)
+	at java.base/java.net.Socket.connect(Socket.java:659)
+	at org.geysermc.geyser.ping.GeyserLegacyPingPassthrough.run(GeyserLegacyPingPassthrough.java:101)
+[20:41:27] [Geyser LegacyPingPassthrough Thread/WARN]: [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+java.net.SocketException: Network is unreachable
+	at java.base/sun.nio.ch.Net.connect0(Native Method)
+	at java.base/sun.nio.ch.Net.connect(Net.java:546)
+	at java.base/sun.nio.ch.Net.connect(Net.java:535)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:585)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:284)
+	at java.base/java.net.Socket.connect(Socket.java:659)
+	at org.geysermc.geyser.ping.GeyserLegacyPingPassthrough.run(GeyserLegacyPingPassthrough.java:101)
+[20:41:30] [Geyser LegacyPingPassthrough Thread/WARN]: [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+java.net.SocketException: Network is unreachable
+	at java.base/sun.nio.ch.Net.connect0(Native Method)
+	at java.base/sun.nio.ch.Net.connect(Net.java:546)
+	at java.base/sun.nio.ch.Net.connect(Net.java:535)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:585)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:284)
+	at java.base/java.net.Socket.connect(Socket.java:659)
+	at org.geysermc.geyser.ping.GeyserLegacyPingPassthrough.run(GeyserLegacyPingPassthrough.java:101)
+[20:41:33] [Geyser LegacyPingPassthrough Thread/WARN]: [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+java.net.SocketException: Network is unreachable
+	at java.base/sun.nio.ch.Net.connect0(Native Method)
+	at java.base/sun.nio.ch.Net.connect(Net.java:546)
+	at java.base/sun.nio.ch.Net.connect(Net.java:535)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:585)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:284)
+	at java.base/java.net.Socket.connect(Socket.java:659)
+	at org.geysermc.geyser.ping.GeyserLegacyPingPassthrough.run(GeyserLegacyPingPassthrough.java:101)
+[20:41:36] [Geyser LegacyPingPassthrough Thread/WARN]: [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+java.net.SocketException: Network is unreachable
+	at java.base/sun.nio.ch.Net.connect0(Native Method)
+	at java.base/sun.nio.ch.Net.connect(Net.java:546)
+	at java.base/sun.nio.ch.Net.connect(Net.java:535)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:585)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:284)
+	at java.base/java.net.Socket.connect(Socket.java:659)
+	at org.geysermc.geyser.ping.GeyserLegacyPingPassthrough.run(GeyserLegacyPingPassthrough.java:101)
+[20:41:39] [Geyser LegacyPingPassthrough Thread/WARN]: [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+java.net.SocketException: Network is unreachable
+	at java.base/sun.nio.ch.Net.connect0(Native Method)
+	at java.base/sun.nio.ch.Net.connect(Net.java:546)
+	at java.base/sun.nio.ch.Net.connect(Net.java:535)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:585)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:284)
+	at java.base/java.net.Socket.connect(Socket.java:659)
+	at org.geysermc.geyser.ping.GeyserLegacyPingPassthrough.run(GeyserLegacyPingPassthrough.java:101)
+[20:41:42] [Geyser LegacyPingPassthrough Thread/WARN]: [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+java.net.SocketException: Network is unreachable
+	at java.base/sun.nio.ch.Net.connect0(Native Method)
+	at java.base/sun.nio.ch.Net.connect(Net.java:546)
+	at java.base/sun.nio.ch.Net.connect(Net.java:535)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:585)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:284)
+	at java.base/java.net.Socket.connect(Socket.java:659)
+	at org.geysermc.geyser.ping.GeyserLegacyPingPassthrough.run(GeyserLegacyPingPassthrough.java:101)
+[20:41:45] [Geyser LegacyPingPassthrough Thread/WARN]: [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+java.net.SocketException: Network is unreachable
+	at java.base/sun.nio.ch.Net.connect0(Native Method)
+	at java.base/sun.nio.ch.Net.connect(Net.java:546)
+	at java.base/sun.nio.ch.Net.connect(Net.java:535)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:585)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:284)
+	at java.base/java.net.Socket.connect(Socket.java:659)
+	at org.geysermc.geyser.ping.GeyserLegacyPingPassthrough.run(GeyserLegacyPingPassthrough.java:101)
+[20:41:48] [Geyser LegacyPingPassthrough Thread/WARN]: [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+java.net.SocketException: Network is unreachable
+	at java.base/sun.nio.ch.Net.connect0(Native Method)
+	at java.base/sun.nio.ch.Net.connect(Net.java:546)
+	at java.base/sun.nio.ch.Net.connect(Net.java:535)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:585)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:284)
+	at java.base/java.net.Socket.connect(Socket.java:659)
+	at org.geysermc.geyser.ping.GeyserLegacyPingPassthrough.run(GeyserLegacyPingPassthrough.java:101)
+[20:41:51] [Geyser LegacyPingPassthrough Thread/WARN]: [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+java.net.SocketException: Network is unreachable
+	at java.base/sun.nio.ch.Net.connect0(Native Method)
+	at java.base/sun.nio.ch.Net.connect(Net.java:546)
+	at java.base/sun.nio.ch.Net.connect(Net.java:535)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:585)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:284)
+	at java.base/java.net.Socket.connect(Socket.java:659)
+	at org.geysermc.geyser.ping.GeyserLegacyPingPassthrough.run(GeyserLegacyPingPassthrough.java:101)
+[20:41:54] [Geyser LegacyPingPassthrough Thread/WARN]: [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+java.net.SocketException: Network is unreachable
+	at java.base/sun.nio.ch.Net.connect0(Native Method)
+	at java.base/sun.nio.ch.Net.connect(Net.java:546)
+	at java.base/sun.nio.ch.Net.connect(Net.java:535)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:585)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:284)
+	at java.base/java.net.Socket.connect(Socket.java:659)
+	at org.geysermc.geyser.ping.GeyserLegacyPingPassthrough.run(GeyserLegacyPingPassthrough.java:101)
+[20:42:04] [GeyserServerChild-4-4/INFO]: [Geyser-Spigot] Player connected with username Pugacorn200 (2193)
+[20:42:04] [localSession-7-2/INFO]: [Geyser-Spigot] Pugacorn200 (logged in as: Pugacorn200) has connected to the Java server
+[20:42:05] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Pugacorn200 joined (UUID: 00000000-0000-0000-0009-01fd7c947435)
+[20:42:05] [Server thread/INFO]: System chat: .Pugacorn200 joined the game
+[20:42:05] [Server thread/INFO]: .Pugacorn200[/99.42.6.184:0] logged in with entity id 137528 at ([world]222.17847, -34.76847682745754, 186.96524)
+[20:42:05] [Geyser player thread-5-1/WARN]: [Geyser-Spigot] Unimplemented slot display type for output: CompositeSlotDisplay[contents=[ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=2, dataComponentsPatch=null)], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=2, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.ocean_monument_map, fallback=26.3 Ocean Monument Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[989.0], flags=[], strings=[minecraft:ocean_monument_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1239i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=2, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.woodland_mansion_map, fallback=26.3 Woodland Mansion Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[990.0], flags=[], strings=[minecraft:woodland_mansion_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1240i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=2, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.buried_trial_chambers_map, fallback=26.3 Buried Trial Chambers Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[991.0], flags=[], strings=[minecraft:buried_trial_chambers_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1241i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=2, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.jungle_pyramid_map, fallback=26.3 Jungle Pyramid Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[992.0], flags=[], strings=[minecraft:jungle_pyramid_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1242i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=2, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.swamp_hut_map, fallback=26.3 Swamp Hut Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[993.0], flags=[], strings=[minecraft:swamp_hut_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1243i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=2, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.desert_village_map, fallback=26.3 Desert Village Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[975.0], flags=[], strings=[minecraft:desert_village_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1244i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=2, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.plains_village_map, fallback=26.3 Plains Village Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[976.0], flags=[], strings=[minecraft:plains_village_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1245i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=2, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.savanna_village_map, fallback=26.3 Savanna Village Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[977.0], flags=[], strings=[minecraft:savanna_village_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1246i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=2, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.snowy_village_map, fallback=26.3 Snowy Village Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[978.0], flags=[], strings=[minecraft:snowy_village_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1247i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=2, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.taiga_village_map, fallback=26.3 Taiga Village Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[979.0], flags=[], strings=[minecraft:taiga_village_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1248i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=2, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.buried_treasure_map, fallback=26.3 Buried Treasure Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[980.0], flags=[], strings=[minecraft:buried_treasure_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1249i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=2, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.buried_ancient_city_map, fallback=26.3 Buried Ancient City Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[986.0], flags=[], strings=[minecraft:buried_ancient_city_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1250i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=2, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.buried_mineshaft_map, fallback=26.3 Buried Mineshaft Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[987.0], flags=[], strings=[minecraft:buried_mineshaft_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1251i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=2, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.desert_pyramid_map, fallback=26.3 Desert Pyramid Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[983.0], flags=[], strings=[minecraft:desert_pyramid_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1252i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=2, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.abandoned_camp_map, fallback=26.3 Abandoned Camp Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[988.0], flags=[], strings=[minecraft:abandoned_camp_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1253i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=2, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.warm_ocean_ruins_map, fallback=26.3 Warm Ocean Ruins Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[985.0], flags=[], strings=[minecraft:warm_ocean_ruins_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1254i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))]]]
+[20:42:05] [Geyser player thread-5-1/WARN]: [Geyser-Spigot] Unimplemented slot display type for output: CompositeSlotDisplay[contents=[ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=3, dataComponentsPatch=null)], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=3, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.ocean_monument_map, fallback=26.3 Ocean Monument Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[989.0], flags=[], strings=[minecraft:ocean_monument_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1239i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=3, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.woodland_mansion_map, fallback=26.3 Woodland Mansion Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[990.0], flags=[], strings=[minecraft:woodland_mansion_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1240i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=3, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.buried_trial_chambers_map, fallback=26.3 Buried Trial Chambers Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[991.0], flags=[], strings=[minecraft:buried_trial_chambers_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1241i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=3, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.jungle_pyramid_map, fallback=26.3 Jungle Pyramid Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[992.0], flags=[], strings=[minecraft:jungle_pyramid_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1242i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=3, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.swamp_hut_map, fallback=26.3 Swamp Hut Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[993.0], flags=[], strings=[minecraft:swamp_hut_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1243i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=3, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.desert_village_map, fallback=26.3 Desert Village Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[975.0], flags=[], strings=[minecraft:desert_village_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1244i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=3, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.plains_village_map, fallback=26.3 Plains Village Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[976.0], flags=[], strings=[minecraft:plains_village_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1245i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=3, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.savanna_village_map, fallback=26.3 Savanna Village Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[977.0], flags=[], strings=[minecraft:savanna_village_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1246i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=3, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.snowy_village_map, fallback=26.3 Snowy Village Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[978.0], flags=[], strings=[minecraft:snowy_village_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1247i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=3, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.taiga_village_map, fallback=26.3 Taiga Village Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[979.0], flags=[], strings=[minecraft:taiga_village_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1248i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=3, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.buried_treasure_map, fallback=26.3 Buried Treasure Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[980.0], flags=[], strings=[minecraft:buried_treasure_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1249i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=3, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.buried_ancient_city_map, fallback=26.3 Buried Ancient City Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[986.0], flags=[], strings=[minecraft:buried_ancient_city_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1250i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=3, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.buried_mineshaft_map, fallback=26.3 Buried Mineshaft Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[987.0], flags=[], strings=[minecraft:buried_mineshaft_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1251i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=3, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.desert_pyramid_map, fallback=26.3 Desert Pyramid Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[983.0], flags=[], strings=[minecraft:desert_pyramid_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1252i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=3, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.abandoned_camp_map, fallback=26.3 Abandoned Camp Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[988.0], flags=[], strings=[minecraft:abandoned_camp_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1253i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=3, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.warm_ocean_ruins_map, fallback=26.3 Warm Ocean Ruins Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[985.0], flags=[], strings=[minecraft:warm_ocean_ruins_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1254i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))]]]
+[20:42:05] [Geyser player thread-5-1/WARN]: [Geyser-Spigot] Unimplemented slot display type for output: CompositeSlotDisplay[contents=[ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=4, dataComponentsPatch=null)], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=4, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.ocean_monument_map, fallback=26.3 Ocean Monument Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[989.0], flags=[], strings=[minecraft:ocean_monument_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1239i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=4, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.woodland_mansion_map, fallback=26.3 Woodland Mansion Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[990.0], flags=[], strings=[minecraft:woodland_mansion_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1240i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=4, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.buried_trial_chambers_map, fallback=26.3 Buried Trial Chambers Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[991.0], flags=[], strings=[minecraft:buried_trial_chambers_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1241i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=4, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.jungle_pyramid_map, fallback=26.3 Jungle Pyramid Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[992.0], flags=[], strings=[minecraft:jungle_pyramid_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1242i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=4, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.swamp_hut_map, fallback=26.3 Swamp Hut Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[993.0], flags=[], strings=[minecraft:swamp_hut_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1243i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=4, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.desert_village_map, fallback=26.3 Desert Village Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[975.0], flags=[], strings=[minecraft:desert_village_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1244i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=4, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.plains_village_map, fallback=26.3 Plains Village Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[976.0], flags=[], strings=[minecraft:plains_village_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1245i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=4, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.savanna_village_map, fallback=26.3 Savanna Village Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[977.0], flags=[], strings=[minecraft:savanna_village_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1246i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=4, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.snowy_village_map, fallback=26.3 Snowy Village Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[978.0], flags=[], strings=[minecraft:snowy_village_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1247i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=4, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.taiga_village_map, fallback=26.3 Taiga Village Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[979.0], flags=[], strings=[minecraft:taiga_village_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1248i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=4, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.buried_treasure_map, fallback=26.3 Buried Treasure Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[980.0], flags=[], strings=[minecraft:buried_treasure_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1249i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=4, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.buried_ancient_city_map, fallback=26.3 Buried Ancient City Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[986.0], flags=[], strings=[minecraft:buried_ancient_city_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1250i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=4, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.buried_mineshaft_map, fallback=26.3 Buried Mineshaft Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[987.0], flags=[], strings=[minecraft:buried_mineshaft_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1251i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=4, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.desert_pyramid_map, fallback=26.3 Desert Pyramid Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[983.0], flags=[], strings=[minecraft:desert_pyramid_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1252i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=4, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.abandoned_camp_map, fallback=26.3 Abandoned Camp Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[988.0], flags=[], strings=[minecraft:abandoned_camp_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1253i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=4, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.warm_ocean_ruins_map, fallback=26.3 Warm Ocean Ruins Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[985.0], flags=[], strings=[minecraft:warm_ocean_ruins_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1254i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))]]]
+[20:42:05] [Geyser player thread-5-1/WARN]: [Geyser-Spigot] Unimplemented slot display type for output: CompositeSlotDisplay[contents=[ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=5, dataComponentsPatch=null)], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=5, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.ocean_monument_map, fallback=26.3 Ocean Monument Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[989.0], flags=[], strings=[minecraft:ocean_monument_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1239i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=5, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.woodland_mansion_map, fallback=26.3 Woodland Mansion Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[990.0], flags=[], strings=[minecraft:woodland_mansion_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1240i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=5, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.buried_trial_chambers_map, fallback=26.3 Buried Trial Chambers Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[991.0], flags=[], strings=[minecraft:buried_trial_chambers_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1241i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=5, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.jungle_pyramid_map, fallback=26.3 Jungle Pyramid Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[992.0], flags=[], strings=[minecraft:jungle_pyramid_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1242i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=5, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.swamp_hut_map, fallback=26.3 Swamp Hut Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[993.0], flags=[], strings=[minecraft:swamp_hut_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1243i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=5, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.desert_village_map, fallback=26.3 Desert Village Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[975.0], flags=[], strings=[minecraft:desert_village_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1244i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=5, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.plains_village_map, fallback=26.3 Plains Village Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[976.0], flags=[], strings=[minecraft:plains_village_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1245i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=5, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.savanna_village_map, fallback=26.3 Savanna Village Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[977.0], flags=[], strings=[minecraft:savanna_village_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1246i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=5, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.snowy_village_map, fallback=26.3 Snowy Village Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[978.0], flags=[], strings=[minecraft:snowy_village_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1247i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=5, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.taiga_village_map, fallback=26.3 Taiga Village Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[979.0], flags=[], strings=[minecraft:taiga_village_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1248i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=5, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.buried_treasure_map, fallback=26.3 Buried Treasure Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[980.0], flags=[], strings=[minecraft:buried_treasure_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1249i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=5, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.buried_ancient_city_map, fallback=26.3 Buried Ancient City Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[986.0], flags=[], strings=[minecraft:buried_ancient_city_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1250i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=5, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.buried_mineshaft_map, fallback=26.3 Buried Mineshaft Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[987.0], flags=[], strings=[minecraft:buried_mineshaft_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1251i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=5, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.desert_pyramid_map, fallback=26.3 Desert Pyramid Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[983.0], flags=[], strings=[minecraft:desert_pyramid_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1252i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=5, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.abandoned_camp_map, fallback=26.3 Abandoned Camp Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[988.0], flags=[], strings=[minecraft:abandoned_camp_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1253i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=5, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.warm_ocean_ruins_map, fallback=26.3 Warm Ocean Ruins Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[985.0], flags=[], strings=[minecraft:warm_ocean_ruins_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1254i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))]]]
+[20:42:05] [Geyser player thread-5-1/WARN]: [Geyser-Spigot] Unimplemented slot display type for output: CompositeSlotDisplay[contents=[ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=6, dataComponentsPatch=null)], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=6, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.ocean_monument_map, fallback=26.3 Ocean Monument Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[989.0], flags=[], strings=[minecraft:ocean_monument_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1239i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=6, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.woodland_mansion_map, fallback=26.3 Woodland Mansion Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[990.0], flags=[], strings=[minecraft:woodland_mansion_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1240i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=6, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.buried_trial_chambers_map, fallback=26.3 Buried Trial Chambers Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[991.0], flags=[], strings=[minecraft:buried_trial_chambers_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1241i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=6, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.jungle_pyramid_map, fallback=26.3 Jungle Pyramid Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[992.0], flags=[], strings=[minecraft:jungle_pyramid_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1242i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=6, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.swamp_hut_map, fallback=26.3 Swamp Hut Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[993.0], flags=[], strings=[minecraft:swamp_hut_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1243i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=6, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.desert_village_map, fallback=26.3 Desert Village Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[975.0], flags=[], strings=[minecraft:desert_village_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1244i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=6, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.plains_village_map, fallback=26.3 Plains Village Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[976.0], flags=[], strings=[minecraft:plains_village_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1245i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=6, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.savanna_village_map, fallback=26.3 Savanna Village Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[977.0], flags=[], strings=[minecraft:savanna_village_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1246i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=6, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.snowy_village_map, fallback=26.3 Snowy Village Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[978.0], flags=[], strings=[minecraft:snowy_village_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1247i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=6, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.taiga_village_map, fallback=26.3 Taiga Village Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[979.0], flags=[], strings=[minecraft:taiga_village_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1248i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=6, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.buried_treasure_map, fallback=26.3 Buried Treasure Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[980.0], flags=[], strings=[minecraft:buried_treasure_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1249i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=6, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.buried_ancient_city_map, fallback=26.3 Buried Ancient City Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[986.0], flags=[], strings=[minecraft:buried_ancient_city_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1250i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=6, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.buried_mineshaft_map, fallback=26.3 Buried Mineshaft Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[987.0], flags=[], strings=[minecraft:buried_mineshaft_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1251i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=6, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.desert_pyramid_map, fallback=26.3 Desert Pyramid Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[983.0], flags=[], strings=[minecraft:desert_pyramid_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1252i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=6, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.abandoned_camp_map, fallback=26.3 Abandoned Camp Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[988.0], flags=[], strings=[minecraft:abandoned_camp_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1253i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=6, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.warm_ocean_ruins_map, fallback=26.3 Warm Ocean Ruins Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[985.0], flags=[], strings=[minecraft:warm_ocean_ruins_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1254i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))]]]
+[20:42:05] [Geyser player thread-5-1/WARN]: [Geyser-Spigot] Unimplemented slot display type for output: CompositeSlotDisplay[contents=[ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=7, dataComponentsPatch=null)], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=7, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.ocean_monument_map, fallback=26.3 Ocean Monument Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[989.0], flags=[], strings=[minecraft:ocean_monument_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1239i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=7, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.woodland_mansion_map, fallback=26.3 Woodland Mansion Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[990.0], flags=[], strings=[minecraft:woodland_mansion_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1240i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=7, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.buried_trial_chambers_map, fallback=26.3 Buried Trial Chambers Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[991.0], flags=[], strings=[minecraft:buried_trial_chambers_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1241i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=7, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.jungle_pyramid_map, fallback=26.3 Jungle Pyramid Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[992.0], flags=[], strings=[minecraft:jungle_pyramid_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1242i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=7, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.swamp_hut_map, fallback=26.3 Swamp Hut Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[993.0], flags=[], strings=[minecraft:swamp_hut_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1243i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=7, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.desert_village_map, fallback=26.3 Desert Village Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[975.0], flags=[], strings=[minecraft:desert_village_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1244i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=7, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.plains_village_map, fallback=26.3 Plains Village Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[976.0], flags=[], strings=[minecraft:plains_village_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1245i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=7, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.savanna_village_map, fallback=26.3 Savanna Village Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[977.0], flags=[], strings=[minecraft:savanna_village_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1246i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=7, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.snowy_village_map, fallback=26.3 Snowy Village Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[978.0], flags=[], strings=[minecraft:snowy_village_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1247i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=7, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.taiga_village_map, fallback=26.3 Taiga Village Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[979.0], flags=[], strings=[minecraft:taiga_village_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1248i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=7, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.buried_treasure_map, fallback=26.3 Buried Treasure Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[980.0], flags=[], strings=[minecraft:buried_treasure_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1249i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=7, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.buried_ancient_city_map, fallback=26.3 Buried Ancient City Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[986.0], flags=[], strings=[minecraft:buried_ancient_city_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1250i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=7, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.buried_mineshaft_map, fallback=26.3 Buried Mineshaft Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[987.0], flags=[], strings=[minecraft:buried_mineshaft_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1251i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=7, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.desert_pyramid_map, fallback=26.3 Desert Pyramid Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[983.0], flags=[], strings=[minecraft:desert_pyramid_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1252i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=7, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.abandoned_camp_map, fallback=26.3 Abandoned Camp Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[988.0], flags=[], strings=[minecraft:abandoned_camp_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1253i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=7, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.warm_ocean_ruins_map, fallback=26.3 Warm Ocean Ruins Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[985.0], flags=[], strings=[minecraft:warm_ocean_ruins_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1254i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))]]]
+[20:42:05] [Geyser player thread-5-1/WARN]: [Geyser-Spigot] Unimplemented slot display type for output: CompositeSlotDisplay[contents=[ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=8, dataComponentsPatch=null)], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=8, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.ocean_monument_map, fallback=26.3 Ocean Monument Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[989.0], flags=[], strings=[minecraft:ocean_monument_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1239i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=8, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.woodland_mansion_map, fallback=26.3 Woodland Mansion Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[990.0], flags=[], strings=[minecraft:woodland_mansion_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1240i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=8, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.buried_trial_chambers_map, fallback=26.3 Buried Trial Chambers Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[991.0], flags=[], strings=[minecraft:buried_trial_chambers_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1241i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=8, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.jungle_pyramid_map, fallback=26.3 Jungle Pyramid Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[992.0], flags=[], strings=[minecraft:jungle_pyramid_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1242i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=8, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.swamp_hut_map, fallback=26.3 Swamp Hut Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[993.0], flags=[], strings=[minecraft:swamp_hut_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1243i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=8, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.desert_village_map, fallback=26.3 Desert Village Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[975.0], flags=[], strings=[minecraft:desert_village_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1244i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=8, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.plains_village_map, fallback=26.3 Plains Village Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[976.0], flags=[], strings=[minecraft:plains_village_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1245i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=8, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.savanna_village_map, fallback=26.3 Savanna Village Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[977.0], flags=[], strings=[minecraft:savanna_village_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1246i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=8, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.snowy_village_map, fallback=26.3 Snowy Village Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[978.0], flags=[], strings=[minecraft:snowy_village_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1247i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=8, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.taiga_village_map, fallback=26.3 Taiga Village Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[979.0], flags=[], strings=[minecraft:taiga_village_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1248i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=8, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.buried_treasure_map, fallback=26.3 Buried Treasure Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[980.0], flags=[], strings=[minecraft:buried_treasure_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1249i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=8, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.buried_ancient_city_map, fallback=26.3 Buried Ancient City Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[986.0], flags=[], strings=[minecraft:buried_ancient_city_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1250i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=8, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.buried_mineshaft_map, fallback=26.3 Buried Mineshaft Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[987.0], flags=[], strings=[minecraft:buried_mineshaft_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1251i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=8, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.desert_pyramid_map, fallback=26.3 Desert Pyramid Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[983.0], flags=[], strings=[minecraft:desert_pyramid_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1252i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=8, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.abandoned_camp_map, fallback=26.3 Abandoned Camp Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[988.0], flags=[], strings=[minecraft:abandoned_camp_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1253i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=8, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.warm_ocean_ruins_map, fallback=26.3 Warm Ocean Ruins Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[985.0], flags=[], strings=[minecraft:warm_ocean_ruins_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1254i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))]]]
+[20:42:05] [Geyser player thread-5-1/WARN]: [Geyser-Spigot] Unimplemented slot display type for output: CompositeSlotDisplay[contents=[ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=9, dataComponentsPatch=null)], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=9, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.ocean_monument_map, fallback=26.3 Ocean Monument Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[989.0], flags=[], strings=[minecraft:ocean_monument_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1239i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=9, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.woodland_mansion_map, fallback=26.3 Woodland Mansion Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[990.0], flags=[], strings=[minecraft:woodland_mansion_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1240i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=9, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.buried_trial_chambers_map, fallback=26.3 Buried Trial Chambers Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[991.0], flags=[], strings=[minecraft:buried_trial_chambers_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1241i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=9, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.jungle_pyramid_map, fallback=26.3 Jungle Pyramid Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[992.0], flags=[], strings=[minecraft:jungle_pyramid_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1242i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=9, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.swamp_hut_map, fallback=26.3 Swamp Hut Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[993.0], flags=[], strings=[minecraft:swamp_hut_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1243i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=9, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.desert_village_map, fallback=26.3 Desert Village Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[975.0], flags=[], strings=[minecraft:desert_village_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1244i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=9, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.plains_village_map, fallback=26.3 Plains Village Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[976.0], flags=[], strings=[minecraft:plains_village_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1245i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=9, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.savanna_village_map, fallback=26.3 Savanna Village Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[977.0], flags=[], strings=[minecraft:savanna_village_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1246i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=9, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.snowy_village_map, fallback=26.3 Snowy Village Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[978.0], flags=[], strings=[minecraft:snowy_village_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1247i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=9, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.taiga_village_map, fallback=26.3 Taiga Village Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[979.0], flags=[], strings=[minecraft:taiga_village_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1248i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=9, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.buried_treasure_map, fallback=26.3 Buried Treasure Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[980.0], flags=[], strings=[minecraft:buried_treasure_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1249i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=9, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.buried_ancient_city_map, fallback=26.3 Buried Ancient City Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[986.0], flags=[], strings=[minecraft:buried_ancient_city_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1250i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=9, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.buried_mineshaft_map, fallback=26.3 Buried Mineshaft Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[987.0], flags=[], strings=[minecraft:buried_mineshaft_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1251i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=9, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.desert_pyramid_map, fallback=26.3 Desert Pyramid Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[983.0], flags=[], strings=[minecraft:desert_pyramid_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1252i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=9, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.abandoned_camp_map, fallback=26.3 Abandoned Camp Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[988.0], flags=[], strings=[minecraft:abandoned_camp_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1253i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))], ItemStackSlotDisplay[itemStack=ItemStack(id=1133, amount=9, dataComponentsPatch=DataComponents(dataComponents={DataComponentType(id=6 , key=minecraft:custom_name)=DataComponent(type=DataComponentType(id=6 , key=minecraft:custom_name), value=TranslatableComponentImpl[children=[], style=StyleImpl{font=null, color=white, shadowColor=null, decorations=DecorationMap{obfuscated=not_set, bold=not_set, strikethrough=not_set, underlined=not_set, italic=false}, clickEvent=null, hoverEvent=null, insertion=null}, key=vb.item.warm_ocean_ruins_map, fallback=26.3 Warm Ocean Ruins Map, args=[]]), DataComponentType(id=17 , key=minecraft:custom_model_data)=DataComponent(type=DataComponentType(id=17 , key=minecraft:custom_model_data), value=CustomModelData[floats=[985.0], flags=[], strings=[minecraft:warm_ocean_ruins_map], colors=[]]), DataComponentType(id=0 , key=minecraft:custom_data)=DataComponent(type=DataComponentType(id=0 , key=minecraft:custom_data), value={
+  "VV|custom_data": 1b,
+  "VB|Protocol26_3To26_2|id": 1254i,
+  "VB|injected_cmd": 1b,
+  "VB|Protocol26_3To26_2|added_custom_model_data": 1b,
+  "VB|Protocol26_3To26_2|added_custom_name": 1b
+})}))]]]
+[20:42:15] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .Pugacorn200 disconnected
+[20:42:15] [GeyserServerChild-4-4/INFO]: [Geyser-Spigot] Pugacorn200 has disconnected from the Java server because of §rBedrock client timed out
+[20:42:15] [Server thread/INFO]: .Pugacorn200 lost connection: Disconnected
+[20:42:15] [Server thread/INFO]: System chat: .Pugacorn200 left the game
+[20:42:42] [User Authenticator #26/INFO]: UUID of player DJdrowsydrawers is 75c32407-6783-431b-aa56-6db6eebd48ba
+[20:42:43] [Server thread/INFO]: System chat: DJdrowsydrawers joined the game
+[20:42:43] [Server thread/INFO]: DJdrowsydrawers[/99.42.6.184:58117] logged in with entity id 137902 at ([world]18.69414652166766, 57.0, 127.95114470660285)
+[20:43:49] [GeyserServerChild-4-1/INFO]: [Geyser-Spigot] Player connected with username Snow Leopard846 (2193)
+[20:43:49] [localSession-7-3/INFO]: [Geyser-Spigot] Snow Leopard846 (logged in as: Snow_Leopard846) has connected to the Java server
+[20:43:49] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Snow_Leopard846 joined (UUID: 00000000-0000-0000-0009-01fa79f613f5)
+[20:43:49] [Server thread/INFO]: System chat: .Snow_Leopard846 joined the game
+[20:43:49] [Server thread/INFO]: .Snow_Leopard846[/108.188.242.111:0] logged in with entity id 139112 at ([world]-12.5, 112.0, 4.5)
+[20:56:38] [localSession-7-4/INFO]: [Geyser-Spigot] juhbuh3538 (logged in as: juhbuh3538) has connected to the Java server
+[20:56:38] [GeyserServerChild-4-2/INFO]: [Geyser-Spigot] Player connected with username juhbuh3538 (2193)
+[20:56:38] [Server thread/INFO]: [floodgate] Floodgate player logged in as .juhbuh3538 joined (UUID: 00000000-0000-0000-0009-01f0df70788d)
+[20:56:38] [Server thread/INFO]: System chat: .juhbuh3538 joined the game
+[20:56:38] [Server thread/INFO]: .juhbuh3538[/143.59.232.244:0] logged in with entity id 143683 at ([world]-246.86154, 89.0, 340.56094)
+[21:17:01] [Server thread/WARN]: DJdrowsydrawers moved wrongly!
+[21:24:55] [Server thread/INFO]: DJdrowsydrawers lost connection: Disconnected
+[21:24:55] [Server thread/INFO]: System chat: DJdrowsydrawers left the game

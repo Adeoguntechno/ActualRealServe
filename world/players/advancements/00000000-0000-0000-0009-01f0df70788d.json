@@ -257,6 +257,7 @@
     "criteria": {
       "minecraft:pillager": "2026-09-10 19:58:47 -0400",
       "minecraft:skeleton": "2026-09-07 13:04:57 -0400",
+      "minecraft:enderman": "2026-09-22 19:27:21 -0400",
       "minecraft:spider": "2026-09-09 18:37:47 -0400",
       "minecraft:zombie": "2026-09-02 20:06:24 -0400",
       "minecraft:creeper": "2026-09-07 12:59:58 -0400"
@@ -3038,6 +3039,30 @@
   "minecraft:recipes/building_blocks/resin_block": {
     "criteria": {
       "has_resin_clump": "2026-09-22 18:53:15 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_mushroom": "2026-09-22 20:20:04 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_mushroom": "2026-09-22 20:20:04 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_chest_from_honeycomb": {
+    "criteria": {
+      "has_copper_chest": "2026-09-22 21:22:05 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/copper_chest": {
+    "criteria": {
+      "has_copper_chest": "2026-09-22 21:22:05 -0400"
     },
     "done": true
   },

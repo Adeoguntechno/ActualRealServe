@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:flower_forest": "2026-09-22 19:15:00 -0400",
       "minecraft:savanna_plateau": "2026-09-02 17:12:16 -0400",
       "minecraft:snowy_slopes": "2026-09-16 20:01:51 -0400",
       "minecraft:beach": "2026-09-16 19:45:25 -0400",
@@ -463,6 +464,7 @@
     "criteria": {
       "cooked_porkchop": "2026-09-02 18:01:58 -0400",
       "mutton": "2026-09-02 17:33:34 -0400",
+      "chicken": "2026-09-22 19:21:47 -0400",
       "bread": "2026-09-13 18:16:36 -0400",
       "rotten_flesh": "2026-09-08 20:51:56 -0400",
       "cooked_mutton": "2026-09-02 17:41:07 -0400",
@@ -3701,6 +3703,60 @@
   "minecraft:recipes/building_blocks/light_gray_wool_slab": {
     "criteria": {
       "has_light_gray_wool": "2026-09-22 17:26:33 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2026-09-22 19:28:17 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2026-09-22 19:28:17 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2026-09-22 19:29:19 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2026-09-22 19:29:19 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_wool_slab": {
+    "criteria": {
+      "has_gray_wool": "2026-09-22 19:31:20 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_wool_stairs": {
+    "criteria": {
+      "has_gray_wool": "2026-09-22 19:31:20 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_white_cushion": {
+    "criteria": {
+      "has_needed_dye": "2026-09-22 20:50:42 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_wool_stairs": {
+    "criteria": {
+      "has_needed_dye": "2026-09-22 20:50:42 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_wool_slab": {
+    "criteria": {
+      "has_needed_dye": "2026-09-22 20:50:42 -0400"
     },
     "done": true
   },
