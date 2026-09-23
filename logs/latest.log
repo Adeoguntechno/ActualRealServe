@@ -222,3 +222,220 @@ Caused by: java.io.FileNotFoundException: Jar does not contain plugin.yml
 [17:08:49] [Async Chat Thread - #2/INFO]: [Not Secure] <.Snow_Leopard846> funkle
 [17:09:17] [Async Chat Thread - #3/INFO]: <GARFUNCLE1234> Zane is funkle uncle
 [17:09:24] [Async Chat Thread - #2/INFO]: [Not Secure] <.Snow_Leopard846> peak
+[17:27:34] [User Authenticator #4/INFO]: UUID of player pan_dx is f4b5ec75-413d-47b4-af90-644e83fa695d
+[17:27:35] [Server thread/INFO]: System chat: pan_dx joined the game
+[17:27:35] [Server thread/INFO]: pan_dx[/35.145.1.152:3816] logged in with entity id 23592 at ([world]33.50996252950041, 66.0, 150.7458488954728)
+[17:29:14] [Async Chat Thread - #6/INFO]: <pan_dx> what is this
+[17:29:23] [Async Chat Thread - #6/INFO]: [Not Secure] <.juhbuh3538> a castle
+[17:29:27] [Async Chat Thread - #5/INFO]: <pan_dx> oh cool
+[17:30:20] [Async Chat Thread - #6/INFO]: <pan_dx> joy can i have rockets
+[17:30:32] [Async Chat Thread - #5/INFO]: [Not Secure] <.juhbuh3538> for what purpose, flying?
+[17:30:34] [Async Chat Thread - #6/INFO]: <pan_dx> yes
+[17:30:48] [Async Chat Thread - #5/INFO]: <pan_dx> thanks
+[17:30:53] [Async Chat Thread - #6/INFO]: [Not Secure] <.juhbuh3538> yeye
+[17:31:27] [Server thread/INFO]: System chat: .Snow_Leopard846 was slain by pan_dx
+[17:31:41] [Async Chat Thread - #5/INFO]: [Not Secure] <.juhbuh3538> poor weenie
+[17:31:54] [User Authenticator #5/INFO]: UUID of player mcsslf is b0903b35-a489-418e-bd7d-4a1d972603d5
+[17:31:55] [Server thread/INFO]: System chat: mcsslf joined the game
+[17:31:55] [Server thread/INFO]: mcsslf[/173.171.30.129:54010] logged in with entity id 27408 at ([world]330.2799778733489, 112.0, -871.1785003519778)
+[17:32:11] [Async Chat Thread - #6/INFO]: [Not Secure] <.Snow_Leopard846> I WILL SET UR WALMART ON FIRE
+[17:32:19] [Async Chat Thread - #5/INFO]: <pan_dx> chat gpt made it
+[17:32:21] [Async Chat Thread - #5/INFO]: [Not Secure] <.Snow_Leopard846> IF YOU KILL ME AGAIN
+[17:32:21] [Async Chat Thread - #6/INFO]: <pan_dx> go ahead
+[17:38:04] [Async Chat Thread - #8/INFO]: [Not Secure] <.Snow_Leopard846> peace
+[17:38:09] [Server thread/INFO]: System chat: .Snow_Leopard846 was slain by pan_dx
+[17:38:12] [Async Chat Thread - #7/INFO]: <pan_dx> lol
+[17:38:19] [Async Chat Thread - #8/INFO]: [Not Secure] <.juhbuh3538> allen no twin
+[17:38:32] [Async Chat Thread - #7/INFO]: <pan_dx> ill tell you when you take a heart
+[17:38:45] [Async Chat Thread - #8/INFO]: [Not Secure] <.Snow_Leopard846> yeah I realized
+[17:38:48] [Async Chat Thread - #7/INFO]: <pan_dx> lol
+[17:40:05] [Async Chat Thread - #10/INFO]: <pan_dx> dont pvp if youre not in survival
+[17:40:10] [Async Chat Thread - #10/INFO]: <pan_dx> thats lame
+[17:40:14] [Async Chat Thread - #9/INFO]: <pan_dx> you also cant kill me
+[17:40:27] [Async Chat Thread - #10/INFO]: [Not Secure] <.juhbuh3538> it was only a minor threat
+[17:40:31] [Async Chat Thread - #9/INFO]: <pan_dx> right
+[17:40:49] [Async Chat Thread - #9/INFO]: [Not Secure] <.juhbuh3538> i wasnt planning on kill
+[17:43:07] [Async Chat Thread - #11/INFO]: <pan_dx> who is garfunkle
+[17:43:20] [Async Chat Thread - #11/INFO]: [Not Secure] <.Snow_Leopard846> Zane
+[17:43:20] [Async Chat Thread - #11/INFO]: <GARFUNCLE1234> zane
+[17:44:00] [Netty Kqueue IO #0/WARN]: An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+io.netty.channel.ChannelException: setsockopt() failed: Invalid argument
+	at io.netty.channel.unix.Socket.setTcpNoDelay(Native Method)
+	at io.netty.channel.unix.Socket.setTcpNoDelay(Socket.java:489)
+	at io.netty.channel.kqueue.KQueueSocketChannelConfig.setTcpNoDelay(KQueueSocketChannelConfig.java:282)
+	at io.netty.channel.kqueue.KQueueSocketChannelConfig.<init>(KQueueSocketChannelConfig.java:48)
+	at io.netty.channel.kqueue.KQueueSocketChannel.<init>(KQueueSocketChannel.java:59)
+	at io.netty.channel.kqueue.KQueueServerSocketChannel.newChildChannel(KQueueServerSocketChannel.java:78)
+	at io.netty.channel.kqueue.AbstractKQueueServerChannel$KQueueServerSocketUnsafe.readReady(AbstractKQueueServerChannel.java:102)
+	at io.netty.channel.kqueue.AbstractKQueueChannel$AbstractKQueueUnsafe.handle(AbstractKQueueChannel.java:416)
+	at io.netty.channel.kqueue.KQueueIoHandler$DefaultKqueueIoRegistration.handle(KQueueIoHandler.java:474)
+	at io.netty.channel.kqueue.KQueueIoHandler.processReady(KQueueIoHandler.java:216)
+	at io.netty.channel.kqueue.KQueueIoHandler.run(KQueueIoHandler.java:277)
+	at io.netty.channel.SingleThreadIoEventLoop.runIo(SingleThreadIoEventLoop.java:225)
+	at io.netty.channel.SingleThreadIoEventLoop.run(SingleThreadIoEventLoop.java:196)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:1204)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+[17:44:02] [Server thread/INFO]: pan_dx lost connection: Disconnected
+[17:44:02] [Server thread/INFO]: System chat: pan_dx left the game
+[17:44:19] [Async Chat Thread - #12/INFO]: [Not Secure] <.Snow_Leopard846> remodeling
+[17:44:24] [User Authenticator #6/INFO]: UUID of player pan_dx is f4b5ec75-413d-47b4-af90-644e83fa695d
+[17:44:24] [Server thread/INFO]: System chat: pan_dx joined the game
+[17:44:24] [Server thread/INFO]: pan_dx[/35.145.1.152:1352] logged in with entity id 44659 at ([world]-426.8235929948127, 90.8598417025857, -1437.51249175004)
+[17:44:28] [Async Chat Thread - #11/INFO]: [Not Secure] <.juhbuh3538> i see i see
+[17:44:32] [Async Chat Thread - #12/INFO]: [Not Secure] <.juhbuh3538> looks fly
+[17:44:43] [Async Chat Thread - #11/INFO]: [Not Secure] <.Snow_Leopard846> thx twin
+[17:44:47] [Async Chat Thread - #12/INFO]: [Not Secure] <.Snow_Leopard846> u look fly
+[17:45:10] [Async Chat Thread - #11/INFO]: [Not Secure] <.juhbuh3538> thx twig
+[17:45:17] [Server thread/INFO]: Villager Villager['Villager'/46615, l='ServerLevel[world]', x=-1080.37, y=73.00, z=-2370.72] died, message: 'Villager suffocated in a wall'
+[17:45:18] [Async Chat Thread - #11/INFO]: [Not Secure] <.juhbuh3538> is this the other lilys treehouse
+[17:45:31] [Async Chat Thread - #12/INFO]: [Not Secure] <.Snow_Leopard846> ye
+[17:45:54] [Server thread/INFO]: Villager Villager['Villager'/46805, l='ServerLevel[world]', x=-1088.63, y=64.00, z=-2442.28] died, message: 'Villager suffocated in a wall'
+[17:52:16] [User Authenticator #7/INFO]: UUID of player AmericanTank is c1cf6b0a-1bb8-4d32-8dab-5004fe1ddbac
+[17:52:17] [Server thread/INFO]: System chat: AmericanTank joined the game
+[17:52:17] [Server thread/INFO]: AmericanTank[/66.10.222.191:65279] logged in with entity id 58513 at ([world_the_end]1042.699999988079, 61.0, -1202.4522321019356)
+[17:53:58] [Server thread/INFO]: GARFUNCLE1234 lost connection: Disconnected
+[17:53:58] [Server thread/INFO]: System chat: GARFUNCLE1234 left the game
+[17:54:45] [Server thread/INFO]: System chat: .Snow_Leopard846 fell off some vines
+[17:55:02] [Netty Kqueue IO #0/ERROR]: Error sending packet clientbound/minecraft:disconnect
+io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
+	at net.minecraft.network.codec.IdDispatchCodec.encode(IdDispatchCodec.java:50)
+	at net.minecraft.network.codec.IdDispatchCodec.encode(IdDispatchCodec.java:14)
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:26)
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:12)
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107)
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:800)
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:737)
+	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113)
+	at net.minecraft.network.Connection$2.write(Connection.java:510)
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:800)
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:776)
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:859)
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1046)
+	at io.netty.channel.Channel.writeAndFlush(Channel.java:257)
+	at net.minecraft.network.Connection.doSendPacket(Connection.java:349)
+	at net.minecraft.network.Connection.sendPacket(Connection.java:338)
+	at net.minecraft.network.Connection.send(Connection.java:316)
+	at net.minecraft.network.Connection.send(Connection.java:310)
+	at net.minecraft.network.Connection.exceptionCaught(Connection.java:145)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:290)
+	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:272)
+	at io.netty.channel.ChannelHandlerAdapter.exceptionCaught(ChannelHandlerAdapter.java:92)
+	at com.viaversion.viaversion.platform.ViaEncodeHandler.exceptionCaught(ViaEncodeHandler.java:64)
+	at com.viaversion.viaversion.bukkit.handlers.BukkitEncodeHandler.exceptionCaught(BukkitEncodeHandler.java:113)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:290)
+	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:272)
+	at io.netty.channel.ChannelInboundHandlerAdapter.exceptionCaught(ChannelInboundHandlerAdapter.java:143)
+	at com.viaversion.viaversion.platform.ViaDecodeHandler.exceptionCaught(ViaDecodeHandler.java:64)
+	at com.viaversion.viaversion.bukkit.handlers.BukkitDecodeHandler.exceptionCaught(BukkitDecodeHandler.java:45)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:290)
+	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:272)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1396)
+	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:890)
+	at io.netty.channel.kqueue.AbstractKQueueStreamChannel$KQueueStreamUnsafe.handleReadException(AbstractKQueueStreamChannel.java:584)
+	at io.netty.channel.kqueue.AbstractKQueueStreamChannel$KQueueStreamUnsafe.readReady(AbstractKQueueStreamChannel.java:563)
+	at io.netty.channel.kqueue.AbstractKQueueChannel$AbstractKQueueUnsafe.readEOF(AbstractKQueueChannel.java:517)
+	at io.netty.channel.kqueue.AbstractKQueueChannel$AbstractKQueueUnsafe.handle(AbstractKQueueChannel.java:418)
+	at io.netty.channel.kqueue.KQueueIoHandler$DefaultKqueueIoRegistration.handle(KQueueIoHandler.java:474)
+	at io.netty.channel.kqueue.KQueueIoHandler.processReady(KQueueIoHandler.java:216)
+	at io.netty.channel.kqueue.KQueueIoHandler.run(KQueueIoHandler.java:277)
+	at io.netty.channel.SingleThreadIoEventLoop.runIo(SingleThreadIoEventLoop.java:225)
+	at io.netty.channel.SingleThreadIoEventLoop.run(SingleThreadIoEventLoop.java:196)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:1204)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+[17:57:19] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .Snow_Leopard846 disconnected
+[17:57:19] [GeyserServerChild-4-2/INFO]: [Geyser-Spigot] Snow Leopard846 has disconnected from the Java server because of §rBedrock client disconnected
+[17:57:19] [Server thread/INFO]: .Snow_Leopard846 lost connection: Disconnected
+[17:57:19] [Server thread/INFO]: System chat: .Snow_Leopard846 left the game
+[17:57:45] [GeyserServerChild-4-4/INFO]: [Geyser-Spigot] Player connected with username Snow Leopard846 (2193)
+[17:57:45] [localSession-7-1/INFO]: [Geyser-Spigot] Snow Leopard846 (logged in as: Snow_Leopard846) has connected to the Java server
+[17:57:45] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Snow_Leopard846 joined (UUID: 00000000-0000-0000-0009-01fa79f613f5)
+[17:57:45] [Server thread/INFO]: System chat: .Snow_Leopard846 joined the game
+[17:57:45] [Server thread/INFO]: .Snow_Leopard846[/108.188.242.111:0] logged in with entity id 67153 at ([world]-496.7408, 71.0, 3.5273669)
+[17:58:19] [Server thread/INFO]: System chat: pan_dx has made the advancement [Into Fire]
+[17:59:26] [Server thread/WARN]: .Snow_Leopard846 moved wrongly!
+[18:09:28] [Server thread/INFO]: System chat: pan_dx has made the advancement [Eye Spy]
+[18:09:40] [Server thread/INFO]: mcsslf lost connection: Disconnected
+[18:09:40] [Server thread/INFO]: System chat: mcsslf left the game
+[18:09:53] [Async Chat Thread - #15/INFO]: <AmericanTank> im leaving the end soon, by dying
+[18:10:36] [Server thread/INFO]: System chat: pan_dx has made the advancement [The End?]
+[18:12:48] [Async Chat Thread - #17/INFO]: <AmericanTank> dont kill the ender dragon yet, once everyone is ready
+[18:13:20] [Async Chat Thread - #16/INFO]: <AmericanTank> adios pan_dx
+[18:13:27] [Server thread/INFO]: System chat: AmericanTank fell out of the world
+[18:14:10] [Server thread/INFO]: System chat: pan_dx fell out of the world
+[18:15:39] [Server thread/INFO]: System chat: AmericanTank was blown up by Creeper
+[18:18:48] [GeyserServerChild-4-1/INFO]: [Geyser-Spigot] Player connected with username Ginger8013 (2193)
+[18:18:48] [localSession-7-2/INFO]: [Geyser-Spigot] Ginger8013 (logged in as: Ginger8013) has connected to the Java server
+[18:18:49] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Ginger8013 joined (UUID: 00000000-0000-0000-0009-01f60ede433a)
+[18:18:49] [Server thread/INFO]: System chat: .Ginger8013 joined the game
+[18:18:49] [Server thread/INFO]: .Ginger8013[/108.188.242.111:0] logged in with entity id 86371 at ([world]184.29907, 71.0, 424.94324)
+[18:19:01] [GeyserServerChild-4-4/INFO]: [Geyser-Spigot] Snow Leopard846 has disconnected from the Java server because of §rBedrock client disconnected
+[18:19:01] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .Snow_Leopard846 disconnected
+[18:19:01] [Server thread/INFO]: .Snow_Leopard846 lost connection: Disconnected
+[18:19:01] [Server thread/INFO]: System chat: .Snow_Leopard846 left the game
+[18:20:24] [localSession-7-3/INFO]: [Geyser-Spigot] Snow Leopard846 (logged in as: Snow_Leopard846) has connected to the Java server
+[18:20:24] [GeyserServerChild-4-2/INFO]: [Geyser-Spigot] Player connected with username Snow Leopard846 (2193)
+[18:20:25] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Snow_Leopard846 joined (UUID: 00000000-0000-0000-0009-01fa79f613f5)
+[18:20:25] [Server thread/INFO]: System chat: .Snow_Leopard846 joined the game
+[18:20:25] [Server thread/INFO]: .Snow_Leopard846[/108.188.242.111:0] logged in with entity id 89058 at ([world]-518.4062632638598, 71.0, -11.153519206309804)
+[18:20:28] [Server thread/INFO]: System chat: AmericanTank was slain by pan_dx
+[18:20:45] [Async Chat Thread - #19/INFO]: <AmericanTank> you cant get ur stuff back allen
+[18:20:53] [Async Chat Thread - #18/INFO]: <pan_dx> where
+[18:21:48] [Server thread/WARN]: .Snow_Leopard846 moved wrongly!
+[18:21:48] [Server thread/WARN]: .Snow_Leopard846 moved wrongly!
+[18:21:56] [Async Chat Thread - #21/INFO]: <AmericanTank> why do you have creative
+[18:22:04] [Async Chat Thread - #20/INFO]: <AmericanTank> who are you in irl
+[18:22:10] [Async Chat Thread - #21/INFO]: [Not Secure] <.juhbuh3538> I asked jonathan so that I can build
+[18:22:11] [Async Chat Thread - #20/INFO]: <pan_dx> thats joy
+[18:22:13] [Async Chat Thread - #21/INFO]: [Not Secure] <.juhbuh3538> joy
+[18:22:15] [Async Chat Thread - #20/INFO]: <AmericanTank> oh ok
+[18:22:21] [User Authenticator #8/INFO]: UUID of player mcsslf is b0903b35-a489-418e-bd7d-4a1d972603d5
+[18:22:22] [Server thread/INFO]: System chat: mcsslf joined the game
+[18:22:22] [Server thread/INFO]: mcsslf[/173.171.30.129:52084] logged in with entity id 92648 at ([world]318.30000001192093, 110.5625, -848.3000000119209)
+[18:22:49] [Async Chat Thread - #21/INFO]: <pan_dx> where is it
+[18:22:54] [Async Chat Thread - #20/INFO]: <AmericanTank> in my ender chest
+[18:23:02] [Async Chat Thread - #21/INFO]: <AmericanTank> i do have a chest...
+[18:23:02] [Async Chat Thread - #20/INFO]: <pan_dx> empty it
+[18:23:06] [Async Chat Thread - #21/INFO]: <AmericanTank> i can send coords
+[18:23:13] [Async Chat Thread - #21/INFO]: <pan_dx> no empty end chest
+[18:23:21] [Async Chat Thread - #21/INFO]: <AmericanTank> i dont have one
+[18:23:28] [Async Chat Thread - #20/INFO]: <pan_dx> you just said you do
+[18:23:29] [Async Chat Thread - #21/INFO]: <AmericanTank> I have a hidden chest with coords
+[18:23:34] [Async Chat Thread - #20/INFO]: <AmericanTank> regular chest
+[18:23:43] [Async Chat Thread - #21/INFO]: <pan_dx> where
+[18:23:45] [Async Chat Thread - #20/INFO]: <AmericanTank> 1second
+[18:24:22] [Server thread/INFO]: AmericanTank issued server command: /msg pan_dx -357 74 -526 nether
+[18:24:27] [Async Chat Thread - #21/INFO]: <pan_dx> okay
+[18:24:30] [Server thread/INFO]: System chat: AmericanTank was slain by pan_dx
+[18:26:53] [Server thread/WARN]: pan_dx moved wrongly!
+[18:29:26] [Server thread/INFO]: AmericanTank issued server command: /msg .ju
+[18:29:43] [Server thread/INFO]: mcsslf lost connection: Disconnected
+[18:29:43] [Server thread/INFO]: System chat: mcsslf left the game
+[18:29:43] [Server thread/INFO]: AmericanTank issued server command: /msg .juhbuh3538 can you place down a ender chest?
+[18:35:30] [Async Chat Thread - #24/INFO]: <pan_dx> joy tp me back
+[18:35:35] [Server thread/INFO]: System chat: AmericanTank drowned
+[18:35:38] [Async Chat Thread - #23/INFO]: [Not Secure] <.juhbuh3538> huh
+[18:35:46] [Async Chat Thread - #24/INFO]: [Not Secure] <.juhbuh3538> are you in the nether
+[18:35:51] [Async Chat Thread - #23/INFO]: <pan_dx> yes
+[18:36:08] [Server thread/INFO]: AmericanTank lost connection: Disconnected
+[18:36:08] [Server thread/INFO]: System chat: AmericanTank left the game
+[18:37:12] [Server thread/INFO]: .juhbuh3538 issued server command: /tp pan_dx juhbuh3538
+[18:37:21] [Async Chat Thread - #26/INFO]: [Not Secure] <.juhbuh3538> did i do it wrong
+[18:37:31] [Async Chat Thread - #25/INFO]: <pan_dx> yes
+[18:37:38] [Async Chat Thread - #26/INFO]: [Not Secure] <.juhbuh3538> ok one moment
+[18:37:47] [Async Chat Thread - #25/INFO]: <pan_dx> slash tp @pan_dx @s
+[18:37:52] [Async Chat Thread - #26/INFO]: [Not Secure] <.juhbuh3538> o ok
+[18:38:13] [Server thread/INFO]: .juhbuh3538 issued server command: /tp @pan_dx @s
+[18:38:24] [Async Chat Thread - #26/INFO]: [Not Secure] <.juhbuh3538> bruh am i tweaking
+[18:38:35] [Async Chat Thread - #25/INFO]: <pan_dx> look it up
+[18:38:46] [Server thread/INFO]: .juhbuh3538 issued server command: /tp pan_dx @s
+[18:39:39] [Server thread/INFO]: .juhbuh3538 issued server command: /tp pan_dx .juhbuh3538
+[18:40:21] [Async Chat Thread - #28/INFO]: [Not Secure] <.juhbuh3538> im doing it correct now but its just not working
+[18:40:26] [Async Chat Thread - #27/INFO]: <pan_dx> aw
+[18:41:17] [Server thread/INFO]: .juhbuh3538 issued server command: /tp pan_dx @s
+[18:43:50] [Server thread/INFO]: System chat: pan_dx was slain by Piglin Brute
+[18:43:58] [Server thread/INFO]: pan_dx lost connection: Disconnected
+[18:43:58] [Server thread/INFO]: System chat: pan_dx left the game
+[18:44:09] [Async Chat Thread - #30/INFO]: [Not Secure] <.Snow_Leopard846> pov rage quit
+[18:44:21] [Async Chat Thread - #29/INFO]: [Not Secure] <.juhbuh3538> heehee
