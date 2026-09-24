@@ -7,7 +7,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2026-09-23 23:29:48 -0400",
       "minecraft:snowy_slopes": "2026-09-05 00:26:36 -0400",
+      "minecraft:old_growth_pine_taiga": "2026-09-23 23:29:52 -0400",
       "minecraft:forest": "2026-09-05 00:20:11 -0400",
       "minecraft:taiga": "2026-09-07 12:13:26 -0400",
       "minecraft:lush_caves": "2026-09-05 16:07:14 -0400",
@@ -22,6 +24,7 @@
       "minecraft:birch_forest": "2026-09-05 00:52:44 -0400",
       "minecraft:old_growth_spruce_taiga": "2026-09-07 22:28:15 -0400",
       "minecraft:snowy_beach": "2026-09-07 12:33:04 -0400",
+      "minecraft:bamboo_jungle": "2026-09-23 22:02:03 -0400",
       "minecraft:flower_forest": "2026-09-05 00:29:29 -0400",
       "minecraft:savanna_plateau": "2026-09-05 00:04:48 -0400",
       "minecraft:beach": "2026-09-05 19:10:03 -0400",
@@ -4779,21 +4782,9 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_crying_obsidian": {
-    "criteria": {
-      "crying_obsidian": "2026-09-23 00:51:57 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2026-09-23 00:31:34 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/snow": {
-    "criteria": {
-      "has_snowball": "2026-09-23 01:20:18 -0400"
     },
     "done": true
   },
@@ -4803,21 +4794,33 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2026-09-23 00:36:31 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2026-09-23 00:36:31 -0400"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2026-09-23 00:51:57 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2026-09-23 00:51:57 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
       "has_minecart": "2026-09-23 01:11:59 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blue_glazed_terracotta": {
-    "criteria": {
-      "has_blue_terracotta": "2026-09-23 01:21:56 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/repeater": {
-    "criteria": {
-      "has_redstone_torch": "2026-09-23 01:18:06 -0400"
     },
     "done": true
   },
@@ -4839,27 +4842,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/respawn_anchor": {
+  "minecraft:recipes/transportation/rail": {
     "criteria": {
-      "has_obsidian": "2026-09-23 00:51:57 -0400"
+      "has_minecart": "2026-09-23 01:11:59 -0400"
     },
     "done": true
   },
-  "minecraft:nether/get_wither_skull": {
+  "minecraft:recipes/redstone/repeater": {
     "criteria": {
-      "wither_skull": "2026-09-23 00:36:31 -0400"
+      "has_redstone_torch": "2026-09-23 01:18:06 -0400"
     },
     "done": true
   },
-  "minecraft:nether/fast_travel": {
+  "minecraft:recipes/decorations/snow": {
     "criteria": {
-      "travelled": "2026-09-23 01:24:34 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/skull_banner_pattern": {
-    "criteria": {
-      "has_wither_skeleton_skull": "2026-09-23 00:36:31 -0400"
+      "has_snowball": "2026-09-23 01:20:18 -0400"
     },
     "done": true
   },
@@ -4869,9 +4866,105 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/rail": {
+  "minecraft:recipes/decorations/blue_glazed_terracotta": {
     "criteria": {
-      "has_minecart": "2026-09-23 01:11:59 -0400"
+      "has_blue_terracotta": "2026-09-23 01:21:56 -0400"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2026-09-23 01:24:34 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2026-09-23 21:46:44 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/straw_bed": {
+    "criteria": {
+      "has_straw_bed": "2026-09-23 22:02:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_ghast": {
+    "criteria": {
+      "has_ghast_tear": "2026-09-23 22:10:41 -0400"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2026-09-23 23:15:29 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2026-09-23 23:34:01 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2026-09-23 23:34:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2026-09-23 23:36:21 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
+    "criteria": {
+      "has_eye_armor_trim_smithing_template": "2026-09-23 23:36:21 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2026-09-24 00:16:15 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2026-09-24 00:16:15 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2026-09-24 00:16:15 -0400"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2026-09-24 00:15:55 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2026-09-24 00:16:15 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2026-09-24 00:16:15 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2026-09-24 00:15:55 -0400"
     },
     "done": true
   },
