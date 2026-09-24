@@ -4074,6 +4074,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2026-09-22 20:50:38 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
     "criteria": {
       "has_iron_ore": "2026-09-22 20:51:22 -0400"
@@ -4083,12 +4089,6 @@
   "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
     "criteria": {
       "has_iron_ore": "2026-09-22 20:51:22 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
-    "criteria": {
-      "has_copper_ore": "2026-09-22 20:50:38 -0400"
     },
     "done": true
   },
