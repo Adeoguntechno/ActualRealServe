@@ -22,6 +22,7 @@
       "minecraft:cherry_grove": "2026-09-05 00:17:03 -0400",
       "minecraft:sunflower_plains": "2026-09-05 00:18:17 -0400",
       "minecraft:birch_forest": "2026-09-05 00:52:44 -0400",
+      "minecraft:windswept_hills": "2026-09-24 22:45:11 -0400",
       "minecraft:old_growth_spruce_taiga": "2026-09-07 22:28:15 -0400",
       "minecraft:snowy_beach": "2026-09-07 12:33:04 -0400",
       "minecraft:bamboo_jungle": "2026-09-23 22:02:03 -0400",
@@ -4926,6 +4927,18 @@
     },
     "done": true
   },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2026-09-24 00:15:55 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2026-09-24 00:15:55 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2026-09-24 00:16:15 -0400"
@@ -4944,12 +4957,6 @@
     },
     "done": true
   },
-  "minecraft:end/root": {
-    "criteria": {
-      "entered_end": "2026-09-24 00:15:55 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2026-09-24 00:16:15 -0400"
@@ -4959,12 +4966,6 @@
   "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2026-09-24 00:16:15 -0400"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_end": {
-    "criteria": {
-      "entered_end": "2026-09-24 00:15:55 -0400"
     },
     "done": true
   },
