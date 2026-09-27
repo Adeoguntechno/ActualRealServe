@@ -12,6 +12,7 @@
       "minecraft:old_growth_pine_taiga": "2026-09-23 23:29:52 -0400",
       "minecraft:forest": "2026-09-05 00:20:11 -0400",
       "minecraft:taiga": "2026-09-07 12:13:26 -0400",
+      "minecraft:deep_ocean": "2026-09-27 16:23:02 -0400",
       "minecraft:lush_caves": "2026-09-05 16:07:14 -0400",
       "minecraft:ice_spikes": "2026-09-07 22:57:08 -0400",
       "minecraft:frozen_ocean": "2026-09-07 22:50:16 -0400",
@@ -5068,6 +5069,30 @@
   "minecraft:recipes/decorations/brown_shulker_box": {
     "criteria": {
       "has_shulker_box": "2026-09-26 16:01:32 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_wool_stairs": {
+    "criteria": {
+      "has_light_gray_wool": "2026-09-27 16:33:39 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_wool_slab": {
+    "criteria": {
+      "has_light_gray_wool": "2026-09-27 16:33:39 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_slab": {
+    "criteria": {
+      "has_white_wool": "2026-09-27 16:33:41 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_stairs": {
+    "criteria": {
+      "has_white_wool": "2026-09-27 16:33:41 -0400"
     },
     "done": true
   },

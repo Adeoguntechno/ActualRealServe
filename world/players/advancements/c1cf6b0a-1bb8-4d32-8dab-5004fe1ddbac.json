@@ -91,6 +91,7 @@
     "criteria": {
       "bread": "2026-09-10 17:41:38 -0400",
       "golden_apple": "2026-09-20 12:55:07 -0400",
+      "cooked_chicken": "2026-09-27 08:04:59 -0400",
       "rotten_flesh": "2026-09-10 17:36:12 -0400",
       "enchanted_golden_apple": "2026-09-20 14:27:35 -0400",
       "cooked_mutton": "2026-09-18 17:12:03 -0400",
@@ -4148,6 +4149,36 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2026-09-26 18:06:24 -0400"
+    },
+    "done": true
+  },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2026-09-27 08:05:34 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2026-09-27 08:05:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2026-09-27 08:05:51 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2026-09-27 08:05:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2026-09-27 08:05:51 -0400"
     },
     "done": true
   },
