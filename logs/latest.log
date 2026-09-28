@@ -1,379 +1,45 @@
-[08:00:25] [ServerMain/WARN]: Unable to parse version 27.0 to a codename.
-[08:00:31] [ServerMain/INFO]: Environment: Environment[discoveryUrl=https://discovery.minecraftservices.com/minecraft/client, name=PROD]
-[08:00:31] [ServerMain/INFO]: Found non-pack entry './world/datapacks/.DS_Store', ignoring
-[08:00:31] [ServerMain/INFO]: Found non-pack entry './world/datapacks/douay_rheims_minecraft_commands.mcfunction', ignoring
-[08:00:34] [Server thread/INFO]: Starting minecraft server version 26.3
-[08:00:34] [Server thread/INFO]: Loading properties
-[08:00:34] [Server thread/INFO]: This server is running Spigot version 4654-Spigot-766de51-b57d710 (MC: 26.3) (Implementing API version 26.3-R0.1-SNAPSHOT)
-[08:00:34] [Server thread/INFO]: *** This version of Spigot contains changes to some enums. If you notice that plugins no longer work after updating, please report this to the developers of those plugins first. ***
-[08:00:34] [Server thread/INFO]: *** If you cannot update those plugins, you can try setting `settings.compatibility.enum-compatibility-mode` to `true` in `bukkit.yml`. ***
-[08:00:34] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[08:00:34] [Server thread/INFO]: Using 4 threads for Netty based IO
-[08:00:34] [Server thread/INFO]: Debug logging is disabled
-[08:00:34] [Server thread/INFO]: Default game type: SURVIVAL
-[08:00:34] [Server thread/INFO]: Generating keypair
-[08:00:34] [Server thread/INFO]: Starting Minecraft server on *:25565
-[08:00:35] [Server thread/ERROR]: Could not load 'plugins/paper-26.3-19.jar'
-org.bukkit.plugin.InvalidDescriptionException: Invalid plugin.yml
-	at org.bukkit.plugin.java.JavaPluginLoader.getPluginDescription(JavaPluginLoader.java:170)
-	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:158)
-	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:122)
-	at org.bukkit.craftbukkit.CraftServer.loadPlugins(CraftServer.java:473)
-	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:297)
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1072)
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:351)
-	at java.base/java.lang.Thread.run(Thread.java:1474)
-Caused by: java.io.FileNotFoundException: Jar does not contain plugin.yml
-	... 8 more
-[08:00:35] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v5.12.0
-[08:00:35] [Server thread/INFO]: [ViaVersion] ViaVersion 5.12.0 is now loaded. Registering protocol transformers and injecting...
-[08:00:36] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[08:00:36] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[08:00:37] [Server thread/INFO]: [floodgate] Loading floodgate v2.2.5-SNAPSHOT (b141-81b65cc)
-[08:00:37] [Server thread/INFO]: [floodgate] Took 836ms to boot Floodgate
-[08:00:37] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v5.12.1-SNAPSHOT
-[08:00:37] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser-Spigot v2.11.3-SNAPSHOT
-[08:00:38] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[08:00:38] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[08:00:38] [Server thread/INFO]: Preparing level "world"
-[08:00:38] [Server thread/INFO]: -------- World Settings For [world] --------
-[08:00:38] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[08:00:38] [Server thread/INFO]: View Distance: 10
-[08:00:38] [Server thread/INFO]: Simulation Distance: 7
-[08:00:38] [Server thread/INFO]: Item Despawn Rate: 6000
-[08:00:38] [Server thread/INFO]: Item Merge Radius: 2.5
-[08:00:38] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
-[08:00:38] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[08:00:38] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[08:00:38] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[08:00:38] [Server thread/INFO]: Experience Merge Radius: 3.0
-[08:00:38] [Server thread/INFO]: Mob Spawn Range: 6
-[08:00:38] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[08:00:38] [Server thread/INFO]: Cane Growth Modifier: 100%
-[08:00:38] [Server thread/INFO]: Melon Growth Modifier: 100%
-[08:00:38] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[08:00:38] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[08:00:38] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[08:00:38] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[08:00:38] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[08:00:38] [Server thread/INFO]: Potato Growth Modifier: 100%
-[08:00:38] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[08:00:38] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[08:00:38] [Server thread/INFO]: Vine Growth Modifier: 100%
-[08:00:38] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[08:00:38] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[08:00:38] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[08:00:38] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[08:00:38] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
-[08:00:38] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
-[08:00:38] [Server thread/INFO]: CaveVines Growth Modifier: 100%
-[08:00:38] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
-[08:00:38] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
-[08:00:38] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[08:00:38] [Server thread/INFO]: Max TNT Explosions: 100
-[08:00:38] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[08:00:39] [Server thread/INFO]: -------- World Settings For [world_nether] --------
-[08:00:39] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[08:00:39] [Server thread/INFO]: View Distance: 10
-[08:00:39] [Server thread/INFO]: Simulation Distance: 7
-[08:00:39] [Server thread/INFO]: Item Despawn Rate: 6000
-[08:00:39] [Server thread/INFO]: Item Merge Radius: 2.5
-[08:00:39] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
-[08:00:39] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[08:00:39] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[08:00:39] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[08:00:39] [Server thread/INFO]: Experience Merge Radius: 3.0
-[08:00:39] [Server thread/INFO]: Mob Spawn Range: 6
-[08:00:39] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[08:00:39] [Server thread/INFO]: Cane Growth Modifier: 100%
-[08:00:39] [Server thread/INFO]: Melon Growth Modifier: 100%
-[08:00:39] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[08:00:39] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[08:00:39] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[08:00:39] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[08:00:39] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[08:00:39] [Server thread/INFO]: Potato Growth Modifier: 100%
-[08:00:39] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[08:00:39] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[08:00:39] [Server thread/INFO]: Vine Growth Modifier: 100%
-[08:00:39] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[08:00:39] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[08:00:39] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[08:00:39] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[08:00:39] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
-[08:00:39] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
-[08:00:39] [Server thread/INFO]: CaveVines Growth Modifier: 100%
-[08:00:39] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
-[08:00:39] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
-[08:00:39] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[08:00:39] [Server thread/INFO]: Max TNT Explosions: 100
-[08:00:39] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[08:00:39] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
-[08:00:39] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[08:00:39] [Server thread/INFO]: View Distance: 10
-[08:00:39] [Server thread/INFO]: Simulation Distance: 7
-[08:00:39] [Server thread/INFO]: Item Despawn Rate: 6000
-[08:00:39] [Server thread/INFO]: Item Merge Radius: 2.5
-[08:00:39] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
-[08:00:39] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[08:00:39] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[08:00:39] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[08:00:39] [Server thread/INFO]: Experience Merge Radius: 3.0
-[08:00:39] [Server thread/INFO]: Mob Spawn Range: 6
-[08:00:39] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[08:00:39] [Server thread/INFO]: Cane Growth Modifier: 100%
-[08:00:39] [Server thread/INFO]: Melon Growth Modifier: 100%
-[08:00:39] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[08:00:39] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[08:00:39] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[08:00:39] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[08:00:39] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[08:00:39] [Server thread/INFO]: Potato Growth Modifier: 100%
-[08:00:39] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[08:00:39] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[08:00:39] [Server thread/INFO]: Vine Growth Modifier: 100%
-[08:00:39] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[08:00:39] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[08:00:39] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[08:00:39] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[08:00:39] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
-[08:00:39] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
-[08:00:39] [Server thread/INFO]: CaveVines Growth Modifier: 100%
-[08:00:39] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
-[08:00:39] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
-[08:00:39] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[08:00:39] [Server thread/INFO]: Max TNT Explosions: 100
-[08:00:39] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[08:00:39] [Server thread/INFO]: Loading 0 persistent chunks...
-[08:00:39] [Server thread/INFO]: Preparing spawn area: 100%
-[08:00:39] [Server thread/INFO]: Time elapsed: 15 ms
-[08:00:39] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.12.0
-[08:00:39] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 26.3 (777)
-[08:00:39] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.5-SNAPSHOT (b141-81b65cc)
-[08:00:40] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.12.1-SNAPSHOT
-[08:00:40] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.11.3-SNAPSHOT
-[08:00:42] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[08:00:44] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[08:00:44] [Server thread/INFO]: [Geyser-Spigot] 
-[08:00:44] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.11.3-b1245 (git-master-2808f7d)
-[08:00:44] [Server thread/INFO]: [Geyser-Spigot] 
-[08:00:44] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[08:00:44] [Server thread/INFO]: [Geyser-Spigot] Registered 199 custom block overrides.
-[08:00:44] [Server thread/INFO]: [Geyser-Spigot] Registered 2 custom block item overrides.
-[08:00:44] [Server thread/INFO]: [Geyser-Spigot] Registered 7 custom blocks.
-[08:00:46] [Server thread/INFO]: [Geyser-Spigot] Registered 1 custom items
-[08:00:47] [GeyserServer-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
-[08:00:47] [Server thread/WARN]: [Geyser-Spigot] NetherNet will not start! With the "both" transport, RakNet and NetherNet each need their own UDP port, but both are set to 19132. Set "webrtc-port" in the "bedrock" section to a different free port.
-[08:00:47] [Server thread/INFO]: [Geyser-Spigot] Done (3.295s)! Run /geyser help for help!
-[08:00:47] [Server thread/INFO]: Done (9.247s)! For help, type "help"
-[08:00:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[08:00:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[08:00:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[08:00:47] [Geyser LegacyPingPassthrough Thread/WARN]: [Geyser-Spigot] Failed to ping the remote Java server! Is it online and configured in Geyser's config?
-[08:00:47] [Craft Scheduler Thread - 1/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
-[08:01:45] [User Authenticator #1/INFO]: UUID of player AmericanTank is c1cf6b0a-1bb8-4d32-8dab-5004fe1ddbac
-[08:01:46] [Server thread/INFO]: System chat: AmericanTank joined the game
-[08:01:46] [Server thread/INFO]: AmericanTank[/66.10.222.191:59006] logged in with entity id 1 at ([world]224.7807363593189, 29.0, -978.0563093360114)
-[08:02:41] [Server thread/INFO]: AmericanTank lost connection: Disconnected
-[08:02:41] [Server thread/INFO]: System chat: AmericanTank left the game
-[08:02:43] [User Authenticator #2/INFO]: UUID of player AmericanTank is c1cf6b0a-1bb8-4d32-8dab-5004fe1ddbac
-[08:02:44] [Server thread/INFO]: System chat: AmericanTank joined the game
-[08:02:44] [Server thread/INFO]: AmericanTank[/66.10.222.191:58978] logged in with entity id 528 at ([world]224.05916236678442, 29.0, -963.6458039816287)
-[08:05:34] [Server thread/INFO]: System chat: AmericanTank has made the advancement [Oh Shiny]
-[12:02:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20400ms or 408 ticks behind
-[12:02:56] [Geyser LegacyPingPassthrough Thread/WARN]: [Geyser-Spigot] IO error while trying to use legacy ping passthrough
-java.net.SocketException: Network is unreachable
-	at java.base/sun.nio.ch.Net.connect0(Native Method)
-	at java.base/sun.nio.ch.Net.connect(Net.java:546)
-	at java.base/sun.nio.ch.Net.connect(Net.java:535)
-	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:585)
-	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:284)
-	at java.base/java.net.Socket.connect(Socket.java:659)
-	at org.geysermc.geyser.ping.GeyserLegacyPingPassthrough.run(GeyserLegacyPingPassthrough.java:101)
-[12:02:59] [Server thread/INFO]: AmericanTank lost connection: Disconnected
-[12:02:59] [Server thread/INFO]: System chat: AmericanTank left the game
-[12:03:00] [Geyser LegacyPingPassthrough Thread/WARN]: [Geyser-Spigot] IO error while trying to use legacy ping passthrough
-java.net.SocketException: Network is unreachable
-	at java.base/sun.nio.ch.Net.connect0(Native Method)
-	at java.base/sun.nio.ch.Net.connect(Net.java:546)
-	at java.base/sun.nio.ch.Net.connect(Net.java:535)
-	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:585)
-	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:284)
-	at java.base/java.net.Socket.connect(Socket.java:659)
-	at org.geysermc.geyser.ping.GeyserLegacyPingPassthrough.run(GeyserLegacyPingPassthrough.java:101)
-[12:03:04] [Geyser LegacyPingPassthrough Thread/WARN]: [Geyser-Spigot] IO error while trying to use legacy ping passthrough
-java.net.SocketException: Network is unreachable
-	at java.base/sun.nio.ch.Net.connect0(Native Method)
-	at java.base/sun.nio.ch.Net.connect(Net.java:546)
-	at java.base/sun.nio.ch.Net.connect(Net.java:535)
-	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:585)
-	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:284)
-	at java.base/java.net.Socket.connect(Socket.java:659)
-	at org.geysermc.geyser.ping.GeyserLegacyPingPassthrough.run(GeyserLegacyPingPassthrough.java:101)
-[12:03:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8275ms or 165 ticks behind
-[12:03:58] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[12:59:29] [GeyserServerChild-4-1/INFO]: [Geyser-Spigot] Player connected with username Ginger8013 (2193)
-[12:59:29] [localSession-7-2/INFO]: [Geyser-Spigot] Ginger8013 (logged in as: Ginger8013) has connected to the Java server
-[12:59:30] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Ginger8013 joined (UUID: 00000000-0000-0000-0009-01f60ede433a)
-[12:59:30] [Server thread/INFO]: System chat: .Ginger8013 joined the game
-[12:59:30] [Server thread/INFO]: .Ginger8013[/108.188.242.111:0] logged in with entity id 2710 at ([world]206.70146, 95.0, 389.72116)
-[13:33:12] [Server thread/INFO]: System chat: There are 1 of a max of 50 players online: .Ginger8013
-[13:40:48] [Server thread/INFO]: System chat: .Ginger8013 tried to swim in lava
-[13:41:15] [GeyserServerChild-4-1/INFO]: [Geyser-Spigot] Ginger8013 has disconnected from the Java server because of §rBedrock client disconnected
-[13:41:15] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .Ginger8013 disconnected
-[13:41:15] [Server thread/INFO]: .Ginger8013 lost connection: Disconnected
-[13:41:15] [Server thread/INFO]: System chat: .Ginger8013 left the game
-[13:42:15] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[16:17:14] [User Authenticator #3/INFO]: UUID of player BrookeBabyCakes is a5ad9c79-0174-4e6b-98b4-d9178df1652a
-[16:17:15] [Server thread/INFO]: System chat: BrookeBabyCakes joined the game
-[16:17:15] [Server thread/INFO]: BrookeBabyCakes[/99.121.52.143:50018] logged in with entity id 7285 at ([world]292.9069648099839, 111.0, -867.4226426828153)
-[16:17:38] [Server thread/INFO]: BrookeBabyCakes lost connection: Disconnected
-[16:17:38] [Server thread/INFO]: System chat: BrookeBabyCakes left the game
-[16:17:41] [User Authenticator #4/INFO]: UUID of player BrookeBabyCakes is a5ad9c79-0174-4e6b-98b4-d9178df1652a
-[16:17:42] [Server thread/INFO]: System chat: BrookeBabyCakes joined the game
-[16:17:42] [Server thread/INFO]: BrookeBabyCakes[/99.121.52.143:50026] logged in with entity id 7665 at ([world]313.301339927387, 113.9375, -867.490944524387)
-[16:17:48] [Server thread/INFO]: BrookeBabyCakes lost connection: Disconnected
-[16:17:48] [Server thread/INFO]: System chat: BrookeBabyCakes left the game
-[16:18:32] [User Authenticator #5/INFO]: UUID of player BrookeBabyCakes is a5ad9c79-0174-4e6b-98b4-d9178df1652a
-[16:18:33] [Server thread/INFO]: System chat: BrookeBabyCakes joined the game
-[16:18:33] [Server thread/INFO]: BrookeBabyCakes[/99.121.52.143:64542] logged in with entity id 8005 at ([world]333.03186427251535, 113.0, -863.8167981769788)
-[16:24:19] [Server thread/WARN]: BrookeBabyCakes moved wrongly!
-[16:24:23] [Server thread/WARN]: BrookeBabyCakes was kicked for floating too long!
-[16:24:23] [Server thread/INFO]: BrookeBabyCakes lost connection: Flying is not enabled on this server
-[16:24:23] [Server thread/INFO]: System chat: BrookeBabyCakes left the game.
-[16:24:23] [Server thread/WARN]: handleDisconnection() called twice
-[16:25:23] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[16:26:55] [User Authenticator #6/INFO]: UUID of player BrookeBabyCakes is a5ad9c79-0174-4e6b-98b4-d9178df1652a
-[16:26:56] [Server thread/INFO]: System chat: BrookeBabyCakes joined the game
-[16:26:56] [Server thread/INFO]: BrookeBabyCakes[/99.121.52.143:63427] logged in with entity id 12250 at ([world]-1080.0231760527809, 82.1114492239604, -168.0431513664228)
-[16:28:49] [Server thread/INFO]: BrookeBabyCakes lost connection: Timed out
-[16:28:49] [Server thread/INFO]: System chat: BrookeBabyCakes left the game
-[16:29:49] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[16:29:55] [User Authenticator #7/INFO]: UUID of player BrookeBabyCakes is a5ad9c79-0174-4e6b-98b4-d9178df1652a
-[16:29:55] [Server thread/INFO]: System chat: BrookeBabyCakes joined the game
-[16:29:55] [Server thread/INFO]: BrookeBabyCakes[/99.121.52.143:63437] logged in with entity id 13345 at ([world]-1066.5895102230165, 86.0, -117.30000001192093)
-[16:34:41] [User Authenticator #8/INFO]: UUID of player Piercethe_E is 2ce52765-be71-4ded-9a18-4f223b051237
-[16:34:43] [Server thread/INFO]: System chat: Piercethe_E joined the game
-[16:34:43] [Server thread/INFO]: Piercethe_E[/46.110.211.240:44932] logged in with entity id 18848 at ([world]90.70710946396784, 64.0, 201.91148053267494)
-[16:35:03] [Server thread/INFO]: BrookeBabyCakes lost connection: Disconnected
-[16:35:03] [Server thread/INFO]: System chat: BrookeBabyCakes left the game
-[16:37:35] [User Authenticator #9/INFO]: UUID of player BrookeBabyCakes is a5ad9c79-0174-4e6b-98b4-d9178df1652a
-[16:37:35] [Server thread/INFO]: System chat: BrookeBabyCakes joined the game
-[16:37:35] [Server thread/INFO]: BrookeBabyCakes[/99.121.52.143:63462] logged in with entity id 19639 at ([world]-1543.3607661705369, 70.0, -1515.4446199196807)
-[16:39:42] [Server thread/INFO]: BrookeBabyCakes lost connection: Disconnected
-[16:39:42] [Server thread/INFO]: System chat: BrookeBabyCakes left the game
-[16:39:55] [User Authenticator #10/INFO]: UUID of player BrookeBabyCakes is a5ad9c79-0174-4e6b-98b4-d9178df1652a
-[16:39:56] [Server thread/INFO]: System chat: BrookeBabyCakes joined the game
-[16:39:56] [Server thread/INFO]: BrookeBabyCakes[/99.121.52.143:63474] logged in with entity id 23943 at ([world]-2470.6539440700326, 83.0, -1072.1787743221953)
-[16:44:36] [Server thread/WARN]: BrookeBabyCakes moved wrongly!
-[16:44:59] [User Authenticator #11/INFO]: UUID of player BrookeBabyCakes is a5ad9c79-0174-4e6b-98b4-d9178df1652a
-[16:44:59] [Server thread/INFO]: BrookeBabyCakes lost connection: You logged in from another location
-[16:44:59] [Server thread/INFO]: System chat: BrookeBabyCakes left the game.
-[16:45:00] [Server thread/INFO]: System chat: BrookeBabyCakes joined the game
-[16:45:00] [Server thread/INFO]: BrookeBabyCakes[/99.121.52.143:53200] logged in with entity id 31723 at ([world]287.76073766783384, 250.0, -878.5157076182707)
-[16:45:22] [Server thread/INFO]: Piercethe_E lost connection: Timed out
-[16:45:22] [Server thread/INFO]: System chat: Piercethe_E left the game
-[16:45:26] [User Authenticator #12/INFO]: UUID of player Piercethe_E is 2ce52765-be71-4ded-9a18-4f223b051237
-[16:45:26] [Server thread/INFO]: System chat: Piercethe_E joined the game
-[16:45:26] [Server thread/INFO]: Piercethe_E[/46.110.211.240:44870] logged in with entity id 32023 at ([world]78.65547306426744, 64.0, 198.04349810960144)
-[16:59:19] [Server thread/INFO]: Piercethe_E lost connection: Disconnected
-[16:59:19] [Server thread/INFO]: System chat: Piercethe_E left the game
-[17:00:55] [Server thread/INFO]: BrookeBabyCakes lost connection: Disconnected
-[17:00:55] [Server thread/INFO]: System chat: BrookeBabyCakes left the game
-[17:01:55] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[17:05:24] [User Authenticator #13/INFO]: UUID of player BrookeBabyCakes is a5ad9c79-0174-4e6b-98b4-d9178df1652a
-[17:05:24] [Server thread/INFO]: System chat: BrookeBabyCakes joined the game
-[17:05:24] [Server thread/INFO]: BrookeBabyCakes[/99.121.52.143:53975] logged in with entity id 39697 at ([world]255.88262653663222, 72.0, 172.20758560547858)
-[17:06:36] [Server thread/INFO]: BrookeBabyCakes lost connection: Disconnected
-[17:06:36] [Server thread/INFO]: System chat: BrookeBabyCakes left the game
-[17:07:36] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[17:18:13] [User Authenticator #14/INFO]: UUID of player BrookeBabyCakes is a5ad9c79-0174-4e6b-98b4-d9178df1652a
-[17:18:13] [Server thread/INFO]: System chat: BrookeBabyCakes joined the game
-[17:18:13] [Server thread/INFO]: BrookeBabyCakes[/99.121.52.143:53671] logged in with entity id 40868 at ([world]-4.12008192668585, 62.0, 190.51538954658605)
-[17:26:46] [Server thread/INFO]: BrookeBabyCakes lost connection: Disconnected
-[17:26:46] [Server thread/INFO]: System chat: BrookeBabyCakes left the game
-[17:27:46] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[17:46:50] [GeyserServerChild-4-2/INFO]: [Geyser-Spigot] Player connected with username Ginger8013 (2193)
-[17:46:50] [localSession-7-3/INFO]: [Geyser-Spigot] Ginger8013 (logged in as: Ginger8013) has connected to the Java server
-[17:46:51] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Ginger8013 joined (UUID: 00000000-0000-0000-0009-01f60ede433a)
-[17:46:51] [Server thread/INFO]: System chat: .Ginger8013 joined the game
-[17:46:51] [Server thread/INFO]: .Ginger8013[/108.188.242.111:0] logged in with entity id 45983 at ([world]206.54124, 95.0, 389.29623)
-[17:47:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3077ms or 61 ticks behind
-[17:48:16] [GeyserServerChild-4-2/INFO]: [Geyser-Spigot] Ginger8013 has disconnected from the Java server because of §rBedrock client timed out
-[17:48:16] [Server thread/INFO]: .Ginger8013 lost connection: Disconnected
-[17:48:16] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .Ginger8013 disconnected
-[17:48:18] [Server thread/INFO]: System chat: .Ginger8013 left the game
-[17:48:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16902ms or 338 ticks behind
-[17:48:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3991ms or 79 ticks behind
-[17:49:26] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[17:50:05] [GeyserServerChild-4-3/INFO]: [Geyser-Spigot] Player connected with username Ginger8013 (2193)
-[17:50:05] [localSession-7-4/INFO]: [Geyser-Spigot] Ginger8013 (logged in as: Ginger8013) has connected to the Java server
-[17:50:06] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Ginger8013 joined (UUID: 00000000-0000-0000-0009-01f60ede433a)
-[17:50:06] [Server thread/INFO]: System chat: .Ginger8013 joined the game
-[17:50:06] [Server thread/INFO]: .Ginger8013[/108.188.242.111:0] logged in with entity id 46244 at ([world]206.54124, 95.0, 389.29623)
-[17:50:17] [GeyserServerChild-4-3/INFO]: [Geyser-Spigot] Ginger8013 has disconnected from the Java server because of §rBedrock client timed out
-[17:50:17] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .Ginger8013 disconnected
-[17:50:17] [Server thread/INFO]: .Ginger8013 lost connection: Disconnected
-[17:50:17] [Server thread/INFO]: System chat: .Ginger8013 left the game
-[17:51:17] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[17:51:31] [GeyserServerChild-4-4/INFO]: [Geyser-Spigot] Player connected with username Ginger8013 (2193)
-[17:51:31] [localSession-7-1/INFO]: [Geyser-Spigot] Ginger8013 (logged in as: Ginger8013) has connected to the Java server
-[17:51:32] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Ginger8013 joined (UUID: 00000000-0000-0000-0009-01f60ede433a)
-[17:51:32] [Server thread/INFO]: System chat: .Ginger8013 joined the game
-[17:51:32] [Server thread/INFO]: .Ginger8013[/108.188.242.111:0] logged in with entity id 46435 at ([world]206.54124, 95.0, 389.29623)
-[17:51:43] [GeyserServerChild-4-4/INFO]: [Geyser-Spigot] Ginger8013 has disconnected from the Java server because of §rBedrock client timed out
-[17:51:43] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .Ginger8013 disconnected
-[17:51:43] [Server thread/INFO]: .Ginger8013 lost connection: Disconnected
-[17:51:43] [Server thread/INFO]: System chat: .Ginger8013 left the game
-[17:52:43] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[18:03:06] [Server thread/WARN]: handleDisconnection() called twice
-[18:03:15] [Server thread/WARN]: handleDisconnection() called twice
-[18:04:24] [Server thread/WARN]: handleDisconnection() called twice
-[18:12:14] [GeyserServerChild-4-1/INFO]: [Geyser-Spigot] Player connected with username Ginger8013 (2193)
-[18:12:14] [localSession-7-2/INFO]: [Geyser-Spigot] Ginger8013 (logged in as: Ginger8013) has connected to the Java server
-[18:12:15] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Ginger8013 joined (UUID: 00000000-0000-0000-0009-01f60ede433a)
-[18:12:15] [Server thread/INFO]: System chat: .Ginger8013 joined the game
-[18:12:15] [Server thread/INFO]: .Ginger8013[/108.188.242.111:0] logged in with entity id 46631 at ([world]206.54124, 95.0, 389.29623)
-[18:15:20] [GeyserServerChild-4-1/INFO]: [Geyser-Spigot] Ginger8013 has disconnected from the Java server because of §rBedrock client timed out
-[18:15:20] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .Ginger8013 disconnected
-[18:15:20] [Server thread/INFO]: .Ginger8013 lost connection: Disconnected
-[18:15:20] [Server thread/INFO]: System chat: .Ginger8013 left the game
-[18:16:20] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[18:17:08] [GeyserServerChild-4-2/INFO]: [Geyser-Spigot] Player connected with username Ginger8013 (2193)
-[18:17:08] [localSession-7-3/INFO]: [Geyser-Spigot] Ginger8013 (logged in as: Ginger8013) has connected to the Java server
-[18:17:09] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Ginger8013 joined (UUID: 00000000-0000-0000-0009-01f60ede433a)
-[18:17:09] [Server thread/INFO]: System chat: .Ginger8013 joined the game
-[18:17:09] [Server thread/INFO]: .Ginger8013[/108.188.242.111:0] logged in with entity id 47090 at ([world]186.4951, 74.0, 422.28146)
-[18:17:31] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .Ginger8013 disconnected
-[18:17:31] [GeyserServerChild-4-2/INFO]: [Geyser-Spigot] Ginger8013 has disconnected from the Java server because of §rBedrock client timed out
-[18:17:31] [Server thread/INFO]: .Ginger8013 lost connection: Disconnected
-[18:17:31] [Server thread/INFO]: System chat: .Ginger8013 left the game
-[18:18:31] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[18:18:57] [GeyserServerChild-4-3/INFO]: [Geyser-Spigot] Player connected with username Ginger8013 (2193)
-[18:18:57] [localSession-7-4/INFO]: [Geyser-Spigot] Ginger8013 (logged in as: Ginger8013) has connected to the Java server
-[18:18:58] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Ginger8013 joined (UUID: 00000000-0000-0000-0009-01f60ede433a)
-[18:18:58] [Server thread/INFO]: System chat: .Ginger8013 joined the game
-[18:18:58] [Server thread/INFO]: .Ginger8013[/108.188.242.111:0] logged in with entity id 47274 at ([world]186.4951, 74.0, 422.28146)
-[18:19:44] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .Ginger8013 disconnected
-[18:19:44] [GeyserServerChild-4-3/INFO]: [Geyser-Spigot] Ginger8013 has disconnected from the Java server because of §rBedrock client timed out
-[18:19:44] [Server thread/INFO]: .Ginger8013 lost connection: Disconnected
-[18:19:44] [Server thread/INFO]: System chat: .Ginger8013 left the game
-[18:20:44] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[18:32:25] [localSession-7-1/INFO]: [Geyser-Spigot] Ginger8013 (logged in as: Ginger8013) has connected to the Java server
-[18:32:25] [GeyserServerChild-4-4/INFO]: [Geyser-Spigot] Player connected with username Ginger8013 (2193)
-[18:32:26] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Ginger8013 joined (UUID: 00000000-0000-0000-0009-01f60ede433a)
-[18:32:26] [Server thread/INFO]: System chat: .Ginger8013 joined the game
-[18:32:26] [Server thread/INFO]: .Ginger8013[/108.188.242.111:0] logged in with entity id 47528 at ([world]190.30001001192093, 86.0, 380.3000100119209)
-[18:32:46] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .Ginger8013 disconnected
-[18:32:46] [GeyserServerChild-4-4/INFO]: [Geyser-Spigot] Ginger8013 has disconnected from the Java server because of §rBedrock client timed out
-[18:32:46] [Server thread/INFO]: .Ginger8013 lost connection: Disconnected
-[18:32:47] [Server thread/INFO]: System chat: .Ginger8013 left the game
-[18:33:46] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[18:35:37] [GeyserServerChild-4-1/INFO]: [Geyser-Spigot] Player connected with username Ginger8013 (2193)
-[18:35:37] [localSession-7-2/INFO]: [Geyser-Spigot] Ginger8013 (logged in as: Ginger8013) has connected to the Java server
-[18:35:38] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Ginger8013 joined (UUID: 00000000-0000-0000-0009-01f60ede433a)
-[18:35:38] [Server thread/INFO]: System chat: .Ginger8013 joined the game
-[18:35:38] [Server thread/INFO]: .Ginger8013[/108.188.242.111:0] logged in with entity id 47710 at ([world]190.30001001192093, 86.0, 380.30002)
-[18:36:19] [Server thread/INFO]: Villager Villager['Villager'/47815, l='ServerLevel[world]', x=142.44, y=119.00, z=468.42] died, message: 'Villager was slain by Zombie'
-[18:37:48] [Server thread/INFO]: System chat: .Ginger8013 was slain by Zombie
-[18:47:15] [Server thread/INFO]: System chat: .Ginger8013 was impaled by Drowned
+[00:14:55] [Server thread/INFO]: BrookeBabyCakes lost connection: Disconnected
+[00:14:57] [Server thread/INFO]: System chat: BrookeBabyCakes left the game
+[00:14:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5730ms or 114 ticks behind
+[00:14:57] [Server thread/WARN]: handleDisconnection() called twice
+[00:15:07] [User Authenticator #20/INFO]: UUID of player BrookeBabyCakes is a5ad9c79-0174-4e6b-98b4-d9178df1652a
+[00:15:08] [Server thread/INFO]: System chat: BrookeBabyCakes joined the game
+[00:15:08] [Server thread/INFO]: BrookeBabyCakes[/99.121.52.143:54989] logged in with entity id 110056 at ([world]2866.24356018846, 69.59956798759174, -9734.396462829645)
+[00:15:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3921ms or 78 ticks behind
+[00:15:30] [Server thread/INFO]: BrookeBabyCakes lost connection: Disconnected
+[00:15:32] [Server thread/INFO]: System chat: BrookeBabyCakes left the game
+[00:15:38] [User Authenticator #21/INFO]: UUID of player BrookeBabyCakes is a5ad9c79-0174-4e6b-98b4-d9178df1652a
+[00:15:39] [Server thread/INFO]: System chat: BrookeBabyCakes joined the game
+[00:15:39] [Server thread/INFO]: BrookeBabyCakes[/99.121.52.143:55008] logged in with entity id 110435 at ([world]2871.7471734333994, 70.41999998688698, -9746.300672510644)
+[00:16:33] [User Authenticator #22/INFO]: UUID of player BrookeBabyCakes is a5ad9c79-0174-4e6b-98b4-d9178df1652a
+[00:16:33] [Server thread/INFO]: BrookeBabyCakes lost connection: You logged in from another location
+[00:16:33] [Server thread/INFO]: System chat: BrookeBabyCakes left the game.
+[00:16:33] [Server thread/INFO]: System chat: BrookeBabyCakes joined the game
+[00:16:33] [Server thread/INFO]: BrookeBabyCakes[/99.121.52.143:55015] logged in with entity id 110862 at ([world]2875.913697465155, 69.0, -9772.607807777023)
+[00:17:04] [Server thread/WARN]: BrookeBabyCakes moved too quickly! -41.581221149263,-4.811607464797476,-46.227331006866734
+[00:17:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2638ms or 52 ticks behind
+[00:18:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2705ms or 54 ticks behind
+[00:18:36] [Server thread/WARN]: BrookeBabyCakes moved too quickly! -2.634174299667393,4.675863124609364,-51.486239511959866
+[00:21:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2593ms or 51 ticks behind
+[00:21:44] [User Authenticator #23/INFO]: UUID of player BrookeBabyCakes is a5ad9c79-0174-4e6b-98b4-d9178df1652a
+[00:21:44] [Server thread/INFO]: BrookeBabyCakes lost connection: You logged in from another location
+[00:21:44] [Server thread/INFO]: System chat: BrookeBabyCakes left the game.
+[00:21:44] [Server thread/INFO]: System chat: BrookeBabyCakes joined the game
+[00:21:44] [Server thread/INFO]: BrookeBabyCakes[/99.121.52.143:55048] logged in with entity id 114342 at ([world]2436.281288742986, 64.0, -9392.795968267505)
+[00:23:59] [User Authenticator #24/INFO]: UUID of player BrookeBabyCakes is a5ad9c79-0174-4e6b-98b4-d9178df1652a
+[00:23:59] [Server thread/INFO]: BrookeBabyCakes lost connection: You logged in from another location
+[00:23:59] [Server thread/INFO]: System chat: BrookeBabyCakes left the game.
+[00:23:59] [Netty Kqueue IO #0/WARN]: [ViaVersion] Duplicate UUID on frontend connection! (a5ad9c79-0174-4e6b-98b4-d9178df1652a)
+[00:24:00] [Server thread/INFO]: System chat: BrookeBabyCakes joined the game
+[00:24:00] [Server thread/INFO]: BrookeBabyCakes[/99.121.52.143:55055] logged in with entity id 114889 at ([world]2381.1319469338755, 60.85318218409771, -9406.904695034977)
+[00:34:42] [User Authenticator #25/INFO]: UUID of player BrookeBabyCakes is a5ad9c79-0174-4e6b-98b4-d9178df1652a
+[00:34:42] [Server thread/INFO]: BrookeBabyCakes lost connection: You logged in from another location
+[00:34:42] [Server thread/INFO]: System chat: BrookeBabyCakes left the game.
+[00:34:42] [Netty Kqueue IO #2/WARN]: [ViaVersion] Duplicate UUID on frontend connection! (a5ad9c79-0174-4e6b-98b4-d9178df1652a)
+[00:34:43] [Server thread/INFO]: System chat: BrookeBabyCakes joined the game
+[00:34:43] [Server thread/INFO]: BrookeBabyCakes[/99.121.52.143:55089] logged in with entity id 119293 at ([world]1673.354004736556, 60.22054185398267, -8539.351869276652)
+[00:34:51] [Server thread/WARN]: handleDisconnection() called twice
+[01:01:41] [Server thread/WARN]: BrookeBabyCakes moved wrongly!
+[01:12:23] [Server thread/INFO]: BrookeBabyCakes lost connection: Disconnected
+[01:12:23] [Server thread/INFO]: System chat: BrookeBabyCakes left the game
+[01:13:23] [Server thread/INFO]: Server empty for 60 seconds, pausing

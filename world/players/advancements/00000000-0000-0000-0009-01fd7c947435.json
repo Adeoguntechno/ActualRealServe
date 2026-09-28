@@ -17,6 +17,8 @@
       "minecraft:frozen_river": "2026-09-10 18:55:36 -0400",
       "minecraft:jungle": "2026-09-09 22:44:23 -0400",
       "minecraft:ocean": "2026-09-13 16:21:23 -0400",
+      "minecraft:cherry_grove": "2026-09-27 20:11:55 -0400",
+      "minecraft:sunflower_plains": "2026-09-27 20:12:41 -0400",
       "minecraft:birch_forest": "2026-09-10 18:43:18 -0400",
       "minecraft:old_growth_spruce_taiga": "2026-09-13 16:37:49 -0400",
       "minecraft:snowy_beach": "2026-09-10 18:57:21 -0400",
@@ -2770,6 +2772,24 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2026-09-24 22:57:44 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2026-09-27 20:00:59 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2026-09-27 20:15:36 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2026-09-27 20:12:43 -0400"
     },
     "done": true
   },
