@@ -308,3 +308,14 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 [18:59:56] [Server thread/INFO]: System chat: Unknown game mode: pan_dx
 [18:59:56] [Server thread/INFO]: System chat: ...ode pan_dx survival<--[HERE]
 [19:00:02] [Server thread/INFO]: System chat: Set pan_dx's game mode to Survival Mode
+[19:07:53] [Server thread/WARN]: pan_dx moved too quickly! 0.16649035888407582,-10.124864397805425,-4.1959710364409375
+[19:08:31] [User Authenticator #5/INFO]: UUID of player BrookeBabyCakes is a5ad9c79-0174-4e6b-98b4-d9178df1652a
+[19:08:31] [Server thread/INFO]: BrookeBabyCakes lost connection: You logged in from another location
+[19:08:32] [Server thread/INFO]: System chat: BrookeBabyCakes left the game.
+[19:08:33] [Server thread/INFO]: System chat: BrookeBabyCakes joined the game
+[19:08:33] [Server thread/INFO]: BrookeBabyCakes[/99.121.52.143:60256] logged in with entity id 42198 at ([world]613.3799067615264, -7.0, -1048.5106099129853)
+[19:08:48] [Server thread/INFO]: pan_dx lost connection: Timed out
+[19:08:48] [Server thread/INFO]: System chat: pan_dx left the game
+[19:08:49] [User Authenticator #6/INFO]: UUID of player pan_dx is f4b5ec75-413d-47b4-af90-644e83fa695d
+[19:08:49] [Server thread/INFO]: System chat: pan_dx joined the game
+[19:08:49] [Server thread/INFO]: pan_dx[/35.145.1.152:1769] logged in with entity id 42577 at ([world]26.79843834843446, 56.0, 115.15554876248501)
