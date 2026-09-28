@@ -5265,5 +5265,35 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/silence_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2026-09-28 18:41:54 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_wool_stairs": {
+    "criteria": {
+      "has_brown_wool": "2026-09-28 18:29:19 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leaf_litter": {
+    "criteria": {
+      "has_leaves": "2026-09-28 17:59:08 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_wool_slab": {
+    "criteria": {
+      "has_brown_wool": "2026-09-28 18:29:19 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/silence_armor_trim_smithing_template": {
+    "criteria": {
+      "has_silence_armor_trim_smithing_template": "2026-09-28 18:41:54 -0400"
+    },
+    "done": true
+  },
   "DataVersion": 5023
 }

@@ -3553,5 +3553,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2026-09-28 18:42:14 -0400"
+    },
+    "done": true
+  },
   "DataVersion": 5023
 }
