@@ -510,7 +510,8 @@
       "minecraft:pillager": "2026-09-27 02:13:23 -0400",
       "minecraft:skeleton": "2026-09-13 18:53:35 -0400",
       "minecraft:spider": "2026-09-22 18:55:01 -0400",
-      "minecraft:zombie": "2026-09-13 16:31:03 -0400"
+      "minecraft:zombie": "2026-09-13 16:31:03 -0400",
+      "minecraft:zombie_villager": "2026-09-28 20:28:25 -0400"
     },
     "done": false
   },
@@ -2137,6 +2138,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2026-09-27 18:46:24 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2026-09-28 20:17:51 -0400"
     },
     "done": true
   },

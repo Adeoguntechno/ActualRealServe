@@ -1,321 +1,39 @@
-[15:00:25] [ServerMain/WARN]: Unable to parse version 27.0 to a codename.
-[15:00:26] [ServerMain/INFO]: Environment: Environment[discoveryUrl=https://discovery.minecraftservices.com/minecraft/client, name=PROD]
-[15:00:26] [ServerMain/INFO]: Found non-pack entry './world/datapacks/.DS_Store', ignoring
-[15:00:26] [ServerMain/INFO]: Found non-pack entry './world/datapacks/douay_rheims_minecraft_commands.mcfunction', ignoring
-[15:00:27] [Server thread/INFO]: Starting minecraft server version 26.3
-[15:00:27] [Server thread/INFO]: Loading properties
-[15:00:27] [Server thread/INFO]: This server is running Spigot version 4654-Spigot-766de51-b57d710 (MC: 26.3) (Implementing API version 26.3-R0.1-SNAPSHOT)
-[15:00:27] [Server thread/INFO]: *** This version of Spigot contains changes to some enums. If you notice that plugins no longer work after updating, please report this to the developers of those plugins first. ***
-[15:00:27] [Server thread/INFO]: *** If you cannot update those plugins, you can try setting `settings.compatibility.enum-compatibility-mode` to `true` in `bukkit.yml`. ***
-[15:00:27] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[15:00:27] [Server thread/INFO]: Using 4 threads for Netty based IO
-[15:00:27] [Server thread/INFO]: Debug logging is disabled
-[15:00:27] [Server thread/INFO]: Default game type: SURVIVAL
-[15:00:27] [Server thread/INFO]: Generating keypair
-[15:00:27] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:00:27] [Server thread/ERROR]: Could not load 'plugins/paper-26.3-19.jar'
-org.bukkit.plugin.InvalidDescriptionException: Invalid plugin.yml
-	at org.bukkit.plugin.java.JavaPluginLoader.getPluginDescription(JavaPluginLoader.java:170)
-	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:158)
-	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:122)
-	at org.bukkit.craftbukkit.CraftServer.loadPlugins(CraftServer.java:473)
-	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:297)
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1072)
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:351)
-	at java.base/java.lang.Thread.run(Thread.java:1474)
-Caused by: java.io.FileNotFoundException: Jar does not contain plugin.yml
-	... 8 more
-[15:00:27] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v5.12.0
-[15:00:27] [Server thread/INFO]: [ViaVersion] ViaVersion 5.12.0 is now loaded. Registering protocol transformers and injecting...
-[15:00:28] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[15:00:28] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[15:00:28] [Server thread/INFO]: [floodgate] Loading floodgate v2.2.5-SNAPSHOT (b141-81b65cc)
-[15:00:28] [Server thread/INFO]: [floodgate] Took 209ms to boot Floodgate
-[15:00:28] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v5.12.1-SNAPSHOT
-[15:00:28] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser-Spigot v2.11.3-SNAPSHOT
-[15:00:28] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[15:00:28] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[15:00:28] [Server thread/INFO]: Preparing level "world"
-[15:00:28] [Server thread/INFO]: -------- World Settings For [world] --------
-[15:00:28] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[15:00:28] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[15:00:28] [Server thread/INFO]: View Distance: 10
-[15:00:28] [Server thread/INFO]: Simulation Distance: 7
-[15:00:28] [Server thread/INFO]: Item Despawn Rate: 6000
-[15:00:28] [Server thread/INFO]: Item Merge Radius: 2.5
-[15:00:28] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
-[15:00:28] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[15:00:28] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[15:00:28] [Server thread/INFO]: Experience Merge Radius: 3.0
-[15:00:28] [Server thread/INFO]: Mob Spawn Range: 6
-[15:00:28] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[15:00:28] [Server thread/INFO]: Cane Growth Modifier: 100%
-[15:00:28] [Server thread/INFO]: Melon Growth Modifier: 100%
-[15:00:28] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[15:00:28] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[15:00:28] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[15:00:28] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[15:00:28] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[15:00:28] [Server thread/INFO]: Potato Growth Modifier: 100%
-[15:00:28] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[15:00:28] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[15:00:28] [Server thread/INFO]: Vine Growth Modifier: 100%
-[15:00:28] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[15:00:28] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[15:00:28] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[15:00:28] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[15:00:28] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
-[15:00:28] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
-[15:00:28] [Server thread/INFO]: CaveVines Growth Modifier: 100%
-[15:00:28] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
-[15:00:28] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
-[15:00:28] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[15:00:28] [Server thread/INFO]: Max TNT Explosions: 100
-[15:00:28] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[15:00:28] [Server thread/INFO]: -------- World Settings For [world_nether] --------
-[15:00:28] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[15:00:28] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[15:00:28] [Server thread/INFO]: View Distance: 10
-[15:00:28] [Server thread/INFO]: Simulation Distance: 7
-[15:00:28] [Server thread/INFO]: Item Despawn Rate: 6000
-[15:00:28] [Server thread/INFO]: Item Merge Radius: 2.5
-[15:00:28] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
-[15:00:28] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[15:00:28] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[15:00:28] [Server thread/INFO]: Experience Merge Radius: 3.0
-[15:00:28] [Server thread/INFO]: Mob Spawn Range: 6
-[15:00:28] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[15:00:28] [Server thread/INFO]: Cane Growth Modifier: 100%
-[15:00:28] [Server thread/INFO]: Melon Growth Modifier: 100%
-[15:00:28] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[15:00:28] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[15:00:28] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[15:00:28] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[15:00:28] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[15:00:28] [Server thread/INFO]: Potato Growth Modifier: 100%
-[15:00:28] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[15:00:28] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[15:00:28] [Server thread/INFO]: Vine Growth Modifier: 100%
-[15:00:28] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[15:00:28] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[15:00:28] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[15:00:28] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[15:00:28] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
-[15:00:28] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
-[15:00:28] [Server thread/INFO]: CaveVines Growth Modifier: 100%
-[15:00:28] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
-[15:00:28] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
-[15:00:28] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[15:00:28] [Server thread/INFO]: Max TNT Explosions: 100
-[15:00:28] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[15:00:28] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
-[15:00:28] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[15:00:28] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[15:00:28] [Server thread/INFO]: View Distance: 10
-[15:00:28] [Server thread/INFO]: Simulation Distance: 7
-[15:00:28] [Server thread/INFO]: Item Despawn Rate: 6000
-[15:00:28] [Server thread/INFO]: Item Merge Radius: 2.5
-[15:00:28] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
-[15:00:28] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[15:00:28] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[15:00:28] [Server thread/INFO]: Experience Merge Radius: 3.0
-[15:00:28] [Server thread/INFO]: Mob Spawn Range: 6
-[15:00:28] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[15:00:28] [Server thread/INFO]: Cane Growth Modifier: 100%
-[15:00:28] [Server thread/INFO]: Melon Growth Modifier: 100%
-[15:00:28] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[15:00:28] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[15:00:28] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[15:00:28] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[15:00:28] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[15:00:28] [Server thread/INFO]: Potato Growth Modifier: 100%
-[15:00:28] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[15:00:28] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[15:00:28] [Server thread/INFO]: Vine Growth Modifier: 100%
-[15:00:28] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[15:00:28] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[15:00:28] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[15:00:28] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[15:00:28] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
-[15:00:28] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
-[15:00:28] [Server thread/INFO]: CaveVines Growth Modifier: 100%
-[15:00:28] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
-[15:00:28] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
-[15:00:28] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[15:00:28] [Server thread/INFO]: Max TNT Explosions: 100
-[15:00:28] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[15:00:28] [Server thread/INFO]: Loading 0 persistent chunks...
-[15:00:28] [Server thread/INFO]: Preparing spawn area: 100%
-[15:00:28] [Server thread/INFO]: Time elapsed: 2 ms
-[15:00:28] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.12.0
-[15:00:28] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 26.3 (777)
-[15:00:28] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.5-SNAPSHOT (b141-81b65cc)
-[15:00:29] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.12.1-SNAPSHOT
-[15:00:29] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.11.3-SNAPSHOT
-[15:00:29] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[15:00:30] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[15:00:30] [Server thread/INFO]: [Geyser-Spigot] 
-[15:00:30] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.11.3-b1245 (git-master-2808f7d)
-[15:00:30] [Server thread/INFO]: [Geyser-Spigot] 
-[15:00:30] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[15:00:30] [Server thread/INFO]: [Geyser-Spigot] Registered 199 custom block overrides.
-[15:00:30] [Server thread/INFO]: [Geyser-Spigot] Registered 2 custom block item overrides.
-[15:00:30] [Server thread/INFO]: [Geyser-Spigot] Registered 7 custom blocks.
-[15:00:31] [Server thread/INFO]: [Geyser-Spigot] Registered 1 custom items
-[15:00:31] [GeyserServer-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
-[15:00:31] [Server thread/WARN]: [Geyser-Spigot] NetherNet will not start! With the "both" transport, RakNet and NetherNet each need their own UDP port, but both are set to 19132. Set "webrtc-port" in the "bedrock" section to a different free port.
-[15:00:31] [Server thread/INFO]: [Geyser-Spigot] Done (1.524s)! Run /geyser help for help!
-[15:00:31] [Server thread/INFO]: Done (2.999s)! For help, type "help"
-[15:00:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[15:00:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[15:00:31] [Geyser LegacyPingPassthrough Thread/WARN]: [Geyser-Spigot] Failed to ping the remote Java server! Is it online and configured in Geyser's config?
-[15:00:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[15:00:31] [Craft Scheduler Thread - 1/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
-[15:01:31] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[15:39:13] [Netty Kqueue IO #3/ERROR]: Error sending packet clientbound/minecraft:disconnect
-io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
-	at net.minecraft.network.codec.IdDispatchCodec.encode(IdDispatchCodec.java:50)
-	at net.minecraft.network.codec.IdDispatchCodec.encode(IdDispatchCodec.java:14)
-	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:26)
-	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:12)
-	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107)
-	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:800)
-	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:737)
-	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113)
-	at net.minecraft.network.Connection$2.write(Connection.java:510)
-	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:800)
-	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:776)
-	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:859)
-	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1046)
-	at io.netty.channel.Channel.writeAndFlush(Channel.java:257)
-	at net.minecraft.network.Connection.doSendPacket(Connection.java:349)
-	at net.minecraft.network.Connection.sendPacket(Connection.java:338)
-	at net.minecraft.network.Connection.send(Connection.java:316)
-	at net.minecraft.network.Connection.send(Connection.java:310)
-	at net.minecraft.network.Connection.exceptionCaught(Connection.java:145)
-	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:290)
-	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:272)
-	at io.netty.channel.ChannelHandlerAdapter.exceptionCaught(ChannelHandlerAdapter.java:92)
-	at com.viaversion.viaversion.platform.ViaEncodeHandler.exceptionCaught(ViaEncodeHandler.java:64)
-	at com.viaversion.viaversion.bukkit.handlers.BukkitEncodeHandler.exceptionCaught(BukkitEncodeHandler.java:113)
-	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:290)
-	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:272)
-	at io.netty.channel.ChannelInboundHandlerAdapter.exceptionCaught(ChannelInboundHandlerAdapter.java:143)
-	at com.viaversion.viaversion.platform.ViaDecodeHandler.exceptionCaught(ViaDecodeHandler.java:64)
-	at com.viaversion.viaversion.bukkit.handlers.BukkitDecodeHandler.exceptionCaught(BukkitDecodeHandler.java:45)
-	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:290)
-	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:272)
-	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1396)
-	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:890)
-	at io.netty.channel.kqueue.AbstractKQueueStreamChannel$KQueueStreamUnsafe.handleReadException(AbstractKQueueStreamChannel.java:584)
-	at io.netty.channel.kqueue.AbstractKQueueStreamChannel$KQueueStreamUnsafe.readReady(AbstractKQueueStreamChannel.java:563)
-	at io.netty.channel.kqueue.AbstractKQueueChannel$AbstractKQueueUnsafe.readEOF(AbstractKQueueChannel.java:517)
-	at io.netty.channel.kqueue.AbstractKQueueChannel$AbstractKQueueUnsafe.handle(AbstractKQueueChannel.java:418)
-	at io.netty.channel.kqueue.KQueueIoHandler$DefaultKqueueIoRegistration.handle(KQueueIoHandler.java:474)
-	at io.netty.channel.kqueue.KQueueIoHandler.processReady(KQueueIoHandler.java:216)
-	at io.netty.channel.kqueue.KQueueIoHandler.run(KQueueIoHandler.java:277)
-	at io.netty.channel.SingleThreadIoEventLoop.runIo(SingleThreadIoEventLoop.java:225)
-	at io.netty.channel.SingleThreadIoEventLoop.run(SingleThreadIoEventLoop.java:196)
-	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:1204)
-	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
-	at java.base/java.lang.Thread.run(Thread.java:1474)
-[15:39:21] [Netty Kqueue IO #2/ERROR]: Error sending packet clientbound/minecraft:disconnect
-io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
-	at net.minecraft.network.codec.IdDispatchCodec.encode(IdDispatchCodec.java:50)
-	at net.minecraft.network.codec.IdDispatchCodec.encode(IdDispatchCodec.java:14)
-	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:26)
-	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:12)
-	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107)
-	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:800)
-	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:737)
-	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113)
-	at net.minecraft.network.Connection$2.write(Connection.java:510)
-	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:800)
-	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:776)
-	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:859)
-	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1046)
-	at io.netty.channel.Channel.writeAndFlush(Channel.java:257)
-	at net.minecraft.network.Connection.doSendPacket(Connection.java:349)
-	at net.minecraft.network.Connection.sendPacket(Connection.java:338)
-	at net.minecraft.network.Connection.send(Connection.java:316)
-	at net.minecraft.network.Connection.send(Connection.java:310)
-	at net.minecraft.network.Connection.exceptionCaught(Connection.java:145)
-	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:290)
-	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:272)
-	at io.netty.channel.ChannelHandlerAdapter.exceptionCaught(ChannelHandlerAdapter.java:92)
-	at com.viaversion.viaversion.platform.ViaEncodeHandler.exceptionCaught(ViaEncodeHandler.java:64)
-	at com.viaversion.viaversion.bukkit.handlers.BukkitEncodeHandler.exceptionCaught(BukkitEncodeHandler.java:113)
-	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:290)
-	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:272)
-	at io.netty.channel.ChannelInboundHandlerAdapter.exceptionCaught(ChannelInboundHandlerAdapter.java:143)
-	at com.viaversion.viaversion.platform.ViaDecodeHandler.exceptionCaught(ViaDecodeHandler.java:64)
-	at com.viaversion.viaversion.bukkit.handlers.BukkitDecodeHandler.exceptionCaught(BukkitDecodeHandler.java:45)
-	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:290)
-	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:272)
-	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1396)
-	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:890)
-	at io.netty.channel.kqueue.AbstractKQueueStreamChannel$KQueueStreamUnsafe.handleReadException(AbstractKQueueStreamChannel.java:584)
-	at io.netty.channel.kqueue.AbstractKQueueStreamChannel$KQueueStreamUnsafe.readReady(AbstractKQueueStreamChannel.java:563)
-	at io.netty.channel.kqueue.AbstractKQueueChannel$AbstractKQueueUnsafe.readEOF(AbstractKQueueChannel.java:517)
-	at io.netty.channel.kqueue.AbstractKQueueChannel$AbstractKQueueUnsafe.handle(AbstractKQueueChannel.java:418)
-	at io.netty.channel.kqueue.KQueueIoHandler$DefaultKqueueIoRegistration.handle(KQueueIoHandler.java:474)
-	at io.netty.channel.kqueue.KQueueIoHandler.processReady(KQueueIoHandler.java:216)
-	at io.netty.channel.kqueue.KQueueIoHandler.run(KQueueIoHandler.java:277)
-	at io.netty.channel.SingleThreadIoEventLoop.runIo(SingleThreadIoEventLoop.java:225)
-	at io.netty.channel.SingleThreadIoEventLoop.run(SingleThreadIoEventLoop.java:196)
-	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:1204)
-	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
-	at java.base/java.lang.Thread.run(Thread.java:1474)
-[15:57:18] [GeyserServerChild-4-1/INFO]: [Geyser-Spigot] Player connected with username Snow Leopard846 (2193)
-[15:57:18] [localSession-7-2/INFO]: [Geyser-Spigot] Snow Leopard846 (logged in as: Snow_Leopard846) has connected to the Java server
-[15:57:19] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Snow_Leopard846 joined (UUID: 00000000-0000-0000-0009-01fa79f613f5)
-[15:57:19] [Server thread/INFO]: System chat: .Snow_Leopard846 joined the game
-[15:57:19] [Server thread/INFO]: .Snow_Leopard846[/108.188.242.111:0] logged in with entity id 1 at ([world]-495.69998, 76.0, -21.69998998807907)
-[15:59:20] [Server thread/WARN]: .Snow_Leopard846 moved wrongly!
-[16:30:14] [Server thread/INFO]: System chat: .Snow_Leopard846 fell from a high place
-[16:30:22] [Server thread/WARN]: .Snow_Leopard846 moved wrongly!
-[16:31:43] [GeyserServerChild-4-1/INFO]: [Geyser-Spigot] Snow Leopard846 has disconnected from the Java server because of §rBedrock client disconnected
-[16:31:43] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .Snow_Leopard846 disconnected
-[16:31:43] [Server thread/INFO]: .Snow_Leopard846 lost connection: Disconnected
-[16:31:43] [Server thread/INFO]: System chat: .Snow_Leopard846 left the game
-[16:32:43] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[17:06:46] [User Authenticator #1/INFO]: UUID of player AmericanTank is c1cf6b0a-1bb8-4d32-8dab-5004fe1ddbac
-[17:06:47] [Server thread/INFO]: System chat: AmericanTank joined the game
-[17:06:47] [Server thread/INFO]: AmericanTank[/66.10.222.191:53981] logged in with entity id 5016 at ([world]454.5207612515976, 77.0, -1488.6221898115318)
-[17:10:29] [Server thread/WARN]: handleDisconnection() called twice
-[17:50:42] [Server thread/INFO]: AmericanTank lost connection: Disconnected
-[17:50:42] [Server thread/INFO]: System chat: AmericanTank left the game
-[17:50:42] [Server thread/WARN]: handleDisconnection() called twice
-[17:51:42] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[17:58:10] [User Authenticator #2/INFO]: UUID of player BrookeBabyCakes is a5ad9c79-0174-4e6b-98b4-d9178df1652a
-[17:58:11] [Server thread/INFO]: System chat: BrookeBabyCakes joined the game
-[17:58:11] [Server thread/INFO]: BrookeBabyCakes[/99.121.52.143:61231] logged in with entity id 14832 at ([world]226.35576362960586, 29.0, -969.1611306928489)
-[18:29:07] [Server thread/WARN]: BrookeBabyCakes moved wrongly!
-[18:40:23] [User Authenticator #3/INFO]: UUID of player mcsslf is b0903b35-a489-418e-bd7d-4a1d972603d5
-[18:40:23] [Server thread/INFO]: System chat: mcsslf joined the game
-[18:40:23] [Server thread/INFO]: mcsslf[/173.171.30.129:54484] logged in with entity id 23695 at ([world]538.7109544600256, 110.0, -741.2128692586986)
-[18:40:51] [Server thread/WARN]: BrookeBabyCakes moved wrongly!
-[18:41:05] [User Authenticator #4/INFO]: UUID of player pan_dx is f4b5ec75-413d-47b4-af90-644e83fa695d
-[18:41:06] [Server thread/INFO]: System chat: pan_dx joined the game
-[18:41:06] [Server thread/INFO]: pan_dx[/35.145.1.152:2136] logged in with entity id 24534 at ([world]313.5305169618447, 143.4560272546539, -855.7763423491957)
-[18:41:40] [Server thread/WARN]: BrookeBabyCakes moved wrongly!
-[18:43:44] [Server thread/INFO]: mcsslf issued server command: /w pan_dx hey pookie
-[18:43:58] [Server thread/INFO]: mcsslf issued server command: /w pan_dx can you slide some xp bottles
-[18:44:54] [Server thread/INFO]: mcsslf issued server command: /w pan_dx can i get a shulker with book and quills, for roulette
-[18:59:12] [Server thread/INFO]: mcsslf lost connection: Disconnected
-[18:59:12] [Server thread/INFO]: System chat: mcsslf left the game
-[18:59:47] [Server thread/INFO]: System chat: There are 2 of a max of 50 players online: BrookeBabyCakes, pan_dx
-[18:59:56] [Server thread/INFO]: System chat: Unknown game mode: pan_dx
-[18:59:56] [Server thread/INFO]: System chat: ...ode pan_dx survival<--[HERE]
-[19:00:02] [Server thread/INFO]: System chat: Set pan_dx's game mode to Survival Mode
-[19:07:53] [Server thread/WARN]: pan_dx moved too quickly! 0.16649035888407582,-10.124864397805425,-4.1959710364409375
-[19:08:31] [User Authenticator #5/INFO]: UUID of player BrookeBabyCakes is a5ad9c79-0174-4e6b-98b4-d9178df1652a
-[19:08:31] [Server thread/INFO]: BrookeBabyCakes lost connection: You logged in from another location
-[19:08:32] [Server thread/INFO]: System chat: BrookeBabyCakes left the game.
-[19:08:33] [Server thread/INFO]: System chat: BrookeBabyCakes joined the game
-[19:08:33] [Server thread/INFO]: BrookeBabyCakes[/99.121.52.143:60256] logged in with entity id 42198 at ([world]613.3799067615264, -7.0, -1048.5106099129853)
-[19:08:48] [Server thread/INFO]: pan_dx lost connection: Timed out
-[19:08:48] [Server thread/INFO]: System chat: pan_dx left the game
-[19:08:49] [User Authenticator #6/INFO]: UUID of player pan_dx is f4b5ec75-413d-47b4-af90-644e83fa695d
-[19:08:49] [Server thread/INFO]: System chat: pan_dx joined the game
-[19:08:49] [Server thread/INFO]: pan_dx[/35.145.1.152:1769] logged in with entity id 42577 at ([world]26.79843834843446, 56.0, 115.15554876248501)
+[00:18:38] [User Authenticator #28/INFO]: UUID of player BrookeBabyCakes is a5ad9c79-0174-4e6b-98b4-d9178df1652a
+[00:18:38] [Server thread/INFO]: BrookeBabyCakes lost connection: You logged in from another location
+[00:18:38] [Server thread/INFO]: System chat: BrookeBabyCakes left the game.
+[00:18:39] [Server thread/INFO]: System chat: BrookeBabyCakes joined the game
+[00:18:39] [Server thread/INFO]: BrookeBabyCakes[/99.121.52.143:56087] logged in with entity id 124127 at ([world]-517.6999999880791, -1.0, -426.07499998807907)
+[00:23:25] [User Authenticator #29/INFO]: UUID of player BrookeBabyCakes is a5ad9c79-0174-4e6b-98b4-d9178df1652a
+[00:23:25] [Server thread/INFO]: BrookeBabyCakes lost connection: You logged in from another location
+[00:23:25] [Server thread/INFO]: System chat: BrookeBabyCakes left the game.
+[00:23:26] [Server thread/INFO]: System chat: BrookeBabyCakes joined the game
+[00:23:26] [Server thread/INFO]: BrookeBabyCakes[/99.121.52.143:56104] logged in with entity id 125224 at ([world]-521.8522422415208, -35.0, -475.84267580689345)
+[00:26:22] [User Authenticator #30/INFO]: UUID of player BrookeBabyCakes is a5ad9c79-0174-4e6b-98b4-d9178df1652a
+[00:26:22] [Server thread/INFO]: BrookeBabyCakes lost connection: You logged in from another location
+[00:26:22] [Server thread/INFO]: System chat: BrookeBabyCakes left the game.
+[00:26:23] [Server thread/INFO]: System chat: BrookeBabyCakes joined the game
+[00:26:23] [Server thread/INFO]: BrookeBabyCakes[/99.121.52.143:56115] logged in with entity id 125862 at ([world]-492.74145061728103, -36.788273400840055, -450.80357860752224)
+[00:37:44] [Server thread/WARN]: BrookeBabyCakes was kicked for floating too long!
+[00:37:44] [Server thread/INFO]: BrookeBabyCakes lost connection: Flying is not enabled on this server
+[00:37:44] [Server thread/INFO]: System chat: BrookeBabyCakes left the game.
+[00:37:44] [Server thread/WARN]: handleDisconnection() called twice
+[00:37:57] [User Authenticator #31/INFO]: UUID of player BrookeBabyCakes is a5ad9c79-0174-4e6b-98b4-d9178df1652a
+[00:37:58] [Server thread/INFO]: System chat: BrookeBabyCakes joined the game
+[00:37:58] [Server thread/INFO]: BrookeBabyCakes[/99.121.52.143:56162] logged in with entity id 129196 at ([world]324.66581698028523, 103.10242014277117, -932.6323627418307)
+[00:39:32] [User Authenticator #32/INFO]: UUID of player BrookeBabyCakes is a5ad9c79-0174-4e6b-98b4-d9178df1652a
+[00:39:32] [Server thread/INFO]: BrookeBabyCakes lost connection: You logged in from another location
+[00:39:32] [Server thread/INFO]: System chat: BrookeBabyCakes left the game.
+[00:39:32] [Netty Kqueue IO #1/WARN]: [ViaVersion] Duplicate UUID on frontend connection! (a5ad9c79-0174-4e6b-98b4-d9178df1652a)
+[00:39:33] [Server thread/INFO]: System chat: BrookeBabyCakes joined the game
+[00:39:33] [Server thread/INFO]: BrookeBabyCakes[/99.121.52.143:56168] logged in with entity id 129929 at ([world]244.30915998673277, 114.77431148682521, -946.9087996879698)
+[00:40:26] [User Authenticator #33/INFO]: UUID of player BrookeBabyCakes is a5ad9c79-0174-4e6b-98b4-d9178df1652a
+[00:40:26] [Server thread/INFO]: BrookeBabyCakes lost connection: You logged in from another location
+[00:40:26] [Server thread/INFO]: System chat: BrookeBabyCakes left the game.
+[00:40:26] [Netty Kqueue IO #1/WARN]: [ViaVersion] Duplicate UUID on frontend connection! (a5ad9c79-0174-4e6b-98b4-d9178df1652a)
+[00:40:27] [Server thread/INFO]: System chat: BrookeBabyCakes joined the game
+[00:40:27] [Server thread/INFO]: BrookeBabyCakes[/99.121.52.143:56173] logged in with entity id 130554 at ([world]301.2584066068249, 112.27978765156374, -863.3016729994977)
+[00:42:48] [Server thread/INFO]: System chat: BrookeBabyCakes has completed the challenge [Over-Overkill]
+[00:45:40] [Server thread/INFO]: BrookeBabyCakes lost connection: Disconnected
+[00:45:40] [Server thread/INFO]: System chat: BrookeBabyCakes left the game
+[00:46:40] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[01:30:04] [Thread-0/INFO]: Stopping server
