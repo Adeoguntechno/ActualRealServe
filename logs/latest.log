@@ -1,101 +1,45 @@
-[00:02:19] [Server thread/WARN]: BrookeBabyCakes moved wrongly!
-[00:28:46] [Server thread/WARN]: BrookeBabyCakes moved wrongly!
-[00:30:12] [Server thread/WARN]: BrookeBabyCakes moved wrongly!
-[00:38:43] [Netty Kqueue IO #1/ERROR]: Error sending packet clientbound/minecraft:disconnect
-io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
-	at net.minecraft.network.codec.IdDispatchCodec.encode(IdDispatchCodec.java:50)
-	at net.minecraft.network.codec.IdDispatchCodec.encode(IdDispatchCodec.java:14)
-	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:26)
-	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:12)
-	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107)
-	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:800)
-	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:737)
-	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113)
-	at net.minecraft.network.Connection$2.write(Connection.java:510)
-	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:800)
-	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:776)
-	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:859)
-	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1046)
-	at io.netty.channel.Channel.writeAndFlush(Channel.java:257)
-	at net.minecraft.network.Connection.doSendPacket(Connection.java:349)
-	at net.minecraft.network.Connection.sendPacket(Connection.java:338)
-	at net.minecraft.network.Connection.send(Connection.java:316)
-	at net.minecraft.network.Connection.send(Connection.java:310)
-	at net.minecraft.network.Connection.exceptionCaught(Connection.java:145)
-	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:290)
-	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:272)
-	at io.netty.channel.ChannelHandlerAdapter.exceptionCaught(ChannelHandlerAdapter.java:92)
-	at com.viaversion.viaversion.platform.ViaEncodeHandler.exceptionCaught(ViaEncodeHandler.java:64)
-	at com.viaversion.viaversion.bukkit.handlers.BukkitEncodeHandler.exceptionCaught(BukkitEncodeHandler.java:113)
-	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:290)
-	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:272)
-	at io.netty.channel.ChannelInboundHandlerAdapter.exceptionCaught(ChannelInboundHandlerAdapter.java:143)
-	at com.viaversion.viaversion.platform.ViaDecodeHandler.exceptionCaught(ViaDecodeHandler.java:64)
-	at com.viaversion.viaversion.bukkit.handlers.BukkitDecodeHandler.exceptionCaught(BukkitDecodeHandler.java:45)
-	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:290)
-	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:272)
-	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1396)
-	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:890)
-	at io.netty.channel.kqueue.AbstractKQueueStreamChannel$KQueueStreamUnsafe.handleReadException(AbstractKQueueStreamChannel.java:584)
-	at io.netty.channel.kqueue.AbstractKQueueStreamChannel$KQueueStreamUnsafe.readReady(AbstractKQueueStreamChannel.java:563)
-	at io.netty.channel.kqueue.AbstractKQueueChannel$AbstractKQueueUnsafe.readEOF(AbstractKQueueChannel.java:517)
-	at io.netty.channel.kqueue.AbstractKQueueChannel$AbstractKQueueUnsafe.handle(AbstractKQueueChannel.java:418)
-	at io.netty.channel.kqueue.KQueueIoHandler$DefaultKqueueIoRegistration.handle(KQueueIoHandler.java:474)
-	at io.netty.channel.kqueue.KQueueIoHandler.processReady(KQueueIoHandler.java:216)
-	at io.netty.channel.kqueue.KQueueIoHandler.run(KQueueIoHandler.java:277)
-	at io.netty.channel.SingleThreadIoEventLoop.runIo(SingleThreadIoEventLoop.java:225)
-	at io.netty.channel.SingleThreadIoEventLoop.run(SingleThreadIoEventLoop.java:196)
-	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:1204)
-	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
-	at java.base/java.lang.Thread.run(Thread.java:1474)
-[00:38:56] [Netty Kqueue IO #2/ERROR]: Error sending packet clientbound/minecraft:disconnect
-io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
-	at net.minecraft.network.codec.IdDispatchCodec.encode(IdDispatchCodec.java:50)
-	at net.minecraft.network.codec.IdDispatchCodec.encode(IdDispatchCodec.java:14)
-	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:26)
-	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:12)
-	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107)
-	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:800)
-	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:737)
-	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113)
-	at net.minecraft.network.Connection$2.write(Connection.java:510)
-	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:800)
-	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:776)
-	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:859)
-	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1046)
-	at io.netty.channel.Channel.writeAndFlush(Channel.java:257)
-	at net.minecraft.network.Connection.doSendPacket(Connection.java:349)
-	at net.minecraft.network.Connection.sendPacket(Connection.java:338)
-	at net.minecraft.network.Connection.send(Connection.java:316)
-	at net.minecraft.network.Connection.send(Connection.java:310)
-	at net.minecraft.network.Connection.exceptionCaught(Connection.java:145)
-	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:290)
-	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:272)
-	at io.netty.channel.ChannelHandlerAdapter.exceptionCaught(ChannelHandlerAdapter.java:92)
-	at com.viaversion.viaversion.platform.ViaEncodeHandler.exceptionCaught(ViaEncodeHandler.java:64)
-	at com.viaversion.viaversion.bukkit.handlers.BukkitEncodeHandler.exceptionCaught(BukkitEncodeHandler.java:113)
-	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:290)
-	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:272)
-	at io.netty.channel.ChannelInboundHandlerAdapter.exceptionCaught(ChannelInboundHandlerAdapter.java:143)
-	at com.viaversion.viaversion.platform.ViaDecodeHandler.exceptionCaught(ViaDecodeHandler.java:64)
-	at com.viaversion.viaversion.bukkit.handlers.BukkitDecodeHandler.exceptionCaught(BukkitDecodeHandler.java:45)
-	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:290)
-	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:272)
-	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1396)
-	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:890)
-	at io.netty.channel.kqueue.AbstractKQueueStreamChannel$KQueueStreamUnsafe.handleReadException(AbstractKQueueStreamChannel.java:584)
-	at io.netty.channel.kqueue.AbstractKQueueStreamChannel$KQueueStreamUnsafe.readReady(AbstractKQueueStreamChannel.java:563)
-	at io.netty.channel.kqueue.AbstractKQueueChannel$AbstractKQueueUnsafe.readEOF(AbstractKQueueChannel.java:517)
-	at io.netty.channel.kqueue.AbstractKQueueChannel$AbstractKQueueUnsafe.handle(AbstractKQueueChannel.java:418)
-	at io.netty.channel.kqueue.KQueueIoHandler$DefaultKqueueIoRegistration.handle(KQueueIoHandler.java:474)
-	at io.netty.channel.kqueue.KQueueIoHandler.processReady(KQueueIoHandler.java:216)
-	at io.netty.channel.kqueue.KQueueIoHandler.run(KQueueIoHandler.java:277)
-	at io.netty.channel.SingleThreadIoEventLoop.runIo(SingleThreadIoEventLoop.java:225)
-	at io.netty.channel.SingleThreadIoEventLoop.run(SingleThreadIoEventLoop.java:196)
-	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:1204)
-	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
-	at java.base/java.lang.Thread.run(Thread.java:1474)
-[00:57:32] [Server thread/INFO]: BrookeBabyCakes lost connection: Disconnected
-[00:57:32] [Server thread/INFO]: System chat: BrookeBabyCakes left the game
-[00:58:32] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[01:30:03] [Thread-0/INFO]: Stopping server
+[00:00:08] [User Authenticator #15/INFO]: UUID of player BrookeBabyCakes is a5ad9c79-0174-4e6b-98b4-d9178df1652a
+[00:00:08] [Server thread/INFO]: BrookeBabyCakes lost connection: You logged in from another location
+[00:00:08] [Server thread/INFO]: System chat: BrookeBabyCakes left the game.
+[00:00:08] [Netty Kqueue IO #3/WARN]: [ViaVersion] Duplicate UUID on frontend connection! (a5ad9c79-0174-4e6b-98b4-d9178df1652a)
+[00:00:09] [Server thread/INFO]: System chat: BrookeBabyCakes joined the game
+[00:00:09] [Server thread/INFO]: BrookeBabyCakes[/99.121.52.143:51626] logged in with entity id 139044 at ([world]5927.159791093454, 208.77868591020584, -1863.4072888571918)
+[00:01:36] [Server thread/WARN]: BrookeBabyCakes moved wrongly!
+[00:02:14] [Server thread/INFO]: BrookeBabyCakes lost connection: Timed out
+[00:02:14] [Server thread/INFO]: System chat: BrookeBabyCakes left the game
+[00:02:18] [User Authenticator #16/INFO]: UUID of player BrookeBabyCakes is a5ad9c79-0174-4e6b-98b4-d9178df1652a
+[00:02:18] [Server thread/INFO]: System chat: BrookeBabyCakes joined the game
+[00:02:18] [Server thread/INFO]: BrookeBabyCakes[/99.121.52.143:51634] logged in with entity id 143218 at ([world]4580.268470133306, 79.20446884040747, -599.9169445756359)
+[00:03:40] [User Authenticator #17/INFO]: UUID of player BrookeBabyCakes is a5ad9c79-0174-4e6b-98b4-d9178df1652a
+[00:03:40] [Server thread/INFO]: BrookeBabyCakes lost connection: You logged in from another location
+[00:03:40] [Server thread/INFO]: System chat: BrookeBabyCakes left the game.
+[00:03:43] [Server thread/INFO]: System chat: BrookeBabyCakes joined the game
+[00:03:43] [Server thread/INFO]: BrookeBabyCakes[/99.121.52.143:51646] logged in with entity id 143872 at ([world]4495.300000011921, 66.0, -496.6603074974737)
+[00:05:23] [Server thread/INFO]: BrookeBabyCakes lost connection: Timed out
+[00:05:23] [Server thread/INFO]: System chat: BrookeBabyCakes left the game.
+[00:05:56] [User Authenticator #18/INFO]: UUID of player BrookeBabyCakes is a5ad9c79-0174-4e6b-98b4-d9178df1652a
+[00:06:02] [Server thread/INFO]: System chat: BrookeBabyCakes joined the game
+[00:06:02] [Server thread/INFO]: BrookeBabyCakes[/99.121.52.143:51663] logged in with entity id 144277 at ([world]4489.160597437468, 66.0, -488.02717771882146)
+[00:07:13] [Server thread/WARN]: BrookeBabyCakes moved too quickly! -11.669119647862317,0.7967356006687112,2.66905561009861
+[00:09:17] [User Authenticator #19/INFO]: UUID of player BrookeBabyCakes is a5ad9c79-0174-4e6b-98b4-d9178df1652a
+[00:09:17] [Server thread/INFO]: BrookeBabyCakes lost connection: You logged in from another location
+[00:09:17] [Server thread/INFO]: System chat: BrookeBabyCakes left the game.
+[00:09:18] [Server thread/INFO]: System chat: BrookeBabyCakes joined the game
+[00:09:18] [Server thread/INFO]: BrookeBabyCakes[/99.121.52.143:56553] logged in with entity id 146581 at ([world]3718.893877660549, 55.90751281842509, -304.70924882865205)
+[00:10:22] [Server thread/INFO]: System chat: BrookeBabyCakes fell from a high place
+[00:12:00] [Server thread/WARN]: BrookeBabyCakes moved too quickly! 8.742649611111403,6.860715275315883,4.487339839555489
+[00:12:26] [Server thread/WARN]: BrookeBabyCakes was kicked for floating too long!
+[00:12:26] [Server thread/INFO]: BrookeBabyCakes lost connection: Flying is not enabled on this server
+[00:12:26] [Server thread/INFO]: System chat: BrookeBabyCakes left the game.
+[00:12:26] [Server thread/WARN]: handleDisconnection() called twice
+[00:12:29] [Geyser LegacyPingPassthrough Thread/WARN]: [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+java.net.SocketException: Network is unreachable
+	at java.base/sun.nio.ch.Net.connect0(Native Method)
+	at java.base/sun.nio.ch.Net.connect(Net.java:546)
+	at java.base/sun.nio.ch.Net.connect(Net.java:535)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:585)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:284)
+	at java.base/java.net.Socket.connect(Socket.java:659)
+	at org.geysermc.geyser.ping.GeyserLegacyPingPassthrough.run(GeyserLegacyPingPassthrough.java:101)
+[00:13:26] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[00:19:18] [Thread-0/INFO]: Stopping server

@@ -7,30 +7,20 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:cold_ocean": "2026-09-23 23:29:48 -0400",
       "minecraft:snowy_slopes": "2026-09-05 00:26:36 -0400",
       "minecraft:old_growth_pine_taiga": "2026-09-23 23:29:52 -0400",
-      "minecraft:forest": "2026-09-05 00:20:11 -0400",
+      "minecraft:mushroom_fields": "2026-09-30 23:06:47 -0400",
       "minecraft:taiga": "2026-09-07 12:13:26 -0400",
       "minecraft:deep_ocean": "2026-09-27 16:23:02 -0400",
-      "minecraft:lush_caves": "2026-09-05 16:07:14 -0400",
-      "minecraft:ice_spikes": "2026-09-07 22:57:08 -0400",
-      "minecraft:frozen_ocean": "2026-09-07 22:50:16 -0400",
-      "minecraft:desert": "2026-09-29 23:17:17 -0400",
+      "minecraft:eroded_badlands": "2026-09-30 22:26:10 -0400",
       "minecraft:frozen_river": "2026-09-07 12:32:57 -0400",
-      "minecraft:deep_frozen_ocean": "2026-09-07 22:52:17 -0400",
-      "minecraft:jungle": "2026-09-07 23:44:36 -0400",
-      "minecraft:ocean": "2026-09-14 20:41:00 -0400",
       "minecraft:cherry_grove": "2026-09-05 00:17:03 -0400",
       "minecraft:sunflower_plains": "2026-09-05 00:18:17 -0400",
       "minecraft:birch_forest": "2026-09-05 00:52:44 -0400",
       "minecraft:windswept_hills": "2026-09-24 22:45:11 -0400",
-      "minecraft:old_growth_spruce_taiga": "2026-09-07 22:28:15 -0400",
-      "minecraft:snowy_beach": "2026-09-07 12:33:04 -0400",
       "minecraft:bamboo_jungle": "2026-09-23 22:02:03 -0400",
-      "minecraft:warm_ocean": "2026-09-29 23:17:11 -0400",
-      "minecraft:deep_lukewarm_ocean": "2026-09-28 00:20:19 -0400",
-      "minecraft:flower_forest": "2026-09-05 00:29:29 -0400",
+      "minecraft:wooded_badlands": "2026-09-30 22:26:16 -0400",
+      "minecraft:badlands": "2026-09-30 22:26:14 -0400",
       "minecraft:savanna_plateau": "2026-09-05 00:04:48 -0400",
       "minecraft:beach": "2026-09-05 19:10:03 -0400",
       "minecraft:stony_peaks": "2026-09-05 00:25:00 -0400",
@@ -42,15 +32,32 @@
       "minecraft:snowy_plains": "2026-09-07 12:32:20 -0400",
       "minecraft:dripstone_caves": "2026-09-05 00:54:59 -0400",
       "minecraft:snowy_taiga": "2026-09-07 12:32:19 -0400",
+      "minecraft:grove": "2026-09-05 15:56:06 -0400",
+      "minecraft:swamp": "2026-09-30 22:27:32 -0400",
+      "minecraft:jagged_peaks": "2026-09-05 00:30:34 -0400",
+      "minecraft:cold_ocean": "2026-09-23 23:29:48 -0400",
+      "minecraft:forest": "2026-09-05 00:20:11 -0400",
+      "minecraft:lush_caves": "2026-09-05 16:07:14 -0400",
+      "minecraft:deep_cold_ocean": "2026-09-30 22:42:37 -0400",
+      "minecraft:ice_spikes": "2026-09-07 22:57:08 -0400",
+      "minecraft:frozen_ocean": "2026-09-07 22:50:16 -0400",
+      "minecraft:desert": "2026-09-29 23:17:17 -0400",
+      "minecraft:deep_frozen_ocean": "2026-09-07 22:52:17 -0400",
+      "minecraft:windswept_forest": "2026-09-30 22:27:30 -0400",
+      "minecraft:jungle": "2026-09-07 23:44:36 -0400",
+      "minecraft:ocean": "2026-09-14 20:41:00 -0400",
+      "minecraft:old_growth_spruce_taiga": "2026-09-07 22:28:15 -0400",
+      "minecraft:snowy_beach": "2026-09-07 12:33:04 -0400",
+      "minecraft:warm_ocean": "2026-09-29 23:17:11 -0400",
+      "minecraft:deep_lukewarm_ocean": "2026-09-28 00:20:19 -0400",
+      "minecraft:flower_forest": "2026-09-05 00:29:29 -0400",
       "minecraft:frozen_peaks": "2026-09-05 16:09:10 -0400",
       "minecraft:old_growth_birch_forest": "2026-09-05 00:56:58 -0400",
       "minecraft:sulfur_caves": "2026-09-17 23:35:30 -0400",
       "minecraft:deep_dark": "2026-09-05 00:58:20 -0400",
-      "minecraft:grove": "2026-09-05 15:56:06 -0400",
       "minecraft:meadow": "2026-09-05 00:29:32 -0400",
       "minecraft:savanna": "2026-09-05 00:14:41 -0400",
       "minecraft:plains": "2026-09-05 00:17:21 -0400",
-      "minecraft:jagged_peaks": "2026-09-05 00:30:34 -0400",
       "minecraft:pale_garden": "2026-09-07 12:27:28 -0400"
     },
     "done": false
@@ -3589,9 +3596,10 @@
   },
   "minecraft:adventure/salvage_sherd": {
     "criteria": {
-      "has_sherd": "2026-09-15 23:07:49 -0400"
+      "has_sherd": "2026-09-15 23:07:49 -0400",
+      "trail_ruins_common": "2026-09-30 20:35:30 -0400"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/beehive": {
     "criteria": {
@@ -5567,29 +5575,33 @@
     },
     "done": true
   },
-  "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
-    "criteria": {
-      "armor_trimmed_minecraft:silence_armor_trim_smithing_template_smithing_trim": "2026-09-30 00:51:53 -0400",
-      "armor_trimmed_minecraft:tide_armor_trim_smithing_template_smithing_trim": "2026-09-30 00:52:27 -0400",
-      "armor_trimmed_minecraft:rib_armor_trim_smithing_template_smithing_trim": "2026-09-30 00:55:47 -0400"
-    },
-    "done": false
-  },
   "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
     "criteria": {
       "has_sentry_armor_trim_smithing_template": "2026-09-29 23:40:52 -0400"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
-      "has_copper_block": "2026-09-30 00:39:06 -0400"
+      "has_smithing_trim_template": "2026-09-29 23:40:52 -0400"
     },
     "done": true
   },
   "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2026-09-30 00:17:24 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
+    "criteria": {
+      "has_rib_armor_trim_smithing_template": "2026-09-30 00:17:24 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2026-09-30 00:39:06 -0400"
     },
     "done": true
   },
@@ -5635,27 +5647,587 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2026-09-29 23:40:52 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/copper_grate": {
     "criteria": {
       "has_copper_block": "2026-09-30 00:39:06 -0400"
     },
     "done": true
   },
-  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
-    "criteria": {
-      "has_rib_armor_trim_smithing_template": "2026-09-30 00:17:24 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2026-09-30 00:39:06 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
+    "criteria": {
+      "armor_trimmed_minecraft:silence_armor_trim_smithing_template_smithing_trim": "2026-09-30 00:51:53 -0400",
+      "armor_trimmed_minecraft:tide_armor_trim_smithing_template_smithing_trim": "2026-09-30 00:52:27 -0400",
+      "armor_trimmed_minecraft:rib_armor_trim_smithing_template_smithing_trim": "2026-09-30 00:55:47 -0400"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/dye_light_blue_cushion": {
+    "criteria": {
+      "has_needed_dye": "2026-09-30 20:35:35 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_light_blue_carpet": {
+    "criteria": {
+      "has_needed_dye": "2026-09-30 20:35:35 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_light_blue_harness": {
+    "criteria": {
+      "has_needed_dye": "2026-09-30 20:35:35 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_light_blue_bed": {
+    "criteria": {
+      "has_needed_dye": "2026-09-30 20:35:35 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_blue_wool": {
+    "criteria": {
+      "has_needed_dye": "2026-09-30 20:35:35 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_blue_wool_stairs": {
+    "criteria": {
+      "has_needed_dye": "2026-09-30 20:35:35 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_blue_wool_slab": {
+    "criteria": {
+      "has_needed_dye": "2026-09-30 20:35:35 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_candle": {
+    "criteria": {
+      "has_light_blue_dye": "2026-09-30 20:35:35 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/light_blue_bundle": {
+    "criteria": {
+      "has_light_blue_dye": "2026-09-30 20:35:35 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
+    "criteria": {
+      "has_white_terracotta": "2026-09-30 20:37:06 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
+    "criteria": {
+      "has_cyan_terracotta": "2026-09-30 20:38:23 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wayfinder_armor_trim_smithing_template": {
+    "criteria": {
+      "has_wayfinder_armor_trim_smithing_template": "2026-09-30 20:38:38 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wayfinder_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2026-09-30 20:38:38 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_wool_stairs": {
+    "criteria": {
+      "has_needed_dye": "2026-09-30 20:40:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_wool_slab": {
+    "criteria": {
+      "has_needed_dye": "2026-09-30 20:40:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_candle": {
+    "criteria": {
+      "has_yellow_dye": "2026-09-30 20:40:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_wool": {
+    "criteria": {
+      "has_needed_dye": "2026-09-30 20:40:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/yellow_bundle": {
+    "criteria": {
+      "has_yellow_dye": "2026-09-30 20:40:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_yellow_harness": {
+    "criteria": {
+      "has_needed_dye": "2026-09-30 20:40:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_yellow_bed": {
+    "criteria": {
+      "has_needed_dye": "2026-09-30 20:40:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_yellow_carpet": {
+    "criteria": {
+      "has_needed_dye": "2026-09-30 20:40:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_yellow_dye": "2026-09-30 20:40:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_yellow_cushion": {
+    "criteria": {
+      "has_needed_dye": "2026-09-30 20:40:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2026-09-30 20:48:14 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_bricks": {
+    "criteria": {
+      "has_packed_mud": "2026-09-30 20:48:14 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_white_cushion": {
+    "criteria": {
+      "has_needed_dye": "2026-09-30 20:56:55 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/white_bundle": {
+    "criteria": {
+      "has_white_dye": "2026-09-30 20:56:55 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_white_carpet": {
+    "criteria": {
+      "has_needed_dye": "2026-09-30 20:56:55 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_candle": {
+    "criteria": {
+      "has_white_dye": "2026-09-30 20:56:55 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_white_dye": "2026-09-30 20:56:55 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_white_dye": "2026-09-30 20:56:55 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_white_harness": {
+    "criteria": {
+      "has_needed_dye": "2026-09-30 20:56:55 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2026-09-30 20:56:55 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_wool_stairs": {
+    "criteria": {
+      "has_needed_dye": "2026-09-30 20:56:55 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_wool_slab": {
+    "criteria": {
+      "has_needed_dye": "2026-09-30 20:56:55 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_wool": {
+    "criteria": {
+      "has_needed_dye": "2026-09-30 20:56:55 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_white_bed": {
+    "criteria": {
+      "has_needed_dye": "2026-09-30 20:56:55 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2026-09-30 20:56:55 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_white_dye": "2026-09-30 20:56:55 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_white_dye": "2026-09-30 20:56:55 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2026-09-30 20:56:55 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raiser_armor_trim_smithing_template": {
+    "criteria": {
+      "has_raiser_armor_trim_smithing_template": "2026-09-30 21:25:17 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raiser_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2026-09-30 21:25:17 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/orange_bundle": {
+    "criteria": {
+      "has_orange_dye": "2026-09-30 21:38:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_candle": {
+    "criteria": {
+      "has_orange_dye": "2026-09-30 21:38:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_wool_stairs": {
+    "criteria": {
+      "has_needed_dye": "2026-09-30 21:38:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_wool_slab": {
+    "criteria": {
+      "has_needed_dye": "2026-09-30 21:38:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_orange_cushion": {
+    "criteria": {
+      "has_needed_dye": "2026-09-30 21:38:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_orange_carpet": {
+    "criteria": {
+      "has_needed_dye": "2026-09-30 21:38:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_wool": {
+    "criteria": {
+      "has_needed_dye": "2026-09-30 21:38:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_orange_bed": {
+    "criteria": {
+      "has_needed_dye": "2026-09-30 21:38:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_orange_harness": {
+    "criteria": {
+      "has_needed_dye": "2026-09-30 21:38:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/host_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2026-09-30 21:38:24 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/host_armor_trim_smithing_template": {
+    "criteria": {
+      "has_host_armor_trim_smithing_template": "2026-09-30 21:38:24 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/shaper_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2026-09-30 22:00:57 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/shaper_armor_trim_smithing_template": {
+    "criteria": {
+      "has_shaper_armor_trim_smithing_template": "2026-09-30 22:00:57 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2026-09-30 22:01:10 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mud_brick_wall": {
+    "criteria": {
+      "has_mud_bricks": "2026-09-30 22:01:10 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2026-09-30 22:01:10 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_slab": {
+    "criteria": {
+      "has_mud_bricks": "2026-09-30 22:01:10 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs": {
+    "criteria": {
+      "has_mud_bricks": "2026-09-30 22:01:10 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mud_brick_wall_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2026-09-30 22:01:10 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_terracotta": {
+    "criteria": {
+      "has_terracotta": "2026-09-30 22:12:40 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2026-09-30 22:12:40 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_terracotta": {
+    "criteria": {
+      "has_terracotta": "2026-09-30 22:12:40 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_terracotta": {
+    "criteria": {
+      "has_terracotta": "2026-09-30 22:12:40 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_terracotta": {
+    "criteria": {
+      "has_terracotta": "2026-09-30 22:12:40 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2026-09-30 22:12:40 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2026-09-30 22:12:40 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_terracotta": {
+    "criteria": {
+      "has_terracotta": "2026-09-30 22:12:40 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_terracotta": {
+    "criteria": {
+      "has_terracotta": "2026-09-30 22:12:40 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_terracotta": {
+    "criteria": {
+      "has_terracotta": "2026-09-30 22:12:40 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_terracotta": {
+    "criteria": {
+      "has_terracotta": "2026-09-30 22:12:40 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_terracotta": {
+    "criteria": {
+      "has_terracotta": "2026-09-30 22:12:40 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_terracotta": {
+    "criteria": {
+      "has_terracotta": "2026-09-30 22:12:40 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2026-09-30 22:12:40 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_terracotta": {
+    "criteria": {
+      "has_terracotta": "2026-09-30 22:12:40 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_terracotta": {
+    "criteria": {
+      "has_terracotta": "2026-09-30 22:12:40 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_wool_stairs": {
+    "criteria": {
+      "has_orange_wool": "2026-09-30 23:38:30 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_bed": {
+    "criteria": {
+      "has_orange_wool": "2026-09-30 23:38:30 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_banner": {
+    "criteria": {
+      "has_orange_wool": "2026-09-30 23:38:30 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_wool_slab": {
+    "criteria": {
+      "has_orange_wool": "2026-09-30 23:38:30 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_carpet": {
+    "criteria": {
+      "has_orange_wool": "2026-09-30 23:38:30 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2026-10-01 00:03:02 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_green_dye": "2026-10-01 00:06:27 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_wool_stairs": {
+    "criteria": {
+      "has_needed_dye": "2026-10-01 00:06:27 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_wool_slab": {
+    "criteria": {
+      "has_needed_dye": "2026-10-01 00:06:27 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_candle": {
+    "criteria": {
+      "has_green_dye": "2026-10-01 00:06:27 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/green_bundle": {
+    "criteria": {
+      "has_green_dye": "2026-10-01 00:06:27 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_green_harness": {
+    "criteria": {
+      "has_needed_dye": "2026-10-01 00:06:27 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_green_carpet": {
+    "criteria": {
+      "has_needed_dye": "2026-10-01 00:06:27 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_green_cushion": {
+    "criteria": {
+      "has_needed_dye": "2026-10-01 00:06:27 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_green_bed": {
+    "criteria": {
+      "has_needed_dye": "2026-10-01 00:06:27 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_wool": {
+    "criteria": {
+      "has_needed_dye": "2026-10-01 00:06:27 -0400"
     },
     "done": true
   },
