@@ -3565,9 +3565,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/dye_gray_harness": {
+  "minecraft:recipes/food/suspicious_stew_from_azure_bluet": {
     "criteria": {
-      "has_needed_dye": "2026-10-01 17:27:44 -0400"
+      "has_azure_bluet": "2026-10-01 17:26:16 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2026-10-01 17:26:16 -0400"
     },
     "done": true
   },
@@ -3583,15 +3589,129 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
-    "criteria": {
-      "has_glass": "2026-10-01 17:44:02 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/dye_light_gray_bed": {
     "criteria": {
       "has_needed_dye": "2026-10-01 17:26:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/light_gray_bundle": {
+    "criteria": {
+      "has_light_gray_dye": "2026-10-01 17:26:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_light_gray_dye": "2026-10-01 17:26:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_gray_wool_stairs": {
+    "criteria": {
+      "has_needed_dye": "2026-10-01 17:26:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_gray_wool": {
+    "criteria": {
+      "has_needed_dye": "2026-10-01 17:26:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_light_gray_carpet": {
+    "criteria": {
+      "has_needed_dye": "2026-10-01 17:26:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_candle": {
+    "criteria": {
+      "has_light_gray_dye": "2026-10-01 17:26:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_light_gray_cushion": {
+    "criteria": {
+      "has_needed_dye": "2026-10-01 17:26:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_gray_harness": {
+    "criteria": {
+      "has_needed_dye": "2026-10-01 17:27:44 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_gray_bed": {
+    "criteria": {
+      "has_needed_dye": "2026-10-01 17:27:44 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_candle": {
+    "criteria": {
+      "has_gray_dye": "2026-10-01 17:27:44 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_gray_dye": "2026-10-01 17:27:44 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_gray_carpet": {
+    "criteria": {
+      "has_needed_dye": "2026-10-01 17:27:44 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_gray_dye": "2026-10-01 17:27:44 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/gray_bundle": {
+    "criteria": {
+      "has_gray_dye": "2026-10-01 17:27:44 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_gray_wool": {
+    "criteria": {
+      "has_needed_dye": "2026-10-01 17:27:44 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_gray_wool_stairs": {
+    "criteria": {
+      "has_needed_dye": "2026-10-01 17:27:44 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_gray_wool_slab": {
+    "criteria": {
+      "has_needed_dye": "2026-10-01 17:27:45 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_gray_cushion": {
+    "criteria": {
+      "has_needed_dye": "2026-10-01 17:27:45 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2026-10-01 17:37:36 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-10-01 17:44:02 -0400"
     },
     "done": true
   },
@@ -3619,24 +3739,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/dye_gray_bed": {
-    "criteria": {
-      "has_needed_dye": "2026-10-01 17:27:44 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/light_gray_bundle": {
-    "criteria": {
-      "has_light_gray_dye": "2026-10-01 17:26:18 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_light_gray_dye": "2026-10-01 17:26:18 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2026-10-01 17:44:02 -0400"
@@ -3661,18 +3763,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_light_gray_wool_stairs": {
-    "criteria": {
-      "has_needed_dye": "2026-10-01 17:26:18 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/suspicious_stew_from_azure_bluet": {
-    "criteria": {
-      "has_azure_bluet": "2026-10-01 17:26:16 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2026-10-01 17:44:02 -0400"
@@ -3691,39 +3781,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/gray_candle": {
-    "criteria": {
-      "has_gray_dye": "2026-10-01 17:27:44 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_gray_wool_slab": {
-    "criteria": {
-      "has_needed_dye": "2026-10-01 17:27:45 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_gray_dye": "2026-10-01 17:27:44 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2026-10-01 17:44:02 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dye_gray_carpet": {
-    "criteria": {
-      "has_needed_dye": "2026-10-01 17:27:44 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
-    "criteria": {
-      "has_azure_bluet": "2026-10-01 17:26:16 -0400"
     },
     "done": true
   },
@@ -3733,45 +3793,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/dye_gray_cushion": {
-    "criteria": {
-      "has_needed_dye": "2026-10-01 17:27:45 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_light_gray_wool": {
-    "criteria": {
-      "has_needed_dye": "2026-10-01 17:26:18 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2026-10-01 17:44:02 -0400"
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
-    "criteria": {
-      "has_gray_dye": "2026-10-01 17:27:44 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2026-10-01 17:44:02 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dye_light_gray_carpet": {
-    "criteria": {
-      "has_needed_dye": "2026-10-01 17:26:18 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_candle": {
-    "criteria": {
-      "has_light_gray_dye": "2026-10-01 17:26:18 -0400"
     },
     "done": true
   },
@@ -3784,36 +3814,6 @@
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2026-10-01 17:44:02 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/grindstone": {
-    "criteria": {
-      "has_stone_slab": "2026-10-01 17:37:36 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/gray_bundle": {
-    "criteria": {
-      "has_gray_dye": "2026-10-01 17:27:44 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_gray_wool": {
-    "criteria": {
-      "has_needed_dye": "2026-10-01 17:27:44 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dye_light_gray_cushion": {
-    "criteria": {
-      "has_needed_dye": "2026-10-01 17:26:18 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_gray_wool_stairs": {
-    "criteria": {
-      "has_needed_dye": "2026-10-01 17:27:44 -0400"
     },
     "done": true
   },
