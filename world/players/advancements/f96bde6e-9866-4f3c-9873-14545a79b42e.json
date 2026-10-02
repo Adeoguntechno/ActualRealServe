@@ -3287,5 +3287,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_mushroom": "2026-10-02 16:55:15 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2026-10-02 17:24:42 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_mushroom": "2026-10-02 16:55:15 -0400"
+    },
+    "done": true
+  },
   "DataVersion": 5023
 }

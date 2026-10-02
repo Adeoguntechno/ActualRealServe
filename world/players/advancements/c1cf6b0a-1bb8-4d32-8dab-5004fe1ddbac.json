@@ -51,6 +51,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2026-09-17 18:09:39 -0400",
+      "minecraft:pillager": "2026-10-02 16:23:53 -0400",
       "minecraft:skeleton": "2026-09-10 18:10:36 -0400",
       "minecraft:phantom": "2026-09-14 18:25:55 -0400",
       "minecraft:zombified_piglin": "2026-09-16 20:24:17 -0400",
@@ -4194,6 +4195,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_deepslate_iron_ore": {
+    "criteria": {
+      "has_deepslate_iron_ore": "2026-09-30 19:55:15 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_deepslate_iron_ore": {
+    "criteria": {
+      "has_deepslate_iron_ore": "2026-09-30 19:55:15 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_deepslate_stonecutting": {
     "criteria": {
       "has_deepslate": "2026-09-30 19:55:16 -0400"
@@ -4248,12 +4261,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_smelting_deepslate_iron_ore": {
-    "criteria": {
-      "has_deepslate_iron_ore": "2026-09-30 19:55:15 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_from_deepslate_stonecutting": {
     "criteria": {
       "has_deepslate": "2026-09-30 19:55:16 -0400"
@@ -4278,12 +4285,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_blasting_deepslate_iron_ore": {
-    "criteria": {
-      "has_deepslate_iron_ore": "2026-09-30 19:55:15 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_deepslate_stonecutting": {
     "criteria": {
       "has_deepslate": "2026-09-30 19:55:16 -0400"
@@ -4305,6 +4306,18 @@
   "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_stonecutting": {
     "criteria": {
       "has_deepslate": "2026-09-30 19:55:16 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crafter": {
+    "criteria": {
+      "has_dropper": "2026-10-02 16:18:37 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2026-10-02 16:23:53 -0400"
     },
     "done": true
   },

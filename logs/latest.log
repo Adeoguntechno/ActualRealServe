@@ -1,10 +1,230 @@
-[00:41:18] [Geyser LegacyPingPassthrough Thread/WARN]: [Geyser-Spigot] IO error while trying to use legacy ping passthrough
-java.net.SocketException: Network is unreachable
-	at java.base/sun.nio.ch.Net.connect0(Native Method)
-	at java.base/sun.nio.ch.Net.connect(Net.java:546)
-	at java.base/sun.nio.ch.Net.connect(Net.java:535)
-	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:585)
-	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:284)
-	at java.base/java.net.Socket.connect(Socket.java:659)
-	at org.geysermc.geyser.ping.GeyserLegacyPingPassthrough.run(GeyserLegacyPingPassthrough.java:101)
-[01:30:04] [Thread-0/INFO]: Stopping server
+[15:00:24] [ServerMain/WARN]: Unable to parse version 27.0 to a codename.
+[15:00:26] [ServerMain/INFO]: Environment: Environment[discoveryUrl=https://discovery.minecraftservices.com/minecraft/client, name=PROD]
+[15:00:26] [ServerMain/INFO]: Found non-pack entry './world/datapacks/.DS_Store', ignoring
+[15:00:26] [ServerMain/INFO]: Found non-pack entry './world/datapacks/douay_rheims_minecraft_commands.mcfunction', ignoring
+[15:00:26] [Server thread/INFO]: Starting minecraft server version 26.3
+[15:00:26] [Server thread/INFO]: Loading properties
+[15:00:26] [Server thread/INFO]: This server is running Spigot version 4654-Spigot-766de51-b57d710 (MC: 26.3) (Implementing API version 26.3-R0.1-SNAPSHOT)
+[15:00:26] [Server thread/INFO]: *** This version of Spigot contains changes to some enums. If you notice that plugins no longer work after updating, please report this to the developers of those plugins first. ***
+[15:00:26] [Server thread/INFO]: *** If you cannot update those plugins, you can try setting `settings.compatibility.enum-compatibility-mode` to `true` in `bukkit.yml`. ***
+[15:00:27] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[15:00:27] [Server thread/INFO]: Using 4 threads for Netty based IO
+[15:00:27] [Server thread/INFO]: Debug logging is disabled
+[15:00:27] [Server thread/INFO]: Default game type: SURVIVAL
+[15:00:27] [Server thread/INFO]: Generating keypair
+[15:00:27] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:00:27] [Server thread/ERROR]: Could not load 'plugins/paper-26.3-19.jar'
+org.bukkit.plugin.InvalidDescriptionException: Invalid plugin.yml
+	at org.bukkit.plugin.java.JavaPluginLoader.getPluginDescription(JavaPluginLoader.java:170)
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:158)
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:122)
+	at org.bukkit.craftbukkit.CraftServer.loadPlugins(CraftServer.java:473)
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:297)
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1072)
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:351)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+Caused by: java.io.FileNotFoundException: Jar does not contain plugin.yml
+	... 8 more
+[15:00:27] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v5.12.0
+[15:00:27] [Server thread/INFO]: [ViaVersion] ViaVersion 5.12.0 is now loaded. Registering protocol transformers and injecting...
+[15:00:27] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[15:00:27] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[15:00:27] [Server thread/INFO]: [floodgate] Loading floodgate v2.2.5-SNAPSHOT (b141-81b65cc)
+[15:00:27] [Server thread/INFO]: [floodgate] Took 206ms to boot Floodgate
+[15:00:27] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v5.12.1-SNAPSHOT
+[15:00:27] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser-Spigot v2.11.3-SNAPSHOT
+[15:00:27] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[15:00:27] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[15:00:27] [Server thread/INFO]: Preparing level "world"
+[15:00:28] [Server thread/INFO]: -------- World Settings For [world] --------
+[15:00:28] [Server thread/INFO]: View Distance: 10
+[15:00:28] [Server thread/INFO]: Simulation Distance: 7
+[15:00:28] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:00:28] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:00:28] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[15:00:28] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[15:00:28] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:00:28] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:00:28] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:00:28] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:00:28] [Server thread/INFO]: Mob Spawn Range: 6
+[15:00:28] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:00:28] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:00:28] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:00:28] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:00:28] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:00:28] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:00:28] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[15:00:28] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[15:00:28] [Server thread/INFO]: Potato Growth Modifier: 100%
+[15:00:28] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:00:28] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:00:28] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:00:28] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:00:28] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[15:00:28] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[15:00:28] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[15:00:28] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[15:00:28] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[15:00:28] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[15:00:28] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[15:00:28] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[15:00:28] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[15:00:28] [Server thread/INFO]: Max TNT Explosions: 100
+[15:00:28] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:00:28] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[15:00:28] [Server thread/INFO]: View Distance: 10
+[15:00:28] [Server thread/INFO]: Simulation Distance: 7
+[15:00:28] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:00:28] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:00:28] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[15:00:28] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[15:00:28] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:00:28] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:00:28] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:00:28] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:00:28] [Server thread/INFO]: Mob Spawn Range: 6
+[15:00:28] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:00:28] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:00:28] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:00:28] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:00:28] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:00:28] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:00:28] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[15:00:28] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[15:00:28] [Server thread/INFO]: Potato Growth Modifier: 100%
+[15:00:28] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:00:28] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:00:28] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:00:28] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:00:28] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[15:00:28] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[15:00:28] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[15:00:28] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[15:00:28] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[15:00:28] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[15:00:28] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[15:00:28] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[15:00:28] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[15:00:28] [Server thread/INFO]: Max TNT Explosions: 100
+[15:00:28] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:00:28] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[15:00:28] [Server thread/INFO]: View Distance: 10
+[15:00:28] [Server thread/INFO]: Simulation Distance: 7
+[15:00:28] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:00:28] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:00:28] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[15:00:28] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[15:00:28] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:00:28] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:00:28] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:00:28] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:00:28] [Server thread/INFO]: Mob Spawn Range: 6
+[15:00:28] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:00:28] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:00:28] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:00:28] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:00:28] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:00:28] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:00:28] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[15:00:28] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[15:00:28] [Server thread/INFO]: Potato Growth Modifier: 100%
+[15:00:28] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:00:28] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:00:28] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:00:28] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:00:28] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[15:00:28] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[15:00:28] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[15:00:28] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[15:00:28] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[15:00:28] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[15:00:28] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[15:00:28] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[15:00:28] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[15:00:28] [Server thread/INFO]: Max TNT Explosions: 100
+[15:00:28] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:00:28] [Server thread/INFO]: Loading 0 persistent chunks...
+[15:00:28] [Server thread/INFO]: Time elapsed: 0 ms
+[15:00:28] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.12.0
+[15:00:28] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 26.3 (777)
+[15:00:28] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.5-SNAPSHOT (b141-81b65cc)
+[15:00:28] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.12.1-SNAPSHOT
+[15:00:28] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.11.3-SNAPSHOT
+[15:00:28] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:00:29] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[15:00:29] [Server thread/INFO]: [Geyser-Spigot] 
+[15:00:29] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.11.3-b1245 (git-master-2808f7d)
+[15:00:29] [Server thread/INFO]: [Geyser-Spigot] 
+[15:00:29] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[15:00:29] [Server thread/INFO]: [Geyser-Spigot] Registered 199 custom block overrides.
+[15:00:29] [Server thread/INFO]: [Geyser-Spigot] Registered 2 custom block item overrides.
+[15:00:29] [Server thread/INFO]: [Geyser-Spigot] Registered 7 custom blocks.
+[15:00:30] [Server thread/INFO]: [Geyser-Spigot] Registered 1 custom items
+[15:00:31] [GeyserServer-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
+[15:00:31] [Server thread/WARN]: [Geyser-Spigot] NetherNet will not start! With the "both" transport, RakNet and NetherNet each need their own UDP port, but both are set to 19132. Set "webrtc-port" in the "bedrock" section to a different free port.
+[15:00:31] [Server thread/INFO]: [Geyser-Spigot] Done (1.61s)! Run /geyser help for help!
+[15:00:31] [Server thread/INFO]: Done (3.094s)! For help, type "help"
+[15:00:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:00:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[15:00:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[15:00:31] [Geyser LegacyPingPassthrough Thread/WARN]: [Geyser-Spigot] Failed to ping the remote Java server! Is it online and configured in Geyser's config?
+[15:00:31] [Craft Scheduler Thread - 1/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[15:01:31] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[15:37:06] [User Authenticator #1/INFO]: UUID of player AmericanTank is c1cf6b0a-1bb8-4d32-8dab-5004fe1ddbac
+[15:37:07] [Server thread/INFO]: System chat: AmericanTank joined the game
+[15:37:07] [Server thread/INFO]: AmericanTank[/66.10.222.191:51262] logged in with entity id 1 at ([world]314.95884866066183, -26.0, -885.3000000119209)
+[15:38:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2696ms or 53 ticks behind
+[15:44:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10071ms or 201 ticks behind
+[15:44:53] [Server thread/INFO]: AmericanTank lost connection: Disconnected
+[15:44:56] [Server thread/INFO]: System chat: AmericanTank left the game
+[15:45:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5811ms or 116 ticks behind
+[15:45:18] [Server thread/INFO]: AmericanTank (/66.10.222.191:50268) lost connection: Disconnected
+[15:45:41] [Server thread/INFO]: AmericanTank (/66.10.222.191:50277) lost connection: Disconnected
+[15:45:51] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[15:50:39] [User Authenticator #2/INFO]: UUID of player AmericanTank is c1cf6b0a-1bb8-4d32-8dab-5004fe1ddbac
+[15:50:40] [Server thread/INFO]: System chat: AmericanTank joined the game
+[15:50:40] [Server thread/INFO]: AmericanTank[/66.10.222.191:50345] logged in with entity id 2223 at ([world]285.7656704362925, 112.41999998688698, -943.2982921706094)
+[15:52:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4467ms or 89 ticks behind
+[15:52:18] [Server thread/WARN]: AmericanTank moved too quickly! -19.130608291948363,-30.557053610059583,15.499645256993745
+[15:52:21] [Server thread/WARN]: AmericanTank moved too quickly! 4.204778176364698,-3.7736804382896594,-30.018296858944495
+[15:52:24] [Server thread/WARN]: AmericanTank moved too quickly! 13.305827154604685,-0.5287270028372859,23.970686607783705
+[15:52:25] [Server thread/INFO]: AmericanTank lost connection: Disconnected
+[15:52:26] [Server thread/INFO]: System chat: AmericanTank left the game
+[15:52:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10459ms or 209 ticks behind
+[15:52:42] [Server thread/INFO]: AmericanTank (/66.10.222.191:50428) lost connection: Disconnected
+[15:53:13] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[15:54:45] [User Authenticator #3/INFO]: UUID of player AmericanTank is c1cf6b0a-1bb8-4d32-8dab-5004fe1ddbac
+[15:54:46] [Server thread/INFO]: System chat: AmericanTank joined the game
+[15:54:46] [Server thread/INFO]: AmericanTank[/66.10.222.191:50450] logged in with entity id 2983 at ([world]267.34134610621027, 125.24771623197442, -954.5695361270263)
+[15:57:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2726ms or 54 ticks behind
+[15:57:42] [Server thread/WARN]: AmericanTank moved too quickly! 22.88642688905017,-3.094520676964379,-8.285994574036863
+[15:57:43] [Server thread/INFO]: AmericanTank lost connection: Disconnected
+[15:57:43] [Server thread/INFO]: System chat: AmericanTank left the game
+[15:57:49] [User Authenticator #4/INFO]: UUID of player AmericanTank is c1cf6b0a-1bb8-4d32-8dab-5004fe1ddbac
+[15:57:49] [Server thread/INFO]: System chat: AmericanTank joined the game
+[15:57:49] [Server thread/INFO]: AmericanTank[/66.10.222.191:50480] logged in with entity id 4259 at ([world]255.22803688927692, 134.0634073506797, -945.8490257413329)
+[15:58:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5253ms or 105 ticks behind
+[15:58:04] [Server thread/INFO]: AmericanTank lost connection: Disconnected
+[15:58:04] [Server thread/INFO]: System chat: AmericanTank left the game
+[15:59:01] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[16:02:18] [User Authenticator #5/INFO]: UUID of player AmericanTank is c1cf6b0a-1bb8-4d32-8dab-5004fe1ddbac
+[16:02:19] [Server thread/INFO]: System chat: AmericanTank joined the game
+[16:02:19] [Server thread/INFO]: AmericanTank[/66.10.222.191:55113] logged in with entity id 4730 at ([world]250.42279756288207, 99.80947931032145, -944.5977666302646)
+[16:23:53] [Server thread/INFO]: System chat: AmericanTank has made the advancement [Voluntary Exile]
+[16:36:56] [Server thread/INFO]: AmericanTank lost connection: Disconnected
+[16:36:56] [Server thread/INFO]: System chat: AmericanTank left the game
+[16:37:56] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[16:45:08] [User Authenticator #6/INFO]: UUID of player GARFUNCLE1234 is f96bde6e-9866-4f3c-9873-14545a79b42e
+[16:45:09] [Server thread/INFO]: System chat: GARFUNCLE1234 joined the game
+[16:45:09] [Server thread/INFO]: GARFUNCLE1234[/143.59.232.63:7527] logged in with entity id 15368 at ([world]-1462.3981810086143, 96.0, -2923.699999988079)
+[17:04:23] [Async Chat Thread - #6/INFO]: <GARFUNCLE1234> w
+[17:31:07] [User Authenticator #7/INFO]: UUID of player mcsslf is b0903b35-a489-418e-bd7d-4a1d972603d5
+[17:31:08] [Server thread/INFO]: System chat: mcsslf joined the game
+[17:31:08] [Server thread/INFO]: mcsslf[/173.171.30.129:60042] logged in with entity id 22222 at ([world]535.293349667887, 102.0, -749.312846359175)
+[17:36:56] [Server thread/INFO]: GARFUNCLE1234 lost connection: Disconnected
+[17:36:57] [Server thread/INFO]: System chat: GARFUNCLE1234 left the game
+[17:40:06] [Server thread/INFO]: System chat: mcsslf was blown up by Creeper
+[17:48:36] [Server thread/INFO]: mcsslf lost connection: Disconnected
+[17:48:37] [Server thread/INFO]: System chat: mcsslf left the game
+[17:49:36] [Server thread/INFO]: Server empty for 60 seconds, pausing
