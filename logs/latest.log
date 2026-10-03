@@ -1,14 +1,301 @@
-[00:10:44] [GeyserServerChild-4-1/WARN]: [Geyser-Spigot] Exception caught in session of Ginger8013
-io.netty.channel.unix.Errors$NativeIoException: sendToAddresses(..) failed with error(-49): Can't assign requested address
-[00:10:44] [GeyserServerChild-4-1/INFO]: [Geyser-Spigot] Ginger8013 has disconnected from the Java server because of §rAn internal error occurred!
-[00:10:44] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .Ginger8013 disconnected
-[00:10:44] [GeyserServerChild-4-1/WARN]: [Geyser-Spigot] Exception caught in session of Ginger8013
-io.netty.channel.unix.Errors$NativeIoException: sendToAddresses(..) failed with error(-49): Can't assign requested address
-[00:10:44] [GeyserServerChild-4-1/WARN]: [Geyser-Spigot] Exception caught in session of Ginger8013
-io.netty.channel.unix.Errors$NativeIoException: sendToAddresses(..) failed with error(-49): Can't assign requested address
-[00:10:44] [Server thread/INFO]: .Ginger8013 lost connection: Disconnected
-[00:10:44] [Server thread/INFO]: System chat: .Ginger8013 left the game
-[00:10:47] [Geyser LegacyPingPassthrough Thread/WARN]: [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[08:00:26] [ServerMain/WARN]: Unable to parse version 27.0 to a codename.
+[08:00:28] [ServerMain/INFO]: Environment: Environment[discoveryUrl=https://discovery.minecraftservices.com/minecraft/client, name=PROD]
+[08:00:28] [ServerMain/INFO]: Found non-pack entry './world/datapacks/.DS_Store', ignoring
+[08:00:28] [ServerMain/INFO]: Found non-pack entry './world/datapacks/douay_rheims_minecraft_commands.mcfunction', ignoring
+[08:00:29] [Server thread/INFO]: Starting minecraft server version 26.3
+[08:00:29] [Server thread/INFO]: Loading properties
+[08:00:29] [Server thread/INFO]: This server is running Spigot version 4654-Spigot-766de51-b57d710 (MC: 26.3) (Implementing API version 26.3-R0.1-SNAPSHOT)
+[08:00:29] [Server thread/INFO]: *** This version of Spigot contains changes to some enums. If you notice that plugins no longer work after updating, please report this to the developers of those plugins first. ***
+[08:00:29] [Server thread/INFO]: *** If you cannot update those plugins, you can try setting `settings.compatibility.enum-compatibility-mode` to `true` in `bukkit.yml`. ***
+[08:00:29] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[08:00:29] [Server thread/INFO]: Using 4 threads for Netty based IO
+[08:00:29] [Server thread/INFO]: Debug logging is disabled
+[08:00:29] [Server thread/INFO]: Default game type: SURVIVAL
+[08:00:29] [Server thread/INFO]: Generating keypair
+[08:00:29] [Server thread/INFO]: Starting Minecraft server on *:25565
+[08:00:29] [Server thread/ERROR]: Could not load 'plugins/paper-26.3-19.jar'
+org.bukkit.plugin.InvalidDescriptionException: Invalid plugin.yml
+	at org.bukkit.plugin.java.JavaPluginLoader.getPluginDescription(JavaPluginLoader.java:170)
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:158)
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:122)
+	at org.bukkit.craftbukkit.CraftServer.loadPlugins(CraftServer.java:473)
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:297)
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1072)
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:351)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+Caused by: java.io.FileNotFoundException: Jar does not contain plugin.yml
+	... 8 more
+[08:00:29] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v5.12.0
+[08:00:29] [Server thread/INFO]: [ViaVersion] ViaVersion 5.12.0 is now loaded. Registering protocol transformers and injecting...
+[08:00:30] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[08:00:30] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[08:00:30] [Server thread/INFO]: [floodgate] Loading floodgate v2.2.5-SNAPSHOT (b141-81b65cc)
+[08:00:30] [Server thread/INFO]: [floodgate] Took 209ms to boot Floodgate
+[08:00:30] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v5.12.1-SNAPSHOT
+[08:00:30] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser-Spigot v2.11.3-SNAPSHOT
+[08:00:30] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[08:00:30] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[08:00:30] [Server thread/INFO]: Preparing level "world"
+[08:00:30] [Server thread/INFO]: -------- World Settings For [world] --------
+[08:00:30] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[08:00:30] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[08:00:30] [Server thread/INFO]: View Distance: 10
+[08:00:30] [Server thread/INFO]: Simulation Distance: 7
+[08:00:30] [Server thread/INFO]: Item Despawn Rate: 6000
+[08:00:30] [Server thread/INFO]: Item Merge Radius: 2.5
+[08:00:30] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[08:00:30] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[08:00:30] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[08:00:30] [Server thread/INFO]: Experience Merge Radius: 3.0
+[08:00:30] [Server thread/INFO]: Mob Spawn Range: 6
+[08:00:30] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[08:00:30] [Server thread/INFO]: Cane Growth Modifier: 100%
+[08:00:30] [Server thread/INFO]: Melon Growth Modifier: 100%
+[08:00:30] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[08:00:30] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[08:00:30] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[08:00:30] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[08:00:30] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[08:00:30] [Server thread/INFO]: Potato Growth Modifier: 100%
+[08:00:30] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[08:00:30] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[08:00:30] [Server thread/INFO]: Vine Growth Modifier: 100%
+[08:00:30] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[08:00:30] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[08:00:30] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[08:00:30] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[08:00:30] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[08:00:30] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[08:00:30] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[08:00:30] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[08:00:30] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[08:00:30] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[08:00:30] [Server thread/INFO]: Max TNT Explosions: 100
+[08:00:30] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[08:00:30] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[08:00:30] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[08:00:30] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[08:00:30] [Server thread/INFO]: View Distance: 10
+[08:00:30] [Server thread/INFO]: Simulation Distance: 7
+[08:00:30] [Server thread/INFO]: Item Despawn Rate: 6000
+[08:00:30] [Server thread/INFO]: Item Merge Radius: 2.5
+[08:00:30] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[08:00:30] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[08:00:30] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[08:00:30] [Server thread/INFO]: Experience Merge Radius: 3.0
+[08:00:30] [Server thread/INFO]: Mob Spawn Range: 6
+[08:00:30] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[08:00:30] [Server thread/INFO]: Cane Growth Modifier: 100%
+[08:00:30] [Server thread/INFO]: Melon Growth Modifier: 100%
+[08:00:30] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[08:00:30] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[08:00:30] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[08:00:30] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[08:00:30] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[08:00:30] [Server thread/INFO]: Potato Growth Modifier: 100%
+[08:00:30] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[08:00:30] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[08:00:30] [Server thread/INFO]: Vine Growth Modifier: 100%
+[08:00:30] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[08:00:30] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[08:00:30] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[08:00:30] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[08:00:30] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[08:00:30] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[08:00:30] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[08:00:30] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[08:00:30] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[08:00:30] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[08:00:30] [Server thread/INFO]: Max TNT Explosions: 100
+[08:00:30] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[08:00:30] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[08:00:30] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[08:00:30] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[08:00:30] [Server thread/INFO]: View Distance: 10
+[08:00:30] [Server thread/INFO]: Simulation Distance: 7
+[08:00:30] [Server thread/INFO]: Item Despawn Rate: 6000
+[08:00:30] [Server thread/INFO]: Item Merge Radius: 2.5
+[08:00:30] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[08:00:30] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[08:00:30] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[08:00:30] [Server thread/INFO]: Experience Merge Radius: 3.0
+[08:00:30] [Server thread/INFO]: Mob Spawn Range: 6
+[08:00:30] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[08:00:30] [Server thread/INFO]: Cane Growth Modifier: 100%
+[08:00:30] [Server thread/INFO]: Melon Growth Modifier: 100%
+[08:00:30] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[08:00:30] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[08:00:30] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[08:00:30] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[08:00:30] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[08:00:30] [Server thread/INFO]: Potato Growth Modifier: 100%
+[08:00:30] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[08:00:30] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[08:00:30] [Server thread/INFO]: Vine Growth Modifier: 100%
+[08:00:30] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[08:00:30] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[08:00:30] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[08:00:30] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[08:00:30] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[08:00:30] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[08:00:30] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[08:00:30] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[08:00:30] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[08:00:30] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[08:00:30] [Server thread/INFO]: Max TNT Explosions: 100
+[08:00:30] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[08:00:30] [Server thread/INFO]: Loading 0 persistent chunks...
+[08:00:30] [Server thread/INFO]: Time elapsed: 1 ms
+[08:00:30] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.12.0
+[08:00:30] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 26.3 (777)
+[08:00:30] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.5-SNAPSHOT (b141-81b65cc)
+[08:00:31] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.12.1-SNAPSHOT
+[08:00:31] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.11.3-SNAPSHOT
+[08:00:31] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[08:00:35] [Minecraft Services Discovery/WARN]: Failed to connect
+com.mojang.authlib.exceptions.MinecraftClientException: Failed to read from https://discovery.minecraftservices.com/minecraft/client due to Read timed out
+	at com.mojang.authlib.minecraft.client.MinecraftClient.readServiceResponse(MinecraftClient.java:151)
+	at com.mojang.authlib.minecraft.client.MinecraftClient.getWithEtag(MinecraftClient.java:81)
+	at com.mojang.authlib.minecraft.client.MinecraftClient.get(MinecraftClient.java:65)
+	at com.mojang.authlib.services.MinecraftServicesDiscoveryService.lambda$createDiscoverySupplier$1(MinecraftServicesDiscoveryService.java:76)
+	at com.mojang.authlib.services.RetryableFetch$1.run(RetryableFetch.java:42)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:309)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+Caused by: java.net.SocketTimeoutException: Read timed out
+	at java.base/sun.nio.ch.NioSocketImpl.timedRead(NioSocketImpl.java:277)
+	at java.base/sun.nio.ch.NioSocketImpl.implRead(NioSocketImpl.java:302)
+	at java.base/sun.nio.ch.NioSocketImpl.read(NioSocketImpl.java:354)
+	at java.base/sun.nio.ch.NioSocketImpl$1.read(NioSocketImpl.java:798)
+	at java.base/java.net.Socket$SocketInputStream.implRead(Socket.java:974)
+	at java.base/java.net.Socket$SocketInputStream.read(Socket.java:964)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:489)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.readHeader(SSLSocketInputRecord.java:483)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.decode(SSLSocketInputRecord.java:160)
+	at java.base/sun.security.ssl.SSLTransport.decode(SSLTransport.java:111)
+	at java.base/sun.security.ssl.SSLSocketImpl.decode(SSLSocketImpl.java:1506)
+	at java.base/sun.security.ssl.SSLSocketImpl.readHandshakeRecord(SSLSocketImpl.java:1421)
+	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:455)
+	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:426)
+	at java.base/sun.net.www.protocol.https.HttpsClient.afterConnect(HttpsClient.java:483)
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:187)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1377)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1302)
+	at java.base/java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:493)
+	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:307)
+	at com.mojang.authlib.minecraft.client.MinecraftClient.readServiceResponse(MinecraftClient.java:130)
+	... 10 more
+[08:00:35] [Minecraft Services Discovery/WARN]: Services are unavailable, unable to fetch uri for AUTHENTICATION/getPublicKeys
+[08:00:35] [Minecraft Services Discovery/WARN]: Failed to connect
+com.mojang.authlib.exceptions.MinecraftClientException: Services are unavailable
+	at com.mojang.authlib.services.MinecraftServicesDiscoveryService.getEndpoint(MinecraftServicesDiscoveryService.java:139)
+	at com.mojang.authlib.services.MinecraftServicesDiscoveryService.getUrl(MinecraftServicesDiscoveryService.java:125)
+	at com.mojang.authlib.services.MinecraftServicesDiscoveryService.lambda$getServicesKeySet$2(MinecraftServicesDiscoveryService.java:117)
+	at com.mojang.authlib.services.RetryableFetch$1.run(RetryableFetch.java:40)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:309)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+[08:00:35] [Minecraft Services Discovery/WARN]: Services are unavailable, unable to fetch uri for AUTHENTICATION/getPublicKeys
+[08:00:35] [Minecraft Services Discovery/WARN]: Failed to connect
+com.mojang.authlib.exceptions.MinecraftClientException: Services are unavailable
+	at com.mojang.authlib.services.MinecraftServicesDiscoveryService.getEndpoint(MinecraftServicesDiscoveryService.java:139)
+	at com.mojang.authlib.services.MinecraftServicesDiscoveryService.getUrl(MinecraftServicesDiscoveryService.java:125)
+	at com.mojang.authlib.services.MinecraftServicesDiscoveryService.lambda$getServicesKeySet$2(MinecraftServicesDiscoveryService.java:117)
+	at com.mojang.authlib.services.RetryableFetch$1.run(RetryableFetch.java:40)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:309)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+[08:00:39] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[08:00:39] [Server thread/INFO]: [Geyser-Spigot] 
+[08:00:39] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.11.3-b1245 (git-master-2808f7d)
+[08:00:39] [Server thread/INFO]: [Geyser-Spigot] 
+[08:00:39] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[08:00:40] [Server thread/INFO]: [Geyser-Spigot] Registered 199 custom block overrides.
+[08:00:40] [Server thread/INFO]: [Geyser-Spigot] Registered 2 custom block item overrides.
+[08:00:40] [Server thread/INFO]: [Geyser-Spigot] Registered 7 custom blocks.
+[08:00:40] [Server thread/INFO]: [Geyser-Spigot] Registered 1 custom items
+[08:00:41] [GeyserServer-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
+[08:00:41] [Server thread/WARN]: [Geyser-Spigot] NetherNet will not start! With the "both" transport, RakNet and NetherNet each need their own UDP port, but both are set to 19132. Set "webrtc-port" in the "bedrock" section to a different free port.
+[08:00:41] [Server thread/INFO]: [Geyser-Spigot] Done (1.586s)! Run /geyser help for help!
+[08:00:41] [Server thread/INFO]: Done (10.793s)! For help, type "help"
+[08:00:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[08:00:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[08:00:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[08:00:41] [Geyser LegacyPingPassthrough Thread/WARN]: [Geyser-Spigot] Failed to ping the remote Java server! Is it online and configured in Geyser's config?
+[08:00:41] [Craft Scheduler Thread - 1/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[08:01:41] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[08:06:08] [Minecraft Services Discovery/ERROR]: Failed to request Minecraft Services public key
+com.mojang.authlib.exceptions.MinecraftClientException: Failed to read from https://api.minecraftservices.com/publickeys due to Unexpected end of file from server
+	at com.mojang.authlib.minecraft.client.MinecraftClient.readServiceResponse(MinecraftClient.java:151)
+	at com.mojang.authlib.minecraft.client.MinecraftClient.getWithEtag(MinecraftClient.java:81)
+	at com.mojang.authlib.minecraft.client.MinecraftClient.get(MinecraftClient.java:65)
+	at com.mojang.authlib.services.MinecraftServicesKeyInfo.fetch(MinecraftServicesKeyInfo.java:82)
+	at com.mojang.authlib.services.MinecraftServicesKeyInfo.lambda$get$1(MinecraftServicesKeyInfo.java:71)
+	at com.mojang.authlib.services.RetryableFetch$1.run(RetryableFetch.java:42)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:309)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+Caused by: java.net.SocketException: Unexpected end of file from server
+	at java.base/sun.net.www.http.HttpClient.parseHTTPHeader(HttpClient.java:923)
+	at java.base/sun.net.www.http.HttpClient.parseHTTP(HttpClient.java:727)
+	at java.base/sun.net.www.http.HttpClient.parseHTTPHeader(HttpClient.java:920)
+	at java.base/sun.net.www.http.HttpClient.parseHTTP(HttpClient.java:727)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1392)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1302)
+	at java.base/java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:493)
+	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:307)
+	at com.mojang.authlib.minecraft.client.MinecraftClient.readServiceResponse(MinecraftClient.java:130)
+	... 11 more
+[08:06:17] [Minecraft Services Discovery/ERROR]: Failed to request Minecraft Services public key
+com.mojang.authlib.exceptions.MinecraftClientException: Failed to read from https://api.minecraftservices.com/publickeys due to Read timed out
+	at com.mojang.authlib.minecraft.client.MinecraftClient.readServiceResponse(MinecraftClient.java:151)
+	at com.mojang.authlib.minecraft.client.MinecraftClient.getWithEtag(MinecraftClient.java:81)
+	at com.mojang.authlib.minecraft.client.MinecraftClient.get(MinecraftClient.java:65)
+	at com.mojang.authlib.services.MinecraftServicesKeyInfo.fetch(MinecraftServicesKeyInfo.java:82)
+	at com.mojang.authlib.services.MinecraftServicesKeyInfo.lambda$get$1(MinecraftServicesKeyInfo.java:71)
+	at com.mojang.authlib.services.RetryableFetch$1.run(RetryableFetch.java:42)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:309)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+Caused by: java.net.SocketTimeoutException: Read timed out
+	at java.base/sun.nio.ch.NioSocketImpl.timedRead(NioSocketImpl.java:277)
+	at java.base/sun.nio.ch.NioSocketImpl.implRead(NioSocketImpl.java:302)
+	at java.base/sun.nio.ch.NioSocketImpl.read(NioSocketImpl.java:354)
+	at java.base/sun.nio.ch.NioSocketImpl$1.read(NioSocketImpl.java:798)
+	at java.base/java.net.Socket$SocketInputStream.implRead(Socket.java:974)
+	at java.base/java.net.Socket$SocketInputStream.read(Socket.java:964)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:489)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.readHeader(SSLSocketInputRecord.java:483)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.decode(SSLSocketInputRecord.java:160)
+	at java.base/sun.security.ssl.SSLTransport.decode(SSLTransport.java:111)
+	at java.base/sun.security.ssl.SSLSocketImpl.decode(SSLSocketImpl.java:1506)
+	at java.base/sun.security.ssl.SSLSocketImpl.readHandshakeRecord(SSLSocketImpl.java:1421)
+	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:455)
+	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:426)
+	at java.base/sun.net.www.protocol.https.HttpsClient.afterConnect(HttpsClient.java:483)
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:187)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1377)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1302)
+	at java.base/java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:493)
+	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:307)
+	at com.mojang.authlib.minecraft.client.MinecraftClient.readServiceResponse(MinecraftClient.java:130)
+	... 11 more
+[08:17:30] [Geyser LegacyPingPassthrough Thread/WARN]: [Geyser-Spigot] IO error while trying to use legacy ping passthrough
 java.net.SocketException: Network is unreachable
 	at java.base/sun.nio.ch.Net.connect0(Native Method)
 	at java.base/sun.nio.ch.Net.connect(Net.java:546)
@@ -17,7 +304,7 @@ java.net.SocketException: Network is unreachable
 	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:284)
 	at java.base/java.net.Socket.connect(Socket.java:659)
 	at org.geysermc.geyser.ping.GeyserLegacyPingPassthrough.run(GeyserLegacyPingPassthrough.java:101)
-[00:10:50] [Geyser LegacyPingPassthrough Thread/WARN]: [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+[08:19:27] [Geyser LegacyPingPassthrough Thread/WARN]: [Geyser-Spigot] IO error while trying to use legacy ping passthrough
 java.net.SocketException: Network is unreachable
 	at java.base/sun.nio.ch.Net.connect0(Native Method)
 	at java.base/sun.nio.ch.Net.connect(Net.java:546)
@@ -26,5 +313,1137 @@ java.net.SocketException: Network is unreachable
 	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:284)
 	at java.base/java.net.Socket.connect(Socket.java:659)
 	at org.geysermc.geyser.ping.GeyserLegacyPingPassthrough.run(GeyserLegacyPingPassthrough.java:101)
-[00:11:44] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[00:18:00] [Thread-0/INFO]: Stopping server
+[08:19:30] [Geyser LegacyPingPassthrough Thread/WARN]: [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+java.net.SocketException: Network is unreachable
+	at java.base/sun.nio.ch.Net.connect0(Native Method)
+	at java.base/sun.nio.ch.Net.connect(Net.java:546)
+	at java.base/sun.nio.ch.Net.connect(Net.java:535)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:585)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:284)
+	at java.base/java.net.Socket.connect(Socket.java:659)
+	at org.geysermc.geyser.ping.GeyserLegacyPingPassthrough.run(GeyserLegacyPingPassthrough.java:101)
+[08:42:52] [User Authenticator #1/INFO]: UUID of player AmericanTank is c1cf6b0a-1bb8-4d32-8dab-5004fe1ddbac
+[08:42:56] [Server thread/INFO]: AmericanTank (c1cf6b0a-1bb8-4d32-8dab-5004fe1ddbac) lost connection: Disconnected
+[08:43:05] [User Authenticator #2/INFO]: UUID of player AmericanTank is c1cf6b0a-1bb8-4d32-8dab-5004fe1ddbac
+[08:43:21] [Server thread/INFO]: System chat: AmericanTank joined the game
+[08:43:21] [Server thread/INFO]: AmericanTank[/66.10.222.191:51898] logged in with entity id 220 at ([world]254.69999998807907, 106.0, -872.6999999880791)
+[08:43:48] [Server thread/INFO]: AmericanTank lost connection: Disconnected
+[08:43:48] [Server thread/INFO]: System chat: AmericanTank left the game
+[08:44:48] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[08:52:09] [Geyser LegacyPingPassthrough Thread/WARN]: [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+java.net.SocketException: Network is unreachable
+	at java.base/sun.nio.ch.Net.connect0(Native Method)
+	at java.base/sun.nio.ch.Net.connect(Net.java:546)
+	at java.base/sun.nio.ch.Net.connect(Net.java:535)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:585)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:284)
+	at java.base/java.net.Socket.connect(Socket.java:659)
+	at org.geysermc.geyser.ping.GeyserLegacyPingPassthrough.run(GeyserLegacyPingPassthrough.java:101)
+[08:56:29] [Geyser LegacyPingPassthrough Thread/WARN]: [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+java.net.BindException: Can't assign requested address
+	at java.base/sun.nio.ch.Net.connect0(Native Method)
+	at java.base/sun.nio.ch.Net.connect(Net.java:546)
+	at java.base/sun.nio.ch.Net.connect(Net.java:535)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:585)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:284)
+	at java.base/java.net.Socket.connect(Socket.java:659)
+	at org.geysermc.geyser.ping.GeyserLegacyPingPassthrough.run(GeyserLegacyPingPassthrough.java:101)
+[08:56:32] [Geyser LegacyPingPassthrough Thread/WARN]: [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+java.net.SocketException: Network is unreachable
+	at java.base/sun.nio.ch.Net.connect0(Native Method)
+	at java.base/sun.nio.ch.Net.connect(Net.java:546)
+	at java.base/sun.nio.ch.Net.connect(Net.java:535)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:585)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:284)
+	at java.base/java.net.Socket.connect(Socket.java:659)
+	at org.geysermc.geyser.ping.GeyserLegacyPingPassthrough.run(GeyserLegacyPingPassthrough.java:101)
+[08:56:47] [Geyser LegacyPingPassthrough Thread/WARN]: [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+java.net.SocketException: Network is unreachable
+	at java.base/sun.nio.ch.Net.connect0(Native Method)
+	at java.base/sun.nio.ch.Net.connect(Net.java:546)
+	at java.base/sun.nio.ch.Net.connect(Net.java:535)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:585)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:284)
+	at java.base/java.net.Socket.connect(Socket.java:659)
+	at org.geysermc.geyser.ping.GeyserLegacyPingPassthrough.run(GeyserLegacyPingPassthrough.java:101)
+[09:02:01] [Geyser LegacyPingPassthrough Thread/WARN]: [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+java.net.SocketException: Network is unreachable
+	at java.base/sun.nio.ch.Net.connect0(Native Method)
+	at java.base/sun.nio.ch.Net.connect(Net.java:546)
+	at java.base/sun.nio.ch.Net.connect(Net.java:535)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:585)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:284)
+	at java.base/java.net.Socket.connect(Socket.java:659)
+	at org.geysermc.geyser.ping.GeyserLegacyPingPassthrough.run(GeyserLegacyPingPassthrough.java:101)
+[09:02:04] [Geyser LegacyPingPassthrough Thread/WARN]: [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+java.net.SocketException: Network is unreachable
+	at java.base/sun.nio.ch.Net.connect0(Native Method)
+	at java.base/sun.nio.ch.Net.connect(Net.java:546)
+	at java.base/sun.nio.ch.Net.connect(Net.java:535)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:585)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:284)
+	at java.base/java.net.Socket.connect(Socket.java:659)
+	at org.geysermc.geyser.ping.GeyserLegacyPingPassthrough.run(GeyserLegacyPingPassthrough.java:101)
+[09:02:07] [Geyser LegacyPingPassthrough Thread/WARN]: [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+java.net.SocketException: Network is unreachable
+	at java.base/sun.nio.ch.Net.connect0(Native Method)
+	at java.base/sun.nio.ch.Net.connect(Net.java:546)
+	at java.base/sun.nio.ch.Net.connect(Net.java:535)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:585)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:284)
+	at java.base/java.net.Socket.connect(Socket.java:659)
+	at org.geysermc.geyser.ping.GeyserLegacyPingPassthrough.run(GeyserLegacyPingPassthrough.java:101)
+[09:02:49] [Geyser LegacyPingPassthrough Thread/WARN]: [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+java.net.SocketException: Network is unreachable
+	at java.base/sun.nio.ch.Net.connect0(Native Method)
+	at java.base/sun.nio.ch.Net.connect(Net.java:546)
+	at java.base/sun.nio.ch.Net.connect(Net.java:535)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:585)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:284)
+	at java.base/java.net.Socket.connect(Socket.java:659)
+	at org.geysermc.geyser.ping.GeyserLegacyPingPassthrough.run(GeyserLegacyPingPassthrough.java:101)
+[09:03:49] [User Authenticator #3/INFO]: UUID of player AmericanTank is c1cf6b0a-1bb8-4d32-8dab-5004fe1ddbac
+[09:03:50] [Server thread/INFO]: System chat: AmericanTank joined the game
+[09:03:50] [Server thread/INFO]: AmericanTank[/66.10.222.191:58310] logged in with entity id 522 at ([world]254.69999998807907, 106.0, -872.6999999880791)
+[09:05:04] [Geyser LegacyPingPassthrough Thread/WARN]: [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+java.net.SocketException: Network is unreachable
+	at java.base/sun.nio.ch.Net.connect0(Native Method)
+	at java.base/sun.nio.ch.Net.connect(Net.java:546)
+	at java.base/sun.nio.ch.Net.connect(Net.java:535)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:585)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:284)
+	at java.base/java.net.Socket.connect(Socket.java:659)
+	at org.geysermc.geyser.ping.GeyserLegacyPingPassthrough.run(GeyserLegacyPingPassthrough.java:101)
+[09:05:07] [Geyser LegacyPingPassthrough Thread/WARN]: [Geyser-Spigot] IO error while trying to use legacy ping passthrough
+java.net.SocketException: Network is unreachable
+	at java.base/sun.nio.ch.Net.connect0(Native Method)
+	at java.base/sun.nio.ch.Net.connect(Net.java:546)
+	at java.base/sun.nio.ch.Net.connect(Net.java:535)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:585)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:284)
+	at java.base/java.net.Socket.connect(Socket.java:659)
+	at org.geysermc.geyser.ping.GeyserLegacyPingPassthrough.run(GeyserLegacyPingPassthrough.java:101)
+[09:06:01] [Server thread/INFO]: AmericanTank lost connection: Disconnected
+[09:06:01] [Server thread/INFO]: System chat: AmericanTank left the game
+[09:06:32] [Netty Kqueue IO #0/ERROR]: Error sending packet clientbound/minecraft:disconnect
+io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
+	at net.minecraft.network.codec.IdDispatchCodec.encode(IdDispatchCodec.java:50)
+	at net.minecraft.network.codec.IdDispatchCodec.encode(IdDispatchCodec.java:14)
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:26)
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:12)
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107)
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:800)
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:737)
+	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113)
+	at net.minecraft.network.Connection$2.write(Connection.java:510)
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:800)
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:776)
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:859)
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1046)
+	at io.netty.channel.Channel.writeAndFlush(Channel.java:257)
+	at net.minecraft.network.Connection.doSendPacket(Connection.java:349)
+	at net.minecraft.network.Connection.sendPacket(Connection.java:338)
+	at net.minecraft.network.Connection.send(Connection.java:316)
+	at net.minecraft.network.Connection.send(Connection.java:310)
+	at net.minecraft.network.Connection.exceptionCaught(Connection.java:145)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:290)
+	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:272)
+	at io.netty.channel.ChannelHandlerAdapter.exceptionCaught(ChannelHandlerAdapter.java:92)
+	at com.viaversion.viaversion.platform.ViaEncodeHandler.exceptionCaught(ViaEncodeHandler.java:64)
+	at com.viaversion.viaversion.bukkit.handlers.BukkitEncodeHandler.exceptionCaught(BukkitEncodeHandler.java:113)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:290)
+	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:272)
+	at io.netty.channel.ChannelInboundHandlerAdapter.exceptionCaught(ChannelInboundHandlerAdapter.java:143)
+	at com.viaversion.viaversion.platform.ViaDecodeHandler.exceptionCaught(ViaDecodeHandler.java:64)
+	at com.viaversion.viaversion.bukkit.handlers.BukkitDecodeHandler.exceptionCaught(BukkitDecodeHandler.java:45)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:290)
+	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:272)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1396)
+	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:890)
+	at io.netty.channel.kqueue.AbstractKQueueStreamChannel$KQueueStreamUnsafe.handleReadException(AbstractKQueueStreamChannel.java:584)
+	at io.netty.channel.kqueue.AbstractKQueueStreamChannel$KQueueStreamUnsafe.readReady(AbstractKQueueStreamChannel.java:563)
+	at io.netty.channel.kqueue.AbstractKQueueChannel$AbstractKQueueUnsafe.readEOF(AbstractKQueueChannel.java:517)
+	at io.netty.channel.kqueue.AbstractKQueueChannel$AbstractKQueueUnsafe.handle(AbstractKQueueChannel.java:418)
+	at io.netty.channel.kqueue.KQueueIoHandler$DefaultKqueueIoRegistration.handle(KQueueIoHandler.java:474)
+	at io.netty.channel.kqueue.KQueueIoHandler.processReady(KQueueIoHandler.java:216)
+	at io.netty.channel.kqueue.KQueueIoHandler.run(KQueueIoHandler.java:277)
+	at io.netty.channel.SingleThreadIoEventLoop.runIo(SingleThreadIoEventLoop.java:225)
+	at io.netty.channel.SingleThreadIoEventLoop.run(SingleThreadIoEventLoop.java:196)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:1204)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+[09:07:01] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[09:12:23] [Netty Kqueue IO #0/ERROR]: Error sending packet clientbound/minecraft:disconnect
+io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
+	at net.minecraft.network.codec.IdDispatchCodec.encode(IdDispatchCodec.java:50)
+	at net.minecraft.network.codec.IdDispatchCodec.encode(IdDispatchCodec.java:14)
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:26)
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:12)
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107)
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:800)
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:737)
+	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113)
+	at net.minecraft.network.Connection$2.write(Connection.java:510)
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:800)
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:776)
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:859)
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1046)
+	at io.netty.channel.Channel.writeAndFlush(Channel.java:257)
+	at net.minecraft.network.Connection.doSendPacket(Connection.java:349)
+	at net.minecraft.network.Connection.sendPacket(Connection.java:338)
+	at net.minecraft.network.Connection.send(Connection.java:316)
+	at net.minecraft.network.Connection.send(Connection.java:310)
+	at net.minecraft.network.Connection.exceptionCaught(Connection.java:145)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:290)
+	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:272)
+	at io.netty.channel.ChannelHandlerAdapter.exceptionCaught(ChannelHandlerAdapter.java:92)
+	at com.viaversion.viaversion.platform.ViaEncodeHandler.exceptionCaught(ViaEncodeHandler.java:64)
+	at com.viaversion.viaversion.bukkit.handlers.BukkitEncodeHandler.exceptionCaught(BukkitEncodeHandler.java:113)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:290)
+	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:272)
+	at io.netty.channel.ChannelInboundHandlerAdapter.exceptionCaught(ChannelInboundHandlerAdapter.java:143)
+	at com.viaversion.viaversion.platform.ViaDecodeHandler.exceptionCaught(ViaDecodeHandler.java:64)
+	at com.viaversion.viaversion.bukkit.handlers.BukkitDecodeHandler.exceptionCaught(BukkitDecodeHandler.java:45)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:290)
+	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:272)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1396)
+	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:890)
+	at io.netty.channel.kqueue.AbstractKQueueStreamChannel$KQueueStreamUnsafe.handleReadException(AbstractKQueueStreamChannel.java:584)
+	at io.netty.channel.kqueue.AbstractKQueueStreamChannel$KQueueStreamUnsafe.readReady(AbstractKQueueStreamChannel.java:563)
+	at io.netty.channel.kqueue.AbstractKQueueChannel$AbstractKQueueUnsafe.readEOF(AbstractKQueueChannel.java:517)
+	at io.netty.channel.kqueue.AbstractKQueueChannel$AbstractKQueueUnsafe.handle(AbstractKQueueChannel.java:418)
+	at io.netty.channel.kqueue.KQueueIoHandler$DefaultKqueueIoRegistration.handle(KQueueIoHandler.java:474)
+	at io.netty.channel.kqueue.KQueueIoHandler.processReady(KQueueIoHandler.java:216)
+	at io.netty.channel.kqueue.KQueueIoHandler.run(KQueueIoHandler.java:277)
+	at io.netty.channel.SingleThreadIoEventLoop.runIo(SingleThreadIoEventLoop.java:225)
+	at io.netty.channel.SingleThreadIoEventLoop.run(SingleThreadIoEventLoop.java:196)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:1204)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+[09:12:23] [Netty Kqueue IO #2/ERROR]: Error sending packet clientbound/minecraft:disconnect
+io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
+	at net.minecraft.network.codec.IdDispatchCodec.encode(IdDispatchCodec.java:50)
+	at net.minecraft.network.codec.IdDispatchCodec.encode(IdDispatchCodec.java:14)
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:26)
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:12)
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107)
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:800)
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:737)
+	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113)
+	at net.minecraft.network.Connection$2.write(Connection.java:510)
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:800)
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:776)
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:859)
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1046)
+	at io.netty.channel.Channel.writeAndFlush(Channel.java:257)
+	at net.minecraft.network.Connection.doSendPacket(Connection.java:349)
+	at net.minecraft.network.Connection.sendPacket(Connection.java:338)
+	at net.minecraft.network.Connection.send(Connection.java:316)
+	at net.minecraft.network.Connection.send(Connection.java:310)
+	at net.minecraft.network.Connection.exceptionCaught(Connection.java:145)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:290)
+	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:272)
+	at io.netty.channel.ChannelHandlerAdapter.exceptionCaught(ChannelHandlerAdapter.java:92)
+	at com.viaversion.viaversion.platform.ViaEncodeHandler.exceptionCaught(ViaEncodeHandler.java:64)
+	at com.viaversion.viaversion.bukkit.handlers.BukkitEncodeHandler.exceptionCaught(BukkitEncodeHandler.java:113)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:290)
+	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:272)
+	at io.netty.channel.ChannelInboundHandlerAdapter.exceptionCaught(ChannelInboundHandlerAdapter.java:143)
+	at com.viaversion.viaversion.platform.ViaDecodeHandler.exceptionCaught(ViaDecodeHandler.java:64)
+	at com.viaversion.viaversion.bukkit.handlers.BukkitDecodeHandler.exceptionCaught(BukkitDecodeHandler.java:45)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:290)
+	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:272)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1396)
+	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:890)
+	at io.netty.channel.kqueue.AbstractKQueueStreamChannel$KQueueStreamUnsafe.handleReadException(AbstractKQueueStreamChannel.java:584)
+	at io.netty.channel.kqueue.AbstractKQueueStreamChannel$KQueueStreamUnsafe.readReady(AbstractKQueueStreamChannel.java:563)
+	at io.netty.channel.kqueue.AbstractKQueueChannel$AbstractKQueueUnsafe.readEOF(AbstractKQueueChannel.java:517)
+	at io.netty.channel.kqueue.AbstractKQueueChannel$AbstractKQueueUnsafe.handle(AbstractKQueueChannel.java:418)
+	at io.netty.channel.kqueue.KQueueIoHandler$DefaultKqueueIoRegistration.handle(KQueueIoHandler.java:474)
+	at io.netty.channel.kqueue.KQueueIoHandler.processReady(KQueueIoHandler.java:216)
+	at io.netty.channel.kqueue.KQueueIoHandler.run(KQueueIoHandler.java:277)
+	at io.netty.channel.SingleThreadIoEventLoop.runIo(SingleThreadIoEventLoop.java:225)
+	at io.netty.channel.SingleThreadIoEventLoop.run(SingleThreadIoEventLoop.java:196)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:1204)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+[09:27:28] [WebSocketConnectReadThread-262/WARN]: [Geyser-Spigot] Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org: nodename nor servname provided, or not known
+[09:27:36] [WebSocketConnectReadThread-263/WARN]: [Geyser-Spigot] Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org
+[09:27:36] [WebSocketConnectReadThread-263/WARN]: [Geyser-Spigot] Error while handling onClose
+java.lang.IllegalArgumentException: Invalid JSON: api.geysermc.org
+	at org.geysermc.geyser.util.JsonUtils.parseJson(JsonUtils.java:56)
+	at org.geysermc.geyser.skin.FloodgateSkinUploader$1.onClose(FloodgateSkinUploader.java:204)
+	at org.java_websocket.client.WebSocketClient.onWebsocketClose(WebSocketClient.java:619)
+	at org.java_websocket.WebSocketImpl.closeConnection(WebSocketImpl.java:522)
+	at org.java_websocket.WebSocketImpl.closeConnection(WebSocketImpl.java:545)
+	at org.java_websocket.client.WebSocketClient.run(WebSocketClient.java:485)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+[09:28:15] [WebSocketConnectReadThread-264/WARN]: [Geyser-Spigot] Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org: nodename nor servname provided, or not known
+[09:41:36] [WebSocketConnectReadThread-283/WARN]: [Geyser-Spigot] Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org: nodename nor servname provided, or not known
+[09:42:20] [WebSocketConnectReadThread-284/WARN]: [Geyser-Spigot] Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org: nodename nor servname provided, or not known
+[09:43:02] [WebSocketConnectReadThread-285/WARN]: [Geyser-Spigot] Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org: nodename nor servname provided, or not known
+[09:43:45] [WebSocketConnectReadThread-286/WARN]: [Geyser-Spigot] Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org: nodename nor servname provided, or not known
+[09:43:53] [WebSocketConnectReadThread-287/WARN]: [Geyser-Spigot] Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org
+[09:43:53] [WebSocketConnectReadThread-287/WARN]: [Geyser-Spigot] Error while handling onClose
+java.lang.IllegalArgumentException: Invalid JSON: api.geysermc.org
+	at org.geysermc.geyser.util.JsonUtils.parseJson(JsonUtils.java:56)
+	at org.geysermc.geyser.skin.FloodgateSkinUploader$1.onClose(FloodgateSkinUploader.java:204)
+	at org.java_websocket.client.WebSocketClient.onWebsocketClose(WebSocketClient.java:619)
+	at org.java_websocket.WebSocketImpl.closeConnection(WebSocketImpl.java:522)
+	at org.java_websocket.WebSocketImpl.closeConnection(WebSocketImpl.java:545)
+	at org.java_websocket.client.WebSocketClient.run(WebSocketClient.java:485)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+[09:44:34] [WebSocketConnectReadThread-288/WARN]: [Geyser-Spigot] Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org: nodename nor servname provided, or not known
+[09:45:17] [WebSocketConnectReadThread-289/WARN]: [Geyser-Spigot] Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org: nodename nor servname provided, or not known
+[09:45:57] [WebSocketConnectReadThread-290/WARN]: [Geyser-Spigot] Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org: nodename nor servname provided, or not known
+[09:46:37] [WebSocketConnectReadThread-291/WARN]: [Geyser-Spigot] Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org: nodename nor servname provided, or not known
+[10:05:03] [User Authenticator #4/INFO]: UUID of player Fay_x_Frogz is a034d50e-299b-4581-bb49-d4724a58be27
+[10:05:04] [Server thread/INFO]: System chat: Fay_x_Frogz joined the game
+[10:05:04] [Server thread/INFO]: Fay_x_Frogz[/73.24.81.156:57776] logged in with entity id 1978 at ([world]308.9564893291785, 112.0, -862.4220963897004)
+[10:06:44] [Server thread/INFO]: Fay_x_Frogz lost connection: Timed out
+[10:06:44] [Server thread/INFO]: System chat: Fay_x_Frogz left the game.
+[10:07:22] [User Authenticator #5/INFO]: UUID of player Fay_x_Frogz is a034d50e-299b-4581-bb49-d4724a58be27
+[10:07:25] [Server thread/INFO]: System chat: Fay_x_Frogz joined the game
+[10:07:25] [Server thread/INFO]: Fay_x_Frogz[/73.24.81.156:54700] logged in with entity id 3559 at ([world]305.09534069299286, 112.0, -879.0749999880791)
+[10:09:58] [Netty Kqueue IO #1/WARN]: Failed to deliver packet, sending fallback clientbound/minecraft:system_chat
+io.netty.channel.StacklessClosedChannelException
+	at io.netty.channel.AbstractChannel.close(ChannelPromise)(Unknown Source)
+[10:09:58] [Netty Kqueue IO #1/WARN]: Failed to deliver packet, sending fallback clientbound/minecraft:system_chat
+io.netty.channel.StacklessClosedChannelException
+	at io.netty.channel.AbstractChannel.close(ChannelPromise)(Unknown Source)
+[10:09:58] [Netty Kqueue IO #1/WARN]: Failed to deliver packet, sending fallback clientbound/minecraft:system_chat
+io.netty.channel.StacklessClosedChannelException
+	at io.netty.channel.AbstractChannel.close(ChannelPromise)(Unknown Source)
+[10:09:58] [Netty Kqueue IO #1/WARN]: Failed to deliver packet, sending fallback clientbound/minecraft:system_chat
+io.netty.channel.StacklessClosedChannelException
+	at io.netty.channel.AbstractChannel.close(ChannelPromise)(Unknown Source)
+[10:09:58] [Server thread/INFO]: Fay_x_Frogz lost connection: Disconnected
+[10:09:58] [Server thread/INFO]: System chat: Fay_x_Frogz left the game
+[10:10:07] [User Authenticator #6/INFO]: UUID of player Fay_x_Frogz is a034d50e-299b-4581-bb49-d4724a58be27
+[10:10:09] [Server thread/INFO]: System chat: Fay_x_Frogz joined the game
+[10:10:09] [Server thread/INFO]: Fay_x_Frogz[/73.24.81.156:53314] logged in with entity id 5350 at ([world]275.5, 122.17159999847412, -880.5)
+[10:10:30] [Server thread/INFO]: Fay_x_Frogz lost connection: Disconnected
+[10:10:30] [Server thread/INFO]: System chat: Fay_x_Frogz left the game
+[10:10:47] [User Authenticator #7/INFO]: UUID of player Fay_x_Frogz is a034d50e-299b-4581-bb49-d4724a58be27
+[10:10:48] [Server thread/INFO]: System chat: Fay_x_Frogz joined the game
+[10:10:48] [Server thread/INFO]: Fay_x_Frogz[/73.24.81.156:53326] logged in with entity id 6129 at ([world]224.34795705874186, 122.55641353936417, -880.6172591415836)
+[10:37:40] [Server thread/INFO]: Fay_x_Frogz lost connection: Disconnected
+[10:37:40] [Server thread/INFO]: System chat: Fay_x_Frogz left the game
+[10:38:40] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[10:43:21] [User Authenticator #8/INFO]: UUID of player Fay_x_Frogz is a034d50e-299b-4581-bb49-d4724a58be27
+[10:43:23] [Server thread/INFO]: System chat: Fay_x_Frogz joined the game
+[10:43:23] [Server thread/INFO]: Fay_x_Frogz[/73.24.81.156:53713] logged in with entity id 13307 at ([world]13.699999988079071, 125.0, 326.69999998807907)
+[10:47:53] [User Authenticator #9/INFO]: UUID of player Fay_x_Frogz is a034d50e-299b-4581-bb49-d4724a58be27
+[10:47:53] [Server thread/INFO]: Fay_x_Frogz lost connection: You logged in from another location
+[10:47:53] [Server thread/INFO]: System chat: Fay_x_Frogz left the game.
+[10:47:53] [Server thread/INFO]: System chat: Fay_x_Frogz joined the game
+[10:47:53] [Server thread/INFO]: Fay_x_Frogz[/73.24.81.156:53742] logged in with entity id 14349 at ([world]-3.172868685404691, 114.0, 296.31650650718746)
+[10:49:57] [User Authenticator #10/INFO]: UUID of player TechnoCool is 48144af2-a33b-4b08-936b-1dbc99fa68cb
+[10:49:58] [Server thread/INFO]: System chat: TechnoCool joined the game
+[10:49:58] [Server thread/INFO]: TechnoCool[/127.0.0.1:59777] logged in with entity id 15047 at ([world]-126.03976902850854, 103.0, -790.8567801482502)
+[10:50:07] [Server thread/INFO]: TechnoCool issued server command: /gamemode spectator
+[10:50:07] [Server thread/INFO]: System chat: [TechnoCool: Set own game mode to Spectator Mode]
+[10:54:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2648ms or 52 ticks behind
+[10:54:34] [Server thread/INFO]: TechnoCool issued server command: /gamemode survival
+[10:54:34] [Server thread/INFO]: System chat: [TechnoCool: Set own game mode to Survival Mode]
+[10:54:57] [Server thread/INFO]: TechnoCool issued server command: /gamemode creative
+[10:54:57] [Server thread/INFO]: System chat: [TechnoCool: Set own game mode to Creative Mode]
+[10:56:21] [Server thread/INFO]: TechnoCool issued server command: /gamemode spectator
+[10:56:21] [Server thread/INFO]: System chat: [TechnoCool: Set own game mode to Spectator Mode]
+[10:56:45] [Server thread/INFO]: TechnoCool issued server command: /gamemode survival
+[10:56:45] [Server thread/INFO]: System chat: [TechnoCool: Set own game mode to Survival Mode]
+[10:57:41] [Server thread/INFO]: TechnoCool issued server command: /gamemode creative
+[10:57:41] [Server thread/INFO]: System chat: [TechnoCool: Set own game mode to Creative Mode]
+[10:57:54] [Server thread/INFO]: TechnoCool lost connection: Disconnected
+[10:57:54] [Server thread/INFO]: System chat: TechnoCool left the game
+[10:58:02] [User Authenticator #11/INFO]: UUID of player TechnoCool is 48144af2-a33b-4b08-936b-1dbc99fa68cb
+[10:58:02] [Server thread/INFO]: System chat: TechnoCool joined the game
+[10:58:02] [Server thread/INFO]: TechnoCool[/127.0.0.1:60226] logged in with entity id 18655 at ([world]316.82172764481436, 105.0, -854.3223042721804)
+[10:58:06] [Server thread/INFO]: TechnoCool issued server command: /gamemode survival
+[10:58:06] [Server thread/INFO]: System chat: [TechnoCool: Set own game mode to Survival Mode]
+[10:59:17] [Server thread/INFO]: TechnoCool issued server command: /clear TechnoCool
+[10:59:17] [Server thread/INFO]: System chat: [TechnoCool: Removed 1 item(s) from player TechnoCool]
+[11:01:35] [Server thread/INFO]: TechnoCool issued server command: /effect give TechnoCool speed 2 10 true
+[11:01:35] [Server thread/INFO]: System chat: [TechnoCool: Applied effect Speed to TechnoCool]
+[11:02:19] [Server thread/INFO]: TechnoCool issued server command: /effect give TechnoCool speed 2 10 true
+[11:02:19] [Server thread/INFO]: System chat: [TechnoCool: Applied effect Speed to TechnoCool]
+[11:02:22] [Server thread/INFO]: TechnoCool issued server command: /effect give TechnoCool speed 2 10 true
+[11:02:22] [Server thread/INFO]: System chat: [TechnoCool: Applied effect Speed to TechnoCool]
+[11:02:29] [Server thread/INFO]: TechnoCool issued server command: /effect give TechnoCool speed 2 10 true
+[11:02:29] [Server thread/INFO]: System chat: [TechnoCool: Applied effect Speed to TechnoCool]
+[11:02:32] [Server thread/INFO]: TechnoCool issued server command: /effect give TechnoCool speed 2 10 truew
+[11:02:33] [Server thread/INFO]: TechnoCool issued server command: /effect give TechnoCool speed 2 10 truew
+[11:02:35] [Server thread/INFO]: TechnoCool issued server command: /effect give TechnoCool speed 2 10 truew
+[11:02:37] [Server thread/INFO]: TechnoCool issued server command: /effect give TechnoCool speed 2 10 true
+[11:02:37] [Server thread/INFO]: System chat: [TechnoCool: Applied effect Speed to TechnoCool]
+[11:02:42] [Server thread/INFO]: TechnoCool issued server command: /effect give TechnoCool speed 2 20 true
+[11:02:42] [Server thread/INFO]: System chat: [TechnoCool: Applied effect Speed to TechnoCool]
+[11:02:46] [Server thread/INFO]: TechnoCool issued server command: /effect give TechnoCool speed 2 20 true
+[11:02:46] [Server thread/INFO]: System chat: [TechnoCool: Applied effect Speed to TechnoCool]
+[11:02:52] [Server thread/INFO]: TechnoCool issued server command: /gamemode spectator
+[11:02:52] [Server thread/INFO]: System chat: [TechnoCool: Set own game mode to Spectator Mode]
+[11:05:30] [Server thread/INFO]: TechnoCool issued server command: /tp TechnoCool 0 200 0
+[11:05:30] [Server thread/INFO]: System chat: [TechnoCool: Teleported TechnoCool to 0.500000, 200.000000, 0.500000]
+[11:11:07] [Server thread/INFO]: TechnoCool issued server command: /tp TechnoCool 0 200 0
+[11:11:07] [Server thread/INFO]: System chat: [TechnoCool: Teleported TechnoCool to 0.500000, 200.000000, 0.500000]
+[11:13:23] [Server thread/INFO]: TechnoCool issued server command: /gamemode survival
+[11:13:23] [Server thread/INFO]: System chat: [TechnoCool: Set own game mode to Survival Mode]
+[11:13:28] [Server thread/INFO]: TechnoCool issued server command: /spawnpoint TechnoCool 270 127 -1322
+[11:13:28] [Server thread/INFO]: System chat: [TechnoCool: Set spawn point to 270, 127, -1322 [0.0, 0.0] in minecraft:overworld for TechnoCool]
+[11:13:33] [Server thread/INFO]: TechnoCool issued server command: /gamemode spectator
+[11:13:33] [Server thread/INFO]: System chat: [TechnoCool: Set own game mode to Spectator Mode]
+[11:13:42] [User Authenticator #12/INFO]: UUID of player GARFUNCLE1234 is f96bde6e-9866-4f3c-9873-14545a79b42e
+[11:13:43] [Server thread/INFO]: System chat: GARFUNCLE1234 joined the game
+[11:13:43] [Server thread/INFO]: GARFUNCLE1234[/143.59.232.63:7437] logged in with entity id 28706 at ([world]-1454.524477632774, 96.0, -2926.9718022109864)
+[11:13:54] [Server thread/INFO]: GARFUNCLE1234 lost connection: Disconnected
+[11:13:54] [Server thread/INFO]: System chat: GARFUNCLE1234 left the game
+[11:13:54] [Async Chat Thread - #9/INFO]: <Fay_x_Frogz> who dat?
+[11:14:26] [Async Chat Thread - #9/INFO]: <TechnoCool> no idea
+[11:14:36] [Server thread/INFO]: TechnoCool issued server command: /gamemode survival
+[11:14:36] [Server thread/INFO]: System chat: [TechnoCool: Set own game mode to Survival Mode]
+[11:20:03] [Server thread/INFO]: System chat: TechnoCool was blown up by Creeper
+[11:20:15] [Server thread/INFO]: TechnoCool issued server command: /gamemode spectator
+[11:20:15] [Server thread/INFO]: System chat: [TechnoCool: Set own game mode to Spectator Mode]
+[11:22:07] [Server thread/INFO]: TechnoCool issued server command: /gamemode creative
+[11:22:07] [Server thread/INFO]: System chat: [TechnoCool: Set own game mode to Creative Mode]
+[11:23:10] [Server thread/INFO]: TechnoCool issued server command: /gamemode spectator
+[11:23:10] [Server thread/INFO]: System chat: [TechnoCool: Set own game mode to Spectator Mode]
+[11:27:03] [Server thread/INFO]: TechnoCool issued server command: /give @p minecraft:structure_block
+[11:27:03] [Server thread/INFO]: System chat: [TechnoCool: Gave 1 [Structure Block] to TechnoCool]
+[11:27:06] [Server thread/INFO]: TechnoCool issued server command: /gamemode creative
+[11:27:06] [Server thread/INFO]: System chat: [TechnoCool: Set own game mode to Creative Mode]
+[11:28:54] [Server thread/INFO]: TechnoCool issued server command: /gamemode spectator
+[11:28:54] [Server thread/INFO]: System chat: [TechnoCool: Set own game mode to Spectator Mode]
+[11:29:19] [Server thread/INFO]: TechnoCool issued server command: /gamemode creative
+[11:29:19] [Server thread/INFO]: System chat: [TechnoCool: Set own game mode to Creative Mode]
+[11:29:28] [Server thread/INFO]: TechnoCool issued server command: /gamemode spectator
+[11:29:28] [Server thread/INFO]: System chat: [TechnoCool: Set own game mode to Spectator Mode]
+[11:29:59] [Server thread/INFO]: TechnoCool issued server command: /gamemode creative
+[11:29:59] [Server thread/INFO]: System chat: [TechnoCool: Set own game mode to Creative Mode]
+[11:30:20] [Server thread/INFO]: TechnoCool issued server command: /gamemode spectator
+[11:30:20] [Server thread/INFO]: System chat: [TechnoCool: Set own game mode to Spectator Mode]
+[11:30:44] [Server thread/INFO]: TechnoCool issued server command: /gamemode creative
+[11:30:44] [Server thread/INFO]: System chat: [TechnoCool: Set own game mode to Creative Mode]
+[11:30:57] [Server thread/INFO]: TechnoCool issued server command: /gamemode spectator
+[11:30:57] [Server thread/INFO]: System chat: [TechnoCool: Set own game mode to Spectator Mode]
+[11:31:03] [Server thread/INFO]: TechnoCool issued server command: /gamemode creative
+[11:31:03] [Server thread/INFO]: System chat: [TechnoCool: Set own game mode to Creative Mode]
+[11:31:07] [Server thread/INFO]: Fay_x_Frogz lost connection: Disconnected
+[11:31:07] [Server thread/INFO]: System chat: Fay_x_Frogz left the game
+[11:32:18] [Server thread/INFO]: TechnoCool issued server command: /gamemode spectator
+[11:32:18] [Server thread/INFO]: System chat: [TechnoCool: Set own game mode to Spectator Mode]
+[11:32:27] [Server thread/INFO]: TechnoCool issued server command: /gamemode creative
+[11:32:27] [Server thread/INFO]: System chat: [TechnoCool: Set own game mode to Creative Mode]
+[11:32:48] [Server thread/INFO]: TechnoCool issued server command: /gamemode spectator
+[11:32:48] [Server thread/INFO]: System chat: [TechnoCool: Set own game mode to Spectator Mode]
+[11:32:55] [Server thread/INFO]: TechnoCool issued server command: /gamemode creative
+[11:32:55] [Server thread/INFO]: System chat: [TechnoCool: Set own game mode to Creative Mode]
+[11:33:39] [Server thread/INFO]: TechnoCool issued server command: /gamemode spectator
+[11:33:39] [Server thread/INFO]: System chat: [TechnoCool: Set own game mode to Spectator Mode]
+[11:33:52] [Server thread/INFO]: TechnoCool issued server command: /gamemode creative
+[11:33:52] [Server thread/INFO]: System chat: [TechnoCool: Set own game mode to Creative Mode]
+[11:33:54] [Server thread/INFO]: TechnoCool issued server command: /gamemode spectator
+[11:33:54] [Server thread/INFO]: System chat: [TechnoCool: Set own game mode to Spectator Mode]
+[11:34:26] [Server thread/INFO]: TechnoCool issued server command: /fill ~ ~ ~ ~ ~ ~
+[11:34:30] [Server thread/INFO]: TechnoCool issued server command: /
+[11:34:37] [Server thread/INFO]: TechnoCool issued server command: /fill ~ ~ ~ ~ ~ ~ minecraft:structure_block
+[11:34:37] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 1 block(s)]
+[11:34:41] [Server thread/INFO]: TechnoCool issued server command: /gamemode creative
+[11:34:41] [Server thread/INFO]: System chat: [TechnoCool: Set own game mode to Creative Mode]
+[11:36:14] [Server thread/INFO]: TechnoCool issued server command: /effect give @e[type=minecraft:sulfur_cube]
+[11:36:22] [Server thread/INFO]: TechnoCool issued server command: /effect give @e[type=minecraft:sulfur_cube] minecraft:slow_falling infinite 2 true
+[11:36:22] [Server thread/INFO]: System chat: [TechnoCool: Applied effect Slow Falling to 6 targets]
+[11:36:44] [Server thread/INFO]: TechnoCool issued server command: /effect give @e[type=minecraft:sulfur_cube] minecraft:invisibility infinite 2 true
+[11:36:44] [Server thread/INFO]: System chat: [TechnoCool: Applied effect Invisibility to 6 targets]
+[11:36:55] [Server thread/INFO]: TechnoCool issued server command: /list
+[11:36:58] [Server thread/INFO]: TechnoCool issued server command: /tick sprint 3d
+[11:36:58] [Server thread/INFO]: System chat: [TechnoCool: The game is sprinting]
+[11:37:17] [Server thread/INFO]: TechnoCool issued server command: /gamemode spectator
+[11:37:17] [Server thread/INFO]: System chat: [TechnoCool: Set own game mode to Spectator Mode]
+[11:37:28] [Server thread/INFO]: TechnoCool issued server command: /gamemode creative
+[11:37:28] [Server thread/INFO]: System chat: [TechnoCool: Set own game mode to Creative Mode]
+[11:37:37] [Server thread/INFO]: TechnoCool issued server command: /gamemode spectator
+[11:37:37] [Server thread/INFO]: System chat: [TechnoCool: Set own game mode to Spectator Mode]
+[11:37:48] [User Authenticator #13/INFO]: UUID of player Gmaerman6201 is 1bd5ef2a-05bf-4df6-89ce-71015e0e155b
+[11:37:49] [Server thread/INFO]: System chat: Gmaerman6201 joined the game
+[11:37:49] [Server thread/INFO]: Gmaerman6201[/50.89.199.27:64728] logged in with entity id 40744 at ([world]0.8399040739509015, 112.0, 9.391546056921563)
+[11:37:52] [Server thread/INFO]: TechnoCool issued server command: /give TechnoCool minecraft:shears
+[11:37:52] [Server thread/INFO]: System chat: [TechnoCool: Gave 1 [Shears] to TechnoCool]
+[11:37:54] [Server thread/INFO]: TechnoCool issued server command: /gamemode survival
+[11:37:54] [Server thread/INFO]: System chat: [TechnoCool: Set own game mode to Survival Mode]
+[11:37:59] [Async Chat Thread - #10/INFO]: <Gmaerman6201> americantank
+[11:38:12] [Async Chat Thread - #10/INFO]: <Gmaerman6201> r u on?
+[11:38:16] [Server thread/INFO]: TechnoCool issued server command: /gamemode spectator
+[11:38:16] [Server thread/INFO]: System chat: [TechnoCool: Set own game mode to Spectator Mode]
+[11:38:29] [Server thread/INFO]: TechnoCool issued server command: /gamemode creative
+[11:38:29] [Server thread/INFO]: System chat: [TechnoCool: Set own game mode to Creative Mode]
+[11:38:46] [Server thread/INFO]: TechnoCool issued server command: /summon minecraft:sulfur_cube
+[11:38:46] [Server thread/INFO]: System chat: [TechnoCool: Summoned new Sulfur Cube]
+[11:39:04] [Server thread/INFO]: TechnoCool issued server command: /summon minecraft:sulfur_cube
+[11:39:04] [Server thread/INFO]: System chat: [TechnoCool: Summoned new Sulfur Cube]
+[11:39:09] [Server thread/INFO]: TechnoCool issued server command: /summon minecraft:sulfur_cube
+[11:39:09] [Server thread/INFO]: System chat: [TechnoCool: Summoned new Sulfur Cube]
+[11:39:14] [Server thread/INFO]: TechnoCool issued server command: /summon minecraft:sulfur_cube
+[11:39:14] [Server thread/INFO]: System chat: [TechnoCool: Summoned new Sulfur Cube]
+[11:39:17] [Server thread/INFO]: TechnoCool issued server command: /summon minecraft:sulfur_cube
+[11:39:17] [Server thread/INFO]: System chat: [TechnoCool: Summoned new Sulfur Cube]
+[11:39:39] [Server thread/INFO]: TechnoCool issued server command: /effect give @e[type=minecraft:sulfur_cube] minecraft:invisibility infinite 2 true
+[11:39:39] [Server thread/INFO]: System chat: [TechnoCool: Applied effect Invisibility to 3 targets]
+[11:39:43] [Server thread/INFO]: TechnoCool issued server command: /effect give @e[type=minecraft:sulfur_cube] minecraft:slow_falling infinite 2 true
+[11:39:43] [Server thread/INFO]: System chat: [TechnoCool: Applied effect Slow Falling to 3 targets]
+[11:40:19] [Server thread/INFO]: Gmaerman6201 lost connection: Disconnected
+[11:40:19] [Server thread/INFO]: System chat: Gmaerman6201 left the game
+[11:41:45] [Server thread/INFO]: TechnoCool issued server command: /gamemode survival
+[11:41:45] [Server thread/INFO]: System chat: [TechnoCool: Set own game mode to Survival Mode]
+[11:41:50] [Server thread/INFO]: TechnoCool issued server command: /tick sprint stop
+[11:41:50] [Server thread/INFO]: System chat: Sprint completed with 76 ticks per second, or 13.04 ms per tick
+[11:41:50] [Server thread/INFO]: System chat: [TechnoCool: Interrupted the current tick sprint]
+[11:42:30] [Server thread/INFO]: TechnoCool issued server command: /gamemode spectator
+[11:42:30] [Server thread/INFO]: System chat: [TechnoCool: Set own game mode to Spectator Mode]
+[11:43:25] [Server thread/INFO]: TechnoCool issued server command: /gamemode creative
+[11:43:25] [Server thread/INFO]: System chat: [TechnoCool: Set own game mode to Creative Mode]
+[11:45:16] [Server thread/INFO]: TechnoCool issued server command: /fill 621 136 -1029
+[11:45:25] [Server thread/INFO]: TechnoCool issued server command: /fill 621 136 -1029 630 149 -1038 tnt
+[11:45:25] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 1398 block(s)]
+[11:45:29] [Server thread/INFO]: TechnoCool issued server command: /summon tnt
+[11:45:29] [Server thread/INFO]: System chat: [TechnoCool: Summoned new Primed TNT]
+[11:45:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2646ms or 52 ticks behind
+[11:45:37] [Server thread/INFO]: TechnoCool issued server command: /kill @e[type=tnt]
+[11:45:37] [Server thread/INFO]: System chat: [TechnoCool: Killed 1090 entities]
+[11:47:22] [Server thread/INFO]: TechnoCool issued server command: /tick sprint 3d
+[11:47:22] [Server thread/INFO]: System chat: [TechnoCool: The game is sprinting]
+[11:48:17] [Server thread/INFO]: TechnoCool issued server command: /fill ~ ~ ~ ~ ~ ~ minecraft:structure_block
+[11:48:17] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 1 block(s)]
+[11:49:21] [Server thread/INFO]: TechnoCool issued server command: /place template minecraft:fountainofloot
+[11:49:21] [Server thread/INFO]: System chat: [TechnoCool: Loaded template "minecraft:fountainofloot" at 440, 117, -921]
+[11:49:50] [Server thread/INFO]: TechnoCool issued server command: /place template minecraft:fountainofloot
+[11:49:50] [Server thread/INFO]: System chat: [TechnoCool: Loaded template "minecraft:fountainofloot" at 438, 133, -919]
+[11:49:59] [Server thread/INFO]: TechnoCool issued server command: /summon tnt
+[11:49:59] [Server thread/INFO]: System chat: [TechnoCool: Summoned new Primed TNT]
+[11:50:03] [Server thread/INFO]: TechnoCool issued server command: /summon tnt
+[11:50:03] [Server thread/INFO]: System chat: [TechnoCool: Summoned new Primed TNT]
+[11:50:04] [Server thread/INFO]: TechnoCool issued server command: /summon tnt
+[11:50:04] [Server thread/INFO]: System chat: [TechnoCool: Summoned new Primed TNT]
+[11:50:05] [Server thread/INFO]: TechnoCool issued server command: /summon tnt
+[11:50:05] [Server thread/INFO]: System chat: [TechnoCool: Summoned new Primed TNT]
+[11:50:06] [Server thread/INFO]: TechnoCool issued server command: /summon tnt
+[11:50:06] [Server thread/INFO]: System chat: [TechnoCool: Summoned new Primed TNT]
+[11:50:07] [Server thread/INFO]: TechnoCool issued server command: /summon tnt
+[11:50:07] [Server thread/INFO]: System chat: [TechnoCool: Summoned new Primed TNT]
+[11:50:10] [Server thread/INFO]: TechnoCool issued server command: /summon tnt
+[11:50:10] [Server thread/INFO]: System chat: [TechnoCool: Summoned new Primed TNT]
+[11:50:11] [Server thread/INFO]: TechnoCool issued server command: /summon tnt
+[11:50:11] [Server thread/INFO]: System chat: [TechnoCool: Summoned new Primed TNT]
+[11:50:11] [Server thread/INFO]: TechnoCool issued server command: /summon tnt
+[11:50:11] [Server thread/INFO]: System chat: [TechnoCool: Summoned new Primed TNT]
+[11:50:33] [Server thread/INFO]: TechnoCool issued server command: /place template minecraft:fountainofloot
+[11:50:33] [Server thread/INFO]: System chat: [TechnoCool: Loaded template "minecraft:fountainofloot" at 440, 149, -910]
+[11:50:43] [Server thread/INFO]: TechnoCool issued server command: /fill 452 167 -898
+[11:51:05] [Server thread/INFO]: TechnoCool issued server command: /fill 452 167 -898 436 117 -922 air
+[11:51:06] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 7667 block(s)]
+[11:51:11] [Server thread/INFO]: TechnoCool lost connection: Disconnected
+[11:51:11] [Server thread/INFO]: System chat: TechnoCool left the game
+[11:51:13] [Server thread/INFO]: System chat: Sprint completed with 311 ticks per second, or 3.21 ms per tick
+[11:52:13] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[13:32:07] [GeyserServerChild-4-1/INFO]: [Geyser-Spigot] Player connected with username Jachameleon (2193)
+[13:32:07] [localSession-7-2/INFO]: [Geyser-Spigot] Jachameleon (logged in as: Jachameleon) has connected to the Java server
+[13:32:08] [WebSocketConnectReadThread-292/INFO]: [Geyser-Spigot] Got a message from skin uploader: received a skin with invalid geometry: geometry entry's texture width is not a number
+[13:32:08] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Jachameleon joined (UUID: 00000000-0000-0000-0009-01f28e29c773)
+[13:32:08] [Server thread/INFO]: System chat: .Jachameleon joined the game
+[13:32:08] [Server thread/INFO]: .Jachameleon[/68.202.194.24:0] logged in with entity id 51520 at ([world]-21.97065, 73.0, 258.86633)
+[13:48:36] [GeyserServerChild-4-1/INFO]: [Geyser-Spigot] Jachameleon has disconnected from the Java server because of §rBedrock client disconnected
+[13:48:36] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .Jachameleon disconnected
+[13:48:36] [Server thread/INFO]: .Jachameleon lost connection: Internal Exception: java.nio.channels.ClosedChannelException
+[13:48:36] [Server thread/INFO]: System chat: .Jachameleon left the game
+[13:49:36] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[14:43:03] [Server thread/WARN]: handleDisconnection() called twice
+[14:44:24] [Server thread/WARN]: handleDisconnection() called twice
+[14:44:51] [Server thread/WARN]: handleDisconnection() called twice
+[14:46:36] [User Authenticator #14/INFO]: UUID of player TechnoCool is 48144af2-a33b-4b08-936b-1dbc99fa68cb
+[14:46:37] [Server thread/INFO]: System chat: TechnoCool joined the game
+[14:46:37] [Server thread/INFO]: TechnoCool[/127.0.0.1:58873] logged in with entity id 54585 at ([world]434.26435353690005, 115.58655245859796, -924.0786260350002)
+[14:46:43] [Server thread/INFO]: TechnoCool issued server command: /list
+[14:46:49] [Server thread/INFO]: TechnoCool issued server command: /gamemode spectator
+[14:46:49] [Server thread/INFO]: System chat: [TechnoCool: Set own game mode to Spectator Mode]
+[14:47:05] [Server thread/INFO]: TechnoCool issued server command: /give TechnoCool minecraft:command_block
+[14:47:05] [Server thread/INFO]: System chat: [TechnoCool: Gave 1 [Command Block] to TechnoCool]
+[14:47:14] [Server thread/INFO]: TechnoCool issued server command: /gamemode survival
+[14:47:14] [Server thread/INFO]: System chat: [TechnoCool: Set own game mode to Survival Mode]
+[14:47:27] [Server thread/INFO]: TechnoCool issued server command: /gamemode spectator
+[14:47:27] [Server thread/INFO]: System chat: [TechnoCool: Set own game mode to Spectator Mode]
+[14:47:44] [Server thread/INFO]: TechnoCool issued server command: /gamemode creative
+[14:47:44] [Server thread/INFO]: System chat: [TechnoCool: Set own game mode to Creative Mode]
+[14:48:14] [Server thread/INFO]: TechnoCool issued server command: /gamemode spectator
+[14:48:14] [Server thread/INFO]: System chat: [TechnoCool: Set own game mode to Spectator Mode]
+[14:48:20] [Server thread/INFO]: TechnoCool issued server command: /summon minecraft:creeper
+[14:48:20] [Server thread/INFO]: System chat: [TechnoCool: Summoned new Creeper]
+[14:48:24] [Server thread/INFO]: TechnoCool issued server command: /gamemode survival
+[14:48:24] [Server thread/INFO]: System chat: [TechnoCool: Set own game mode to Survival Mode]
+[14:48:27] [Server thread/INFO]: TechnoCool issued server command: /clear TechnoCool
+[14:48:27] [Server thread/INFO]: System chat: [TechnoCool: Removed 36 item(s) from player TechnoCool]
+[14:51:45] [Server thread/INFO]: TechnoCool issued server command: /give TechnoCool netherite_axe[
+[14:51:51] [Server thread/INFO]: TechnoCool issued server command: /give TechnoCool netherite_axe
+[14:51:51] [Server thread/INFO]: System chat: [TechnoCool: Gave 1 [Netherite Axe] to TechnoCool]
+[14:53:02] [Server thread/INFO]: TechnoCool issued server command: /gamemode spectator
+[14:53:02] [Server thread/INFO]: System chat: [TechnoCool: Set own game mode to Spectator Mode]
+[14:53:51] [Server thread/INFO]: TechnoCool issued server command: /gamemode survival
+[14:53:51] [Server thread/INFO]: System chat: [TechnoCool: Set own game mode to Survival Mode]
+[14:55:31] [Server thread/INFO]: TechnoCool issued server command: /summon minecraft:creeper
+[14:55:31] [Server thread/INFO]: System chat: [TechnoCool: Summoned new Creeper]
+[14:55:39] [Server thread/INFO]: TechnoCool issued server command: /summon minecraft:creeper
+[14:55:39] [Server thread/INFO]: System chat: [TechnoCool: Summoned new Creeper]
+[14:55:43] [Server thread/INFO]: TechnoCool issued server command: /summon minecraft:creeper
+[14:55:43] [Server thread/INFO]: System chat: [TechnoCool: Summoned new Creeper]
+[14:55:55] [Server thread/INFO]: TechnoCool issued server command: /gamemode creative
+[14:55:55] [Server thread/INFO]: System chat: [TechnoCool: Set own game mode to Creative Mode]
+[14:56:56] [Server thread/INFO]: TechnoCool issued server command: /gamemode spectator
+[14:56:56] [Server thread/INFO]: System chat: [TechnoCool: Set own game mode to Spectator Mode]
+[14:57:04] [Server thread/INFO]: TechnoCool issued server command: /gamemode survival
+[14:57:04] [Server thread/INFO]: System chat: [TechnoCool: Set own game mode to Survival Mode]
+[14:57:09] [Server thread/INFO]: TechnoCool issued server command: /gamemode creative
+[14:57:09] [Server thread/INFO]: System chat: [TechnoCool: Set own game mode to Creative Mode]
+[14:58:18] [Server thread/INFO]: TechnoCool issued server command: /fill 625 63 -930
+[14:58:32] [Server thread/INFO]: TechnoCool issued server command: /fill 625 63 -930 634 63 -940 minecraft:chiseled_stone_bricks
+[14:58:32] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 110 block(s)]
+[14:59:42] [Server thread/INFO]: TechnoCool issued server command: /fill 630 62 -934
+[14:59:51] [Server thread/INFO]: TechnoCool issued server command: /fill 630 62 -934 626 60 -938 air
+[14:59:51] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 53 block(s)]
+[15:07:38] [Server thread/WARN]: handleDisconnection() called twice
+[15:12:33] [Server thread/INFO]: TechnoCool issued server command: /fill 625 63 -928
+[15:12:41] [Server thread/INFO]: TechnoCool issued server command: /fill 625 60 -928 630 66 -923 air
+[15:12:41] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 147 block(s)]
+[15:15:33] [Server thread/INFO]: TechnoCool issued server command: /fill 633 63 -929
+[15:15:41] [Server thread/INFO]: TechnoCool issued server command: /fill 633 63 -929 633 60 -922 minecraft:iron_block
+[15:15:41] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 30 block(s)]
+[15:16:00] [Server thread/INFO]: TechnoCool issued server command: /fill 633 63 -929
+[15:16:07] [Server thread/INFO]: TechnoCool issued server command: /fill 633 63 -929 624 60 -929 iron_block
+[15:16:07] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 29 block(s)]
+[15:16:34] [Server thread/INFO]: TechnoCool issued server command: /fill 633 63 -929 624 60 -929 iron_block
+[15:16:34] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 4 block(s)]
+[15:16:43] [Server thread/INFO]: TechnoCool issued server command: /fill 632 60 -921
+[15:16:54] [Server thread/INFO]: TechnoCool issued server command: /fill 632 60 -921 625 63 -921 iron_block
+[15:16:54] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 32 block(s)]
+[15:17:18] [Server thread/INFO]: TechnoCool issued server command: /fill 623 63 -922
+[15:17:25] [Server thread/INFO]: TechnoCool issued server command: /fill 623 63 -922 623 60 -928 minecraft:iron_block
+[15:17:25] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 28 block(s)]
+[15:18:07] [Server thread/INFO]: TechnoCool issued server command: /fill 624 59 -928
+[15:18:15] [Server thread/INFO]: TechnoCool issued server command: /fill 624 59 -928 632 56 -922 air
+[15:18:15] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 222 block(s)]
+[15:20:19] [Server thread/INFO]: TechnoCool issued server command: /fill 624 59 -922
+[15:20:29] [Server thread/INFO]: TechnoCool issued server command: /fill 624 59 -922 632 59 -924 minecraft:iron_block
+[15:20:29] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 27 block(s)]
+[15:20:33] [Server thread/INFO]: TechnoCool issued server command: /fill 632 59 -926
+[15:20:38] [Server thread/INFO]: TechnoCool issued server command: /fill 632 59 -926 624 59 -928 iron_block
+[15:20:38] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 27 block(s)]
+[15:20:42] [Server thread/INFO]: TechnoCool issued server command: /fill 624 59 -925
+[15:20:47] [Server thread/INFO]: TechnoCool issued server command: /fill 624 59 -925 627 59 -925 minecraft:iron_block
+[15:20:47] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 4 block(s)]
+[15:20:51] [Server thread/INFO]: TechnoCool issued server command: /fill 629 59 -925
+[15:20:56] [Server thread/INFO]: TechnoCool issued server command: /fill 629 59 -925 632 59 -925 iron_block
+[15:20:56] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 4 block(s)]
+[15:21:20] [Server thread/INFO]: TechnoCool issued server command: /clear TechnoCool
+[15:21:20] [Server thread/INFO]: System chat: [TechnoCool: Removed 330 item(s) from player TechnoCool]
+[15:22:52] [Server thread/INFO]: TechnoCool issued server command: /give TechnoCool tnt 1000
+[15:22:52] [Server thread/INFO]: System chat: [TechnoCool: Gave 1000 [TNT] to TechnoCool]
+[15:22:54] [Server thread/INFO]: TechnoCool issued server command: /give TechnoCool tnt 1000
+[15:22:54] [Server thread/INFO]: System chat: [TechnoCool: Gave 1000 [TNT] to TechnoCool]
+[15:22:55] [Server thread/INFO]: TechnoCool issued server command: /give TechnoCool tnt 1000
+[15:22:55] [Server thread/INFO]: System chat: [TechnoCool: Gave 1000 [TNT] to TechnoCool]
+[15:22:57] [Server thread/INFO]: TechnoCool issued server command: /gamemode survival
+[15:22:57] [Server thread/INFO]: System chat: [TechnoCool: Set own game mode to Survival Mode]
+[15:22:58] [Server thread/INFO]: TechnoCool issued server command: /gamemode survival
+[15:23:00] [Server thread/INFO]: TechnoCool issued server command: /give TechnoCool tnt 1000
+[15:23:00] [Server thread/INFO]: System chat: [TechnoCool: Gave 1000 [TNT] to TechnoCool]
+[15:23:12] [Server thread/INFO]: TechnoCool issued server command: /tick sprint 3d
+[15:23:12] [Server thread/INFO]: System chat: [TechnoCool: The game is sprinting]
+[15:24:05] [Server thread/INFO]: TechnoCool issued server command: /gamemode creative
+[15:24:05] [Server thread/INFO]: System chat: [TechnoCool: Set own game mode to Creative Mode]
+[15:24:48] [Server thread/INFO]: TechnoCool issued server command: /give TechnoCool tnt 1000
+[15:24:48] [Server thread/INFO]: System chat: [TechnoCool: Gave 1000 [TNT] to TechnoCool]
+[15:24:57] [Server thread/INFO]: TechnoCool issued server command: /give TechnoCool tnt 1000
+[15:24:57] [Server thread/INFO]: System chat: [TechnoCool: Gave 1000 [TNT] to TechnoCool]
+[15:25:06] [Server thread/INFO]: TechnoCool issued server command: /clear TechnoCool tnt
+[15:25:06] [Server thread/INFO]: System chat: [TechnoCool: Removed 682 item(s) from player TechnoCool]
+[15:25:09] [Async Chat Thread - #12/INFO]: <TechnoCool> 5
+[15:26:07] [Server thread/INFO]: TechnoCool issued server command: /tick sprint stop
+[15:26:07] [Server thread/INFO]: System chat: Sprint completed with 126 ticks per second, or 7.90 ms per tick
+[15:26:07] [Server thread/INFO]: System chat: [TechnoCool: Interrupted the current tick sprint]
+[15:28:28] [Server thread/INFO]: TechnoCool issued server command: /tick sprint 3d
+[15:28:28] [Server thread/INFO]: System chat: [TechnoCool: The game is sprinting]
+[15:29:15] [Server thread/INFO]: TechnoCool issued server command: /tick sprint stop
+[15:29:15] [Server thread/INFO]: System chat: Sprint completed with 127 ticks per second, or 7.83 ms per tick
+[15:29:15] [Server thread/INFO]: System chat: [TechnoCool: Interrupted the current tick sprint]
+[15:29:16] [Server thread/INFO]: TechnoCool issued server command: /list
+[15:29:24] [Server thread/INFO]: TechnoCool issued server command: /fill 633 63 -930
+[15:29:30] [Server thread/INFO]: TechnoCool issued server command: /fill 633 63 -930 624 60 -929 iron_block
+[15:29:30] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 40 block(s)]
+[15:30:24] [Server thread/INFO]: TechnoCool issued server command: /fill 632 63 -920
+[15:30:34] [Server thread/INFO]: TechnoCool issued server command: /fill 632 63 -920 625 60 -921 minecraft:iron_block
+[15:30:34] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 33 block(s)]
+[15:30:55] [Server thread/INFO]: TechnoCool issued server command: /fill 632 59 -929
+[15:31:02] [Server thread/INFO]: TechnoCool issued server command: /fill 632 59 -929 624 59 -929 minecraft:iron_block
+[15:31:02] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 9 block(s)]
+[15:32:04] [Server thread/INFO]: TechnoCool issued server command: /fill 632 59 -921
+[15:32:10] [Server thread/INFO]: TechnoCool issued server command: /fill 632 59 -921 624 59 -921 minecraft:iron_block
+[15:32:10] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 8 block(s)]
+[15:32:34] [Server thread/INFO]: TechnoCool issued server command: /gamemode spectator
+[15:32:34] [Server thread/INFO]: System chat: [TechnoCool: Set own game mode to Spectator Mode]
+[15:32:39] [Server thread/INFO]: TechnoCool issued server command: /gamemode creative
+[15:32:39] [Server thread/INFO]: System chat: [TechnoCool: Set own game mode to Creative Mode]
+[15:34:41] [Server thread/INFO]: TechnoCool issued server command: /summon minecraft:villager
+[15:34:41] [Server thread/INFO]: System chat: [TechnoCool: Summoned new Villager]
+[15:34:47] [Server thread/INFO]: TechnoCool issued server command: /summon minecraft:zombie
+[15:34:47] [Server thread/INFO]: System chat: [TechnoCool: Summoned new Zombie]
+[15:34:56] [Server thread/INFO]: Villager Villager['Villager'/63357, l='ServerLevel[world]', x=627.22, y=60.18, z=-923.01] died, message: 'Villager was slain by Zombie'
+[15:35:00] [Server thread/INFO]: TechnoCool issued server command: /summon minecraft:snow_golem
+[15:35:00] [Server thread/INFO]: System chat: [TechnoCool: Summoned new Snow Golem]
+[15:35:19] [Server thread/INFO]: TechnoCool issued server command: /gamemode spectator
+[15:35:19] [Server thread/INFO]: System chat: [TechnoCool: Set own game mode to Spectator Mode]
+[15:35:34] [Server thread/INFO]: TechnoCool issued server command: /gamemode creative
+[15:35:34] [Server thread/INFO]: System chat: [TechnoCool: Set own game mode to Creative Mode]
+[15:35:38] [Server thread/INFO]: TechnoCool issued server command: /fill 624 55 -922
+[15:35:46] [Server thread/INFO]: TechnoCool issued server command: /fill 624 55 -922 632 35 -923 air
+[15:35:46] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 378 block(s)]
+[15:36:01] [Server thread/INFO]: TechnoCool issued server command: /fill 632 55 -928
+[15:36:12] [Server thread/INFO]: TechnoCool issued server command: /fill 632 55 -928 624 36 -924 air
+[15:36:12] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 900 block(s)]
+[15:36:25] [Server thread/INFO]: TechnoCool issued server command: /fill 624 58 -929
+[15:36:33] [Server thread/INFO]: TechnoCool issued server command: /fill 624 58 -929 632 36 -921 air
+[15:36:33] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 416 block(s)]
+[15:36:46] [Server thread/INFO]: TechnoCool issued server command: /gamemode spectator
+[15:36:46] [Server thread/INFO]: System chat: [TechnoCool: Set own game mode to Spectator Mode]
+[15:36:50] [Server thread/INFO]: TechnoCool issued server command: /gamemode creative
+[15:36:50] [Server thread/INFO]: System chat: [TechnoCool: Set own game mode to Creative Mode]
+[15:36:58] [Server thread/INFO]: TechnoCool issued server command: /gamemode spectator
+[15:36:58] [Server thread/INFO]: System chat: [TechnoCool: Set own game mode to Spectator Mode]
+[15:37:03] [Server thread/INFO]: TechnoCool issued server command: /gamemode creative
+[15:37:03] [Server thread/INFO]: System chat: [TechnoCool: Set own game mode to Creative Mode]
+[15:37:13] [Server thread/INFO]: TechnoCool issued server command: /fill 632 58 -929
+[15:37:19] [Server thread/INFO]: TechnoCool issued server command: /fill 632 58 -929 624 58 -921 minecraft:iron_block
+[15:37:19] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 79 block(s)]
+[15:37:50] [Server thread/INFO]: TechnoCool issued server command: /fill 626 37 -920
+[15:37:56] [Server thread/INFO]: TechnoCool issued server command: /fill 626 37 -920 626 56 -920 minecraft:sea_lantern
+[15:37:56] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 18 block(s)]
+[15:38:01] [Server thread/INFO]: TechnoCool issued server command: /fill 628 56 -920
+[15:38:07] [Server thread/INFO]: TechnoCool issued server command: /fill 628 56 -920 628 37 -920 minecraft:sea_lantern
+[15:38:07] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 18 block(s)]
+[15:38:10] [Server thread/INFO]: TechnoCool issued server command: /fill 630 37 -920
+[15:38:16] [Server thread/INFO]: TechnoCool issued server command: /fill 630 37 -920 630 56 -920 minecraft:sea_lantern
+[15:38:16] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 18 block(s)]
+[15:38:20] [Server thread/INFO]: TechnoCool issued server command: /fill 632 57 -920
+[15:38:27] [Server thread/INFO]: TechnoCool issued server command: /fill 632 57 -920 624 36 -920 iron_block
+[15:38:27] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 198 block(s)]
+[15:38:30] [Server thread/INFO]: TechnoCool issued server command: /fill 630 37 -920 630 56 -920 minecraft:sea_lantern
+[15:38:30] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 20 block(s)]
+[15:38:32] [Server thread/INFO]: TechnoCool issued server command: /fill 630 37 -920 630 56 -920 minecraft:sea_lantern
+[15:38:36] [Server thread/INFO]: TechnoCool issued server command: /fill 626 37 -920 626 56 -920 minecraft:sea_lantern
+[15:38:36] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 20 block(s)]
+[15:38:40] [Server thread/INFO]: TechnoCool issued server command: /fill 626 37 -920 626 56 -920 minecraft:sea_lantern
+[15:38:44] [Server thread/INFO]: TechnoCool issued server command: /fill 628 56 -920 628 37 -920 minecraft:sea_lantern
+[15:38:44] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 20 block(s)]
+[15:43:31] [Server thread/INFO]: TechnoCool issued server command: /fill 629 54 -925
+[15:43:37] [Server thread/INFO]: TechnoCool issued server command: /fill 629 54 -925 629 36 -925 glass
+[15:43:37] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 19 block(s)]
+[15:43:39] [Server thread/INFO]: TechnoCool issued server command: /fill 628 36 -924
+[15:43:43] [Server thread/INFO]: TechnoCool issued server command: /fill 628 36 -924 628 54 -924 glass
+[15:43:43] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 19 block(s)]
+[15:43:47] [Server thread/INFO]: TechnoCool issued server command: /fill 627 54 -925
+[15:43:52] [Server thread/INFO]: TechnoCool issued server command: /fill 627 54 -925 627 36 -925 glass
+[15:43:52] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 19 block(s)]
+[15:43:56] [Server thread/INFO]: TechnoCool issued server command: /fill 628 36 -925
+[15:44:06] [Server thread/INFO]: TechnoCool issued server command: /fill 628 36 -925 628 56 -925 water
+[15:44:06] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 20 block(s)]
+[15:44:10] [Server thread/INFO]: TechnoCool issued server command: /fill 628 54 -926
+[15:44:15] [Server thread/INFO]: TechnoCool issued server command: /fill 628 54 -926 628 36 -926 glass
+[15:44:15] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 19 block(s)]
+[15:45:04] [Server thread/INFO]: TechnoCool issued server command: /fill 627 54 -926
+[15:45:08] [Server thread/INFO]: TechnoCool issued server command: /fill 627 54 -926 627 37 -926 glass
+[15:45:08] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 18 block(s)]
+[15:45:14] [Server thread/INFO]: TechnoCool issued server command: /fill 629 54 -926
+[15:45:18] [Server thread/INFO]: TechnoCool issued server command: /fill 629 54 -926 629 37 -926 glass
+[15:45:18] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 18 block(s)]
+[15:45:40] [Server thread/INFO]: TechnoCool issued server command: /fill 629 54 -924
+[15:45:45] [Server thread/INFO]: TechnoCool issued server command: /fill 629 54 -924 629 37 -924 glass
+[15:45:45] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 18 block(s)]
+[15:45:50] [Server thread/INFO]: TechnoCool issued server command: /fill 627 37 -924
+[15:45:55] [User Authenticator #15/INFO]: UUID of player GARFUNCLE1234 is f96bde6e-9866-4f3c-9873-14545a79b42e
+[15:45:56] [Server thread/INFO]: System chat: GARFUNCLE1234 joined the game
+[15:45:56] [Server thread/INFO]: GARFUNCLE1234[/143.59.232.63:35187] logged in with entity id 65130 at ([world]-1457.1487244555556, 96.0, -2927.427489413649)
+[15:45:56] [Server thread/INFO]: TechnoCool issued server command: /fill 627 37 -924 627 54 -924 glass
+[15:45:56] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 18 block(s)]
+[15:51:09] [Server thread/INFO]: TechnoCool issued server command: /fill 632 35 -921
+[15:51:16] [Server thread/INFO]: TechnoCool issued server command: /fill 632 35 -921 624 35 -929 minecraft:iron_block
+[15:51:16] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 78 block(s)]
+[15:51:31] [Server thread/INFO]: TechnoCool issued server command: /fill 632 47 -930
+[15:51:49] [Server thread/INFO]: TechnoCool issued server command: /fill 632 47 -930 624 36 -935 air
+[15:51:49] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 638 block(s)]
+[15:53:31] [Server thread/INFO]: TechnoCool issued server command: /fill 623 36 -921
+[15:53:39] [Server thread/INFO]: TechnoCool issued server command: /fill 623 36 -921 623 47 -935 minecraft:iron_block
+[15:53:39] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 180 block(s)]
+[15:53:50] [Server thread/INFO]: TechnoCool issued server command: /fill 623 36 -930
+[15:54:01] [Server thread/INFO]: TechnoCool issued server command: /fill 623 36 -930 633 47 -935 air
+[15:54:01] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 144 block(s)]
+[15:54:40] [Server thread/INFO]: TechnoCool issued server command: /fill 613 36 -930 643 47 -935 air
+[15:54:40] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 1440 block(s)]
+[15:54:54] [Server thread/INFO]: TechnoCool issued server command: /fill 613 36 -930 643 47 -936 air
+[15:54:54] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 372 block(s)]
+[15:54:59] [Server thread/INFO]: TechnoCool issued server command: /fill 613 36 -930 643 47 -946 air
+[15:54:59] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 3799 block(s)]
+[15:55:31] [Server thread/INFO]: TechnoCool issued server command: /fill 613 36 -930 643 47 -956 air
+[15:55:31] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 3836 block(s)]
+[15:55:46] [Server thread/INFO]: TechnoCool issued server command: /fill 613 35 -930
+[15:56:18] [Server thread/INFO]: TechnoCool issued server command: /fill 613 35 -930 643 35 -956 iron_block
+[15:56:18] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 837 block(s)]
+[15:56:22] [Server thread/INFO]: TechnoCool issued server command: /fill 613 36 -930 643 47 -956 air
+[15:56:22] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 408 block(s)]
+[15:56:31] [Server thread/INFO]: TechnoCool issued server command: /fill 613 36 -957
+[15:56:41] [Server thread/INFO]: TechnoCool issued server command: /fill 613 36 -957 643 47 -957 minecraft:iron_block
+[15:56:41] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 372 block(s)]
+[15:56:58] [Server thread/INFO]: TechnoCool issued server command: /fill 612 47 -956
+[15:57:04] [Server thread/INFO]: TechnoCool issued server command: /fill 612 47 -956 612 36 -930 iron_block
+[15:57:04] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 324 block(s)]
+[15:57:11] [Server thread/INFO]: TechnoCool issued server command: /fill 622 36 -929
+[15:57:16] [Server thread/INFO]: TechnoCool issued server command: /fill 622 36 -929 613 47 -929 iron_block
+[15:57:16] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 120 block(s)]
+[15:57:23] [Server thread/INFO]: TechnoCool issued server command: /fill 643 36 -929
+[15:57:29] [Server thread/INFO]: TechnoCool issued server command: /fill 643 36 -929 633 47 -929 minecraft:iron_block
+[15:57:29] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 132 block(s)]
+[15:57:43] [Server thread/INFO]: TechnoCool issued server command: /fill 633 36 -928
+[15:57:50] [Server thread/INFO]: TechnoCool issued server command: /fill 633 36 -928 633 57 -921 minecraft:iron_block
+[15:57:50] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 176 block(s)]
+[15:57:55] [Server thread/INFO]: TechnoCool issued server command: /fill 623 57 -921
+[15:58:01] [Server thread/INFO]: TechnoCool issued server command: /fill 623 57 -921 623 48 -929 iron_block
+[15:58:01] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 90 block(s)]
+[15:58:05] [Server thread/INFO]: TechnoCool issued server command: /fill 624 57 -930
+[15:58:12] [Server thread/INFO]: TechnoCool issued server command: /fill 624 57 -930 632 48 -930 iron_block
+[15:58:12] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 90 block(s)]
+[15:58:17] [Server thread/INFO]: TechnoCool issued server command: /fill 633 48 -929
+[15:58:23] [Server thread/INFO]: TechnoCool issued server command: /fill 633 48 -929 633 57 -929 iron_block
+[15:58:23] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 10 block(s)]
+[15:58:40] [Server thread/INFO]: TechnoCool issued server command: /fill 628 35 -931
+[15:58:47] [Server thread/INFO]: TechnoCool issued server command: /fill 628 35 -931 628 35 -955 minecraft:sea_lantern
+[15:58:47] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 25 block(s)]
+[15:59:10] [Server thread/INFO]: TechnoCool issued server command: /fill 612 42 -931
+[15:59:17] [Server thread/INFO]: TechnoCool issued server command: /fill 612 42 -931 612 41 -955 minecraft:sea_lantern
+[15:59:17] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 50 block(s)]
+[15:59:56] [Server thread/INFO]: TechnoCool issued server command: /fill 644 47 -956
+[16:00:00] [Server thread/INFO]: TechnoCool issued server command: /fill 644 47 -956 644 36 -930 iron
+[16:00:03] [Server thread/INFO]: TechnoCool issued server command: /fill 644 47 -956 644 36 -930 iron_block
+[16:00:03] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 324 block(s)]
+[16:00:09] [Server thread/INFO]: TechnoCool issued server command: /fill 613 48 -956
+[16:00:15] [Server thread/INFO]: TechnoCool issued server command: /fill 613 48 -956 643 48 -930 iron_block
+[16:00:15] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 828 block(s)]
+[16:00:32] [Server thread/INFO]: TechnoCool issued server command: /fill 613 36 -930 643 47 -956 air
+[16:00:32] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 241 block(s)]
+[16:00:39] [Server thread/INFO]: TechnoCool issued server command: /fill
+[16:00:42] [Server thread/INFO]: TechnoCool issued server command: /fill 644 41 -931
+[16:00:53] [Server thread/INFO]: TechnoCool issued server command: /fill 644 41 -931 644 42 -955 minecraft:sea_lantern
+[16:00:53] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 50 block(s)]
+[16:01:04] [Server thread/INFO]: TechnoCool issued server command: /fill 627 48 -931
+[16:01:16] [Server thread/INFO]: TechnoCool issued server command: /fill 627 48 -931 629 48 -955 minecraft:sea_lantern
+[16:01:16] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 75 block(s)]
+[16:03:20] [Server thread/INFO]: TechnoCool issued server command: /gamemode spectator
+[16:03:20] [Server thread/INFO]: System chat: [TechnoCool: Set own game mode to Spectator Mode]
+[16:03:35] [Server thread/INFO]: TechnoCool issued server command: /gamemode creative
+[16:03:35] [Server thread/INFO]: System chat: [TechnoCool: Set own game mode to Creative Mode]
+[16:13:25] [Server thread/INFO]: GARFUNCLE1234 lost connection: Disconnected
+[16:13:25] [Server thread/INFO]: System chat: GARFUNCLE1234 left the game
+[16:14:32] [User Authenticator #16/INFO]: UUID of player GARFUNCLE1234 is f96bde6e-9866-4f3c-9873-14545a79b42e
+[16:14:33] [Server thread/INFO]: System chat: GARFUNCLE1234 joined the game
+[16:14:33] [Server thread/INFO]: GARFUNCLE1234[/143.59.232.63:7541] logged in with entity id 74723 at ([world]-1456.5482944606113, 96.5625, -2934.026592635377)
+[16:15:44] [Server thread/INFO]: TechnoCool issued server command: /gamemode spectator
+[16:15:44] [Server thread/INFO]: System chat: [TechnoCool: Set own game mode to Spectator Mode]
+[16:16:14] [Server thread/INFO]: TechnoCool issued server command: /gamemode creative
+[16:16:14] [Server thread/INFO]: System chat: [TechnoCool: Set own game mode to Creative Mode]
+[16:20:28] [Server thread/INFO]: TechnoCool issued server command: /tick sprint 3d
+[16:20:28] [Server thread/INFO]: System chat: [TechnoCool: The game is sprinting]
+[16:20:37] [Server thread/INFO]: TechnoCool issued server command: /tick sprint stop
+[16:20:37] [Server thread/INFO]: System chat: Sprint completed with 60 ticks per second, or 16.57 ms per tick
+[16:20:37] [Server thread/INFO]: System chat: [TechnoCool: Interrupted the current tick sprint]
+[16:24:17] [User Authenticator #17/INFO]: UUID of player GARFUNCLE1234 is f96bde6e-9866-4f3c-9873-14545a79b42e
+[16:24:18] [Server thread/INFO]: GARFUNCLE1234 lost connection: You logged in from another location
+[16:24:18] [Server thread/INFO]: System chat: GARFUNCLE1234 left the game.
+[16:24:18] [Server thread/INFO]: System chat: GARFUNCLE1234 joined the game
+[16:24:18] [Server thread/INFO]: GARFUNCLE1234[/143.59.232.63:7442] logged in with entity id 78028 at ([world]-1457.7425831075318, 96.0, -2924.5063181502655)
+[16:29:50] [User Authenticator #18/INFO]: UUID of player GARFUNCLE1234 is f96bde6e-9866-4f3c-9873-14545a79b42e
+[16:29:50] [Server thread/INFO]: GARFUNCLE1234 lost connection: You logged in from another location
+[16:29:50] [Server thread/INFO]: System chat: GARFUNCLE1234 left the game.
+[16:29:51] [Server thread/INFO]: System chat: GARFUNCLE1234 joined the game
+[16:29:51] [Server thread/INFO]: GARFUNCLE1234[/143.59.232.63:7434] logged in with entity id 79861 at ([world]-1484.4350787334367, 113.0, -2948.969756571343)
+[16:30:07] [Server thread/INFO]: TechnoCool issued server command: /summon minecraft:villager
+[16:30:07] [Server thread/INFO]: System chat: [TechnoCool: Summoned new Villager]
+[16:33:18] [Server thread/INFO]: Villager Villager['Farmer'/80167, l='ServerLevel[world]', x=621.67, y=35.00, z=-932.33] died, message: 'Farmer was slain by TechnoCool'
+[16:33:28] [Server thread/INFO]: TechnoCool issued server command: /fill 616 36 -933
+[16:33:37] [Server thread/INFO]: TechnoCool issued server command: /fill 616 36 -933 621 35 -939 air
+[16:33:37] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 65 block(s)]
+[16:34:41] [Server thread/INFO]: TechnoCool issued server command: /fill
+[16:34:47] [Server thread/INFO]: TechnoCool issued server command: /fill 620 34 -939
+[16:34:53] [Server thread/INFO]: TechnoCool issued server command: /fill 620 34 -939 617 34 -933 minecraft:redstone_block
+[16:34:53] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 28 block(s)]
+[16:36:44] [Server thread/INFO]: TechnoCool issued server command: /fill 616 36 -939
+[16:37:01] [Server thread/INFO]: TechnoCool issued server command: /fill 616 36 -939 621 36 -933
+[16:37:20] [Server thread/INFO]: TechnoCool issued server command: /fill 616 36 -939 621 36 -933 minecraft:farmland
+[16:37:20] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 40 block(s)]
+[16:38:02] [Server thread/INFO]: TechnoCool issued server command: /summon villager
+[16:38:02] [Server thread/INFO]: System chat: [TechnoCool: Summoned new Villager]
+[16:38:03] [Server thread/INFO]: TechnoCool issued server command: /summon villager
+[16:38:03] [Server thread/INFO]: System chat: [TechnoCool: Summoned new Villager]
+[16:38:10] [Server thread/INFO]: TechnoCool issued server command: /summon villager
+[16:38:10] [Server thread/INFO]: System chat: [TechnoCool: Summoned new Villager]
+[16:38:11] [Server thread/INFO]: TechnoCool issued server command: /summon villager
+[16:38:11] [Server thread/INFO]: System chat: [TechnoCool: Summoned new Villager]
+[16:42:01] [User Authenticator #19/INFO]: UUID of player adkitcat919 is 10842595-e927-44bd-9434-1805d5907ac6
+[16:42:03] [Server thread/INFO]: System chat: adkitcat919 joined the game
+[16:42:03] [Server thread/INFO]: adkitcat919[/192.168.1.179:63809] logged in with entity id 83951 at ([world]118.54510474182268, 64.0625, 239.2212169840413)
+[16:42:35] [Server thread/INFO]: TechnoCool issued server command: /list
+[16:42:39] [Server thread/INFO]: TechnoCool issued server command: /tick sprint 3d
+[16:42:39] [Server thread/INFO]: System chat: [TechnoCool: The game is sprinting]
+[16:42:49] [Server thread/INFO]: TechnoCool issued server command: /tick sprint stop
+[16:42:49] [Server thread/INFO]: System chat: Sprint completed with 35 ticks per second, or 28.40 ms per tick
+[16:42:49] [Server thread/INFO]: System chat: [TechnoCool: Interrupted the current tick sprint]
+[16:45:50] [Server thread/INFO]: TechnoCool issued server command: /effect give TechnoCool strength 200 200 true
+[16:45:50] [Server thread/INFO]: System chat: [TechnoCool: Applied effect Strength to TechnoCool]
+[16:45:52] [Server thread/INFO]: Villager Villager['Villager'/82853, l='ServerLevel[world]', x=616.50, y=36.94, z=-934.33] died, message: 'Villager was slain by TechnoCool'
+[16:45:53] [Server thread/INFO]: Villager Villager['Villager'/82851, l='ServerLevel[world]', x=617.58, y=36.94, z=-933.40] died, message: 'Villager was slain by TechnoCool'
+[16:45:56] [Server thread/INFO]: Villager Villager['Farmer'/82812, l='ServerLevel[world]', x=617.08, y=36.94, z=-935.81] died, message: 'Farmer was slain by TechnoCool'
+[16:46:15] [Server thread/INFO]: System chat: adkitcat919 was speared by Zombie
+[16:46:17] [Server thread/INFO]: TechnoCool issued server command: /time set day
+[16:46:17] [Server thread/INFO]: System chat: [TechnoCool: Set minecraft:overworld to time marker minecraft:day]
+[16:46:59] [Server thread/INFO]: TechnoCool issued server command: /tp adkitcat919 TechnoCool
+[16:46:59] [Server thread/INFO]: System chat: [TechnoCool: Teleported adkitcat919 to TechnoCool]
+[16:47:05] [Server thread/INFO]: Villager Villager['Farmer'/82822, l='ServerLevel[world]', x=618.19, y=37.56, z=-939.63] died, message: 'Farmer was slain by TechnoCool'
+[16:47:27] [Server thread/INFO]: TechnoCool issued server command: /summon minecraft:villager
+[16:47:27] [Server thread/INFO]: System chat: [TechnoCool: Summoned new Villager]
+[16:48:07] [Server thread/INFO]: Villager Villager['Farmer'/87531, l='ServerLevel[world]', x=618.09, y=36.94, z=-932.89] died, message: 'Farmer was slain by TechnoCool'
+[16:48:11] [Server thread/INFO]: TechnoCool issued server command: /summon minecraft:villager
+[16:48:11] [Server thread/INFO]: System chat: [TechnoCool: Summoned new Villager]
+[16:48:35] [Async Chat Thread - #19/INFO]: <adkitcat919> How do I get out, Johnny
+[16:49:00] [Server thread/INFO]: TechnoCool issued server command: /
+[16:50:41] [User Authenticator #20/INFO]: UUID of player 6sevelyn67 is 74c4125d-0f6c-4b35-bb19-13df8beb51cf
+[16:50:42] [Server thread/INFO]: System chat: 6sevelyn67 joined the game
+[16:50:42] [Server thread/INFO]: 6sevelyn67[/35.145.0.113:26869] logged in with entity id 88539 at ([world]25.465432309219405, 66.0, 244.44750230580595)
+[16:50:47] [Async Chat Thread - #20/INFO]: <adkitcat919> EVIE
+[16:51:02] [Server thread/INFO]: TechnoCool issued server command: /fill
+[16:51:06] [Server thread/INFO]: TechnoCool issued server command: /fill 628 36 -958
+[16:51:09] [Server thread/INFO]: TechnoCool issued server command: /gamemode spectator
+[16:51:09] [Server thread/INFO]: System chat: [TechnoCool: Set own game mode to Spectator Mode]
+[16:51:23] [Server thread/INFO]: TechnoCool issued server command: /gamemode creative
+[16:51:23] [Server thread/INFO]: System chat: [TechnoCool: Set own game mode to Creative Mode]
+[16:51:28] [Server thread/INFO]: TechnoCool issued server command: /fill 628 36 -958 628 68 -958 air
+[16:51:28] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 31 block(s)]
+[16:52:21] [Server thread/INFO]: TechnoCool issued server command: /fill 628 36 -958
+[16:52:31] [Server thread/INFO]: TechnoCool issued server command: /fill 628 36 -958 628 67 -958 water
+[16:52:31] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 32 block(s)]
+[16:53:26] [Server thread/INFO]: TechnoCool issued server command: /fill 628 36 -959
+[16:53:35] [Server thread/INFO]: TechnoCool issued server command: /fill 628 36 -959 628 66 -959 minecraft:sea_lantern
+[16:53:35] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 31 block(s)]
+[16:53:38] [Server thread/INFO]: TechnoCool issued server command: /fill 627 66 -958
+[16:53:47] [Server thread/INFO]: TechnoCool issued server command: /fill 627 66 -958 627 39 -958 minecraft:iron_block
+[16:53:47] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 28 block(s)]
+[16:53:50] [Server thread/INFO]: TechnoCool issued server command: /fill 628 39 -957
+[16:53:57] [Server thread/INFO]: TechnoCool issued server command: /fill 628 39 -957 628 66 -957 minecraft:iron_block
+[16:53:57] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 19 block(s)]
+[16:54:00] [Server thread/INFO]: TechnoCool issued server command: /fill 629 66 -958
+[16:54:07] [Server thread/INFO]: TechnoCool issued server command: /fill 629 66 -958 629 39 -958 iron_block
+[16:54:07] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 28 block(s)]
+[16:55:04] [Server thread/INFO]: TechnoCool issued server command: /fill 628 38 -957
+[16:55:11] [Server thread/INFO]: TechnoCool issued server command: /fill 628 38 -957 628 47 -957 glass
+[16:55:11] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 10 block(s)]
+[16:55:36] [Server thread/INFO]: TechnoCool issued server command: /gamemode creative adkitcat919
+[16:55:36] [Server thread/INFO]: System chat: [TechnoCool: Set adkitcat919's game mode to Creative Mode]
+[16:56:14] [User Authenticator #21/INFO]: UUID of player GARFUNCLE1234 is f96bde6e-9866-4f3c-9873-14545a79b42e
+[16:56:14] [Server thread/INFO]: GARFUNCLE1234 lost connection: You logged in from another location
+[16:56:14] [Server thread/INFO]: System chat: GARFUNCLE1234 left the game.
+[16:56:15] [Server thread/INFO]: System chat: GARFUNCLE1234 joined the game
+[16:56:15] [Server thread/INFO]: GARFUNCLE1234[/143.59.232.63:7535] logged in with entity id 91568 at ([world]-1454.2265748410355, 96.0, -2931.885200955089)
+[16:56:16] [User Authenticator #22/INFO]: UUID of player 6sevelyn67 is 74c4125d-0f6c-4b35-bb19-13df8beb51cf
+[16:56:16] [Server thread/INFO]: 6sevelyn67 lost connection: You logged in from another location
+[16:56:16] [Server thread/INFO]: System chat: 6sevelyn67 left the game.
+[16:56:17] [Server thread/INFO]: System chat: 6sevelyn67 joined the game
+[16:56:17] [Server thread/INFO]: 6sevelyn67[/35.145.0.113:26884] logged in with entity id 91796 at ([world]-54.85005840717825, 68.0, 427.9479812718049)
+[16:56:47] [Server thread/INFO]: TechnoCool issued server command: /fill 629 66 -958 629 39 -958 water
+[16:56:47] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 28 block(s)]
+[16:57:14] [Server thread/INFO]: TechnoCool issued server command: /fill 627 67 -958
+[16:57:24] [Server thread/INFO]: TechnoCool issued server command: /fill 627 67 -958 627 38 -958 water
+[16:57:24] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 30 block(s)]
+[16:57:40] [Server thread/INFO]: TechnoCool issued server command: /
+[16:57:47] [Server thread/INFO]: TechnoCool issued server command: /fill 627 67 -957
+[16:58:04] [Server thread/INFO]: TechnoCool issued server command: /fill 627 67 -957 626 36 -959 minecraft:iron_block
+[16:58:04] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 163 block(s)]
+[16:58:07] [Server thread/INFO]: System chat: adkitcat919 has made the advancement [Hot Stuff]
+[16:58:08] [Server thread/INFO]: TechnoCool issued server command: /fill 627 67 -958 627 38 -958 water
+[16:58:08] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 30 block(s)]
+[16:58:24] [Server thread/INFO]: TechnoCool issued server command: /fill 629 67 -959
+[16:58:37] [Server thread/INFO]: TechnoCool issued server command: /fill 629 67 -959 630 36 -957 minecraft:iron_block
+[16:58:37] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 157 block(s)]
+[16:59:12] [Server thread/INFO]: TechnoCool issued server command: /fill 629 36 -958
+[16:59:21] [Server thread/INFO]: TechnoCool issued server command: /fill 629 36 -958 629 67 -958 water
+[16:59:21] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 32 block(s)]
+[16:59:27] [Async Chat Thread - #23/INFO]: <TechnoCool> what the heck are you doing
+[16:59:40] [Async Chat Thread - #23/INFO]: <adkitcat919> clearing some spacew
+[16:59:46] [Async Chat Thread - #22/INFO]: <TechnoCool> with lava?
+[16:59:52] [Async Chat Thread - #22/INFO]: <adkitcat919> what else
+[17:00:08] [Server thread/INFO]: TechnoCool issued server command: /fill 627 38 -957
+[17:00:09] [Async Chat Thread - #22/INFO]: <adkitcat919> I could be using TnT
+[17:00:14] [Server thread/INFO]: TechnoCool issued server command: /fill 627 38 -957 629 47 -957 glass
+[17:00:14] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 20 block(s)]
+[17:00:16] [Async Chat Thread - #22/INFO]: <TechnoCool> dont u dare
+[17:00:48] [Async Chat Thread - #22/INFO]: <TechnoCool> just stop bro
+[17:00:53] [Async Chat Thread - #24/INFO]: <adkitcat919> okay
+[17:00:59] [Server thread/INFO]: TechnoCool issued server command: /fill 622 76 -961
+[17:01:04] [Server thread/INFO]: TechnoCool issued server command: /fill 622 76 -961 633 71 -954 air
+[17:01:04] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 45 block(s)]
+[17:01:15] [Server thread/INFO]: TechnoCool issued server command: /fill 621 68 -964
+[17:01:20] [Server thread/INFO]: TechnoCool issued server command: /fill 621 68 -964 632 70 -950 air
+[17:01:20] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 78 block(s)]
+[17:02:15] [Server thread/INFO]: TechnoCool issued server command: /fill 634 68 -960
+[17:02:27] [Server thread/INFO]: TechnoCool issued server command: /fill 634 68 -960 ~ ~ ~ air
+[17:02:27] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 199 block(s)]
+[17:02:52] [Server thread/INFO]: TechnoCool issued server command: /clear TechnoCool
+[17:02:52] [Server thread/INFO]: System chat: [TechnoCool: Removed 243 item(s) from player TechnoCool]
+[17:03:12] [Server thread/INFO]: TechnoCool issued server command: /time set day
+[17:03:12] [Server thread/INFO]: System chat: [TechnoCool: Set minecraft:overworld to time marker minecraft:day]
+[17:04:22] [Server thread/INFO]: TechnoCool issued server command: /fill 633 64 -951
+[17:04:29] [Server thread/INFO]: TechnoCool issued server command: /fill 633 64 -951 ~ ~ ~ air
+[17:04:29] [Server thread/INFO]: System chat: [TechnoCool: Successfully filled 463 block(s)]
+[17:04:54] [Server thread/INFO]: TechnoCool issued server command: /clear TechnoCool
+[17:04:54] [Server thread/INFO]: System chat: [TechnoCool: Removed 4 item(s) from player TechnoCool]
+[17:06:41] [User Authenticator #23/INFO]: UUID of player GARFUNCLE1234 is f96bde6e-9866-4f3c-9873-14545a79b42e
+[17:06:41] [Server thread/INFO]: GARFUNCLE1234 lost connection: You logged in from another location
+[17:06:41] [Server thread/INFO]: System chat: GARFUNCLE1234 left the game.
+[17:06:42] [Server thread/INFO]: System chat: GARFUNCLE1234 joined the game
+[17:06:42] [Server thread/INFO]: GARFUNCLE1234[/143.59.232.63:7486] logged in with entity id 98777 at ([world]-1455.9024496755883, 96.0, -2937.1054798126675)
+[17:06:46] [Server thread/INFO]: adkitcat919 lost connection: Disconnected
+[17:06:46] [Server thread/INFO]: System chat: adkitcat919 left the game
+[17:06:50] [User Authenticator #24/INFO]: UUID of player 6sevelyn67 is 74c4125d-0f6c-4b35-bb19-13df8beb51cf
+[17:06:50] [Server thread/INFO]: 6sevelyn67 lost connection: You logged in from another location
+[17:06:50] [Server thread/INFO]: System chat: 6sevelyn67 left the game.
+[17:06:51] [Server thread/INFO]: System chat: 6sevelyn67 joined the game
+[17:06:51] [Server thread/INFO]: 6sevelyn67[/35.145.0.113:26903] logged in with entity id 99069 at ([world]-281.97532995983744, 92.0, 320.84701369130215)
+[17:06:59] [User Authenticator #25/INFO]: UUID of player adkitcat919 is 10842595-e927-44bd-9434-1805d5907ac6
+[17:07:00] [Server thread/INFO]: System chat: adkitcat919 joined the game
+[17:07:00] [Server thread/INFO]: adkitcat919[/192.168.1.179:63946] logged in with entity id 99314 at ([world]632.523155329219, 71.58282221022375, -956.1050049897464)
+[17:10:21] [Server thread/INFO]: TechnoCool issued server command: /clear TechnoCool
+[17:10:21] [Server thread/INFO]: System chat: [TechnoCool: Removed 13 item(s) from player TechnoCool]
+[17:10:41] [Server thread/INFO]: TechnoCool issued server command: /spawnpoint TechnoCool
+[17:10:41] [Server thread/INFO]: System chat: [TechnoCool: Set spawn point to 628, 36, -950 [0.0, 0.0] in minecraft:overworld for TechnoCool]
+[17:13:38] [Server thread/INFO]: 6sevelyn67 lost connection: Disconnected
+[17:13:38] [Server thread/INFO]: System chat: 6sevelyn67 left the game
+[17:16:00] [Server thread/INFO]: TechnoCool issued server command: /clear TechnoCool
+[17:16:00] [Server thread/INFO]: System chat: [TechnoCool: Removed 2 item(s) from player TechnoCool]
+[17:16:23] [Server thread/INFO]: TechnoCool issued server command: /gamemode spectator
+[17:16:23] [Server thread/INFO]: System chat: [TechnoCool: Set own game mode to Spectator Mode]
+[17:16:28] [Server thread/INFO]: TechnoCool issued server command: /summon minecraft:zombie
+[17:16:28] [Server thread/INFO]: System chat: [TechnoCool: Summoned new Zombie]
+[17:16:31] [Server thread/INFO]: TechnoCool issued server command: /summon minecraft:zombie
+[17:16:31] [Server thread/INFO]: System chat: [TechnoCool: Summoned new Zombie]
+[17:16:32] [Server thread/INFO]: TechnoCool issued server command: /summon minecraft:zombie
+[17:16:32] [Server thread/INFO]: System chat: [TechnoCool: Summoned new Zombie]
+[17:16:33] [Server thread/INFO]: TechnoCool issued server command: /summon minecraft:zombie
+[17:16:33] [Server thread/INFO]: System chat: [TechnoCool: Summoned new Zombie]
+[17:16:33] [Server thread/INFO]: TechnoCool issued server command: /summon minecraft:zombie
+[17:16:33] [Server thread/INFO]: System chat: [TechnoCool: Summoned new Zombie]
+[17:16:42] [Server thread/INFO]: TechnoCool issued server command: /summon skeleton
+[17:16:42] [Server thread/INFO]: System chat: [TechnoCool: Summoned new Skeleton]
+[17:16:43] [Server thread/INFO]: TechnoCool issued server command: /summon skeleton
+[17:16:43] [Server thread/INFO]: System chat: [TechnoCool: Summoned new Skeleton]
+[17:16:43] [Server thread/INFO]: TechnoCool issued server command: /summon skeleton
+[17:16:43] [Server thread/INFO]: System chat: [TechnoCool: Summoned new Skeleton]
+[17:16:44] [Server thread/INFO]: TechnoCool issued server command: /summon skeleton
+[17:16:44] [Server thread/INFO]: System chat: [TechnoCool: Summoned new Skeleton]
+[17:16:45] [Server thread/INFO]: TechnoCool issued server command: /summon skeleton
+[17:16:45] [Server thread/INFO]: System chat: [TechnoCool: Summoned new Skeleton]
+[17:16:45] [Server thread/INFO]: TechnoCool issued server command: /summon skeleton
+[17:16:45] [Server thread/INFO]: System chat: [TechnoCool: Summoned new Skeleton]
+[17:16:46] [Server thread/INFO]: TechnoCool issued server command: /summon skeleton
+[17:16:46] [Server thread/INFO]: System chat: [TechnoCool: Summoned new Skeleton]
+[17:16:46] [Server thread/INFO]: TechnoCool issued server command: /summon skeleton
+[17:16:46] [Server thread/INFO]: System chat: [TechnoCool: Summoned new Skeleton]
+[17:16:47] [Server thread/INFO]: TechnoCool issued server command: /summon skeleton
+[17:16:47] [Server thread/INFO]: System chat: [TechnoCool: Summoned new Skeleton]
+[17:16:48] [Server thread/INFO]: TechnoCool issued server command: /summon skeleton
+[17:16:48] [Server thread/INFO]: System chat: [TechnoCool: Summoned new Skeleton]
+[17:16:48] [Server thread/INFO]: TechnoCool issued server command: /summon skeleton
+[17:16:48] [Server thread/INFO]: System chat: [TechnoCool: Summoned new Skeleton]
+[17:16:49] [Server thread/INFO]: TechnoCool issued server command: /summon skeleton
+[17:16:49] [Server thread/INFO]: System chat: [TechnoCool: Summoned new Skeleton]
+[17:16:49] [Server thread/INFO]: TechnoCool issued server command: /summon skeleton
+[17:16:49] [Server thread/INFO]: System chat: [TechnoCool: Summoned new Skeleton]
+[17:16:50] [Server thread/INFO]: TechnoCool issued server command: /summon skeleton
+[17:16:50] [Server thread/INFO]: System chat: [TechnoCool: Summoned new Skeleton]
+[17:16:51] [Server thread/INFO]: TechnoCool issued server command: /summon skeleton
+[17:16:51] [Server thread/INFO]: System chat: [TechnoCool: Summoned new Skeleton]
+[17:16:51] [Server thread/INFO]: TechnoCool issued server command: /summon skeleton
+[17:16:51] [Server thread/INFO]: System chat: [TechnoCool: Summoned new Skeleton]
+[17:16:52] [Server thread/INFO]: TechnoCool issued server command: /summon skeleton
+[17:16:52] [Server thread/INFO]: System chat: [TechnoCool: Summoned new Skeleton]
+[17:16:53] [Server thread/INFO]: TechnoCool issued server command: /summon skeletont
+[17:16:54] [Server thread/INFO]: TechnoCool issued server command: /summon skeletont
+[17:16:55] [Server thread/INFO]: TechnoCool issued server command: /summon skeletont
+[17:16:55] [Server thread/INFO]: TechnoCool issued server command: /summon skeletont
+[17:16:56] [Server thread/INFO]: TechnoCool issued server command: /summon skeletont
+[17:16:58] [Server thread/INFO]: TechnoCool issued server command: /summon skeleton
+[17:16:58] [Server thread/INFO]: System chat: [TechnoCool: Summoned new Skeleton]
+[17:16:59] [Server thread/INFO]: TechnoCool issued server command: /summon skeleton
+[17:16:59] [Server thread/INFO]: System chat: [TechnoCool: Summoned new Skeleton]
+[17:17:00] [Server thread/INFO]: TechnoCool issued server command: /summon skeleton
+[17:17:00] [Server thread/INFO]: System chat: [TechnoCool: Summoned new Skeleton]
+[17:17:00] [Server thread/INFO]: TechnoCool issued server command: /summon skeleton
+[17:17:00] [Server thread/INFO]: System chat: [TechnoCool: Summoned new Skeleton]
+[17:17:01] [Server thread/INFO]: TechnoCool issued server command: /summon skeleton
+[17:17:01] [Server thread/INFO]: System chat: [TechnoCool: Summoned new Skeleton]
+[17:17:02] [Server thread/INFO]: TechnoCool issued server command: /summon skeleton
+[17:17:02] [Server thread/INFO]: System chat: [TechnoCool: Summoned new Skeleton]
+[17:17:20] [Server thread/INFO]: TechnoCool issued server command: /summon skeleton
+[17:17:20] [Server thread/INFO]: System chat: [TechnoCool: Summoned new Skeleton]
+[17:17:21] [Server thread/INFO]: TechnoCool issued server command: /summon skeleton
+[17:17:21] [Server thread/INFO]: System chat: [TechnoCool: Summoned new Skeleton]
+[17:17:21] [Server thread/INFO]: TechnoCool issued server command: /summon skeleton
+[17:17:21] [Server thread/INFO]: System chat: [TechnoCool: Summoned new Skeleton]
+[17:17:22] [Server thread/INFO]: TechnoCool issued server command: /summon skeleton
+[17:17:22] [Server thread/INFO]: System chat: [TechnoCool: Summoned new Skeleton]
+[17:17:23] [Server thread/INFO]: TechnoCool issued server command: /summon skeleton
+[17:17:23] [Server thread/INFO]: System chat: [TechnoCool: Summoned new Skeleton]
+[17:17:24] [Server thread/INFO]: TechnoCool issued server command: /summon skeleton
+[17:17:24] [Server thread/INFO]: System chat: [TechnoCool: Summoned new Skeleton]
+[17:17:24] [Server thread/INFO]: TechnoCool issued server command: /summon skeleton
+[17:17:24] [Server thread/INFO]: System chat: [TechnoCool: Summoned new Skeleton]
+[17:17:25] [Server thread/INFO]: TechnoCool issued server command: /summon skeleton
+[17:17:25] [Server thread/INFO]: System chat: [TechnoCool: Summoned new Skeleton]
+[17:17:26] [Server thread/INFO]: TechnoCool issued server command: /summon skeleton
+[17:17:26] [Server thread/INFO]: System chat: [TechnoCool: Summoned new Skeleton]
+[17:17:26] [Server thread/INFO]: TechnoCool issued server command: /summon skeleton
+[17:17:26] [Server thread/INFO]: System chat: [TechnoCool: Summoned new Skeleton]
+[17:17:37] [Server thread/INFO]: TechnoCool issued server command: /summon skeleton
+[17:17:37] [Server thread/INFO]: System chat: [TechnoCool: Summoned new Skeleton]
+[17:17:38] [Server thread/INFO]: TechnoCool issued server command: /summon skeleton
+[17:17:38] [Server thread/INFO]: System chat: [TechnoCool: Summoned new Skeleton]
+[17:17:39] [Server thread/INFO]: TechnoCool issued server command: /summon skeleton
+[17:17:39] [Server thread/INFO]: System chat: [TechnoCool: Summoned new Skeleton]
+[17:17:40] [Server thread/INFO]: TechnoCool issued server command: /summon skeleton
+[17:17:40] [Server thread/INFO]: System chat: [TechnoCool: Summoned new Skeleton]
+[17:18:52] [Server thread/INFO]: TechnoCool issued server command: /gamemode survival
+[17:18:52] [Server thread/INFO]: System chat: [TechnoCool: Set own game mode to Survival Mode]
+[17:19:31] [Server thread/INFO]: TechnoCool lost connection: Disconnected
+[17:19:31] [Server thread/INFO]: System chat: TechnoCool left the game
+[17:19:52] [Server thread/INFO]: System chat: There are 2 of a max of 50 players online: GARFUNCLE1234, adkitcat919
+[17:20:48] [User Authenticator #26/INFO]: UUID of player GARFUNCLE1234 is f96bde6e-9866-4f3c-9873-14545a79b42e
+[17:20:48] [Server thread/INFO]: GARFUNCLE1234 lost connection: You logged in from another location
+[17:20:48] [Server thread/INFO]: System chat: GARFUNCLE1234 left the game.
+[17:20:48] [Server thread/INFO]: System chat: GARFUNCLE1234 joined the game
+[17:20:48] [Server thread/INFO]: GARFUNCLE1234[/143.59.232.63:7445] logged in with entity id 105590 at ([world]-1456.7762671713222, 96.0, -2932.6569936886276)
+[17:23:14] [Server thread/INFO]: adkitcat919 lost connection: Disconnected
+[17:23:14] [Server thread/INFO]: System chat: adkitcat919 left the game
+[17:49:05] [User Authenticator #27/INFO]: UUID of player GARFUNCLE1234 is f96bde6e-9866-4f3c-9873-14545a79b42e
+[17:49:05] [Server thread/INFO]: GARFUNCLE1234 lost connection: You logged in from another location
+[17:49:05] [Server thread/INFO]: System chat: GARFUNCLE1234 left the game.
+[17:49:05] [Server thread/INFO]: System chat: GARFUNCLE1234 joined the game
+[17:49:05] [Server thread/INFO]: GARFUNCLE1234[/143.59.232.63:35155] logged in with entity id 110701 at ([world]-1467.5135579273415, 96.0, -2921.4827200332625)
+[17:52:28] [User Authenticator #28/INFO]: UUID of player GARFUNCLE1234 is f96bde6e-9866-4f3c-9873-14545a79b42e
+[17:52:28] [Server thread/INFO]: GARFUNCLE1234 lost connection: You logged in from another location
+[17:52:28] [Server thread/INFO]: System chat: GARFUNCLE1234 left the game.
+[17:52:28] [Server thread/INFO]: System chat: GARFUNCLE1234 joined the game
+[17:52:28] [Server thread/INFO]: GARFUNCLE1234[/143.59.232.63:7455] logged in with entity id 111350 at ([world]-1453.191114281123, 96.0, -2931.2199103078187)
+[18:24:17] [Server thread/INFO]: GARFUNCLE1234 lost connection: Disconnected
+[18:24:17] [Server thread/INFO]: System chat: GARFUNCLE1234 left the game
+[18:25:17] [Server thread/INFO]: Server empty for 60 seconds, pausing

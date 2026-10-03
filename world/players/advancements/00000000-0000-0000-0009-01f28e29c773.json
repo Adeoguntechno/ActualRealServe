@@ -893,6 +893,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "glow_berries": "2026-10-03 13:33:01 -0400",
+      "cooked_cod": "2026-10-03 13:43:06 -0400",
       "melon_slice": "2026-10-01 18:29:42 -0400"
     },
     "done": false
@@ -900,6 +902,78 @@
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2026-10-01 18:34:33 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2026-10-03 13:46:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2026-10-03 13:46:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2026-10-03 13:46:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2026-10-03 13:46:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2026-10-03 13:39:32 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2026-10-03 13:39:32 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2026-10-03 13:41:46 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2026-10-03 13:46:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2026-10-03 13:46:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2026-10-03 13:46:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2026-10-03 13:46:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2026-10-03 13:46:18 -0400"
     },
     "done": true
   },

@@ -39,6 +39,7 @@
       "minecraft:snowy_plains": "2026-09-13 17:52:14 -0400",
       "minecraft:dripstone_caves": "2026-09-05 01:23:22 -0400",
       "minecraft:snowy_taiga": "2026-09-13 17:51:51 -0400",
+      "minecraft:frozen_peaks": "2026-10-03 11:12:32 -0400",
       "minecraft:old_growth_birch_forest": "2026-09-07 01:18:47 -0400",
       "minecraft:sulfur_caves": "2026-09-05 16:09:20 -0400",
       "minecraft:deep_dark": "2026-09-05 01:19:05 -0400",
@@ -3786,6 +3787,78 @@
   "minecraft:recipes/misc/green_dye": {
     "criteria": {
       "has_cactus": "2026-10-02 22:27:23 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2026-10-03 14:58:45 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2026-10-03 14:58:45 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2026-10-03 14:58:45 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2026-10-03 14:58:45 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2026-10-03 14:58:45 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2026-10-03 17:04:51 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2026-10-03 14:58:45 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2026-10-03 17:04:51 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2026-10-03 14:58:45 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2026-10-03 14:58:45 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2026-10-03 14:58:45 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_wildflowers": {
+    "criteria": {
+      "has_wildflowers": "2026-10-03 14:55:48 -0400"
     },
     "done": true
   },
