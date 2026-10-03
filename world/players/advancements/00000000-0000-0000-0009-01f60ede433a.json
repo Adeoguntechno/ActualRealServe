@@ -8,12 +8,15 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:savanna_plateau": "2026-09-13 16:04:46 -0400",
+      "minecraft:beach": "2026-10-03 00:06:39 -0400",
       "minecraft:dark_forest": "2026-09-23 19:07:43 -0400",
       "minecraft:forest": "2026-09-13 16:08:27 -0400",
       "minecraft:river": "2026-09-13 16:07:59 -0400",
+      "minecraft:stony_shore": "2026-10-03 00:09:46 -0400",
       "minecraft:lush_caves": "2026-09-23 19:07:35 -0400",
       "minecraft:dripstone_caves": "2026-09-23 19:04:26 -0400",
       "minecraft:old_growth_birch_forest": "2026-09-23 19:08:34 -0400",
+      "minecraft:sunflower_plains": "2026-10-03 00:07:43 -0400",
       "minecraft:grove": "2026-09-23 19:05:18 -0400",
       "minecraft:meadow": "2026-09-13 16:24:41 -0400",
       "minecraft:birch_forest": "2026-09-23 19:08:47 -0400",
@@ -2145,6 +2148,54 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2026-09-28 20:17:51 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2026-10-03 00:08:29 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2026-10-03 00:08:29 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2026-10-03 00:02:05 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2026-10-03 00:08:29 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_wool_stairs": {
+    "criteria": {
+      "has_brown_wool": "2026-10-03 00:08:29 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_wool_slab": {
+    "criteria": {
+      "has_brown_wool": "2026-10-03 00:08:29 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2026-10-03 00:07:46 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2026-10-03 00:02:05 -0400"
     },
     "done": true
   },
