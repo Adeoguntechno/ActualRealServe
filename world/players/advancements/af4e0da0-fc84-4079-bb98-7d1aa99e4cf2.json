@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:flower_forest": "2026-10-04 00:19:56 -0400",
       "minecraft:savanna_plateau": "2026-09-10 21:25:05 -0400",
       "minecraft:dark_forest": "2026-09-22 18:37:26 -0400",
       "minecraft:forest": "2026-09-10 21:37:23 -0400",
@@ -523,7 +524,8 @@
       "salmon": "2026-09-10 21:37:06 -0400",
       "beef": "2026-09-22 18:59:53 -0400",
       "porkchop": "2026-09-22 18:28:31 -0400",
-      "cooked_salmon": "2026-09-26 18:45:57 -0400"
+      "cooked_salmon": "2026-09-26 18:45:57 -0400",
+      "golden_carrot": "2026-10-04 00:13:35 -0400"
     },
     "done": false
   },
@@ -1013,15 +1015,118 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2026-09-26 18:50:04 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_chestplate_dyed": {
     "criteria": {
       "has_leather_chestplate": "2026-09-26 19:12:49 -0400"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dripstone_block": {
+  "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
-      "has_pointed_dripstone": "2026-09-26 18:50:04 -0400"
+      "has_leather": "2026-10-04 00:20:59 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2026-10-04 00:20:59 -0400"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2026-10-04 00:02:54 -0400",
+      "minecraft:basalt_deltas": "2026-10-04 00:02:57 -0400"
+    },
+    "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2026-10-04 00:02:53 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2026-10-04 00:20:59 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2026-10-04 00:12:28 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/golden_dandelion": {
+    "criteria": {
+      "has_dandelion": "2026-10-04 00:12:28 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2026-10-04 00:20:59 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/saddle": {
+    "criteria": {
+      "has_leather": "2026-10-04 00:20:59 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2026-10-04 00:12:27 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2026-10-04 00:12:28 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2026-10-04 00:12:27 -0400"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2026-10-04 00:02:53 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wolf_armor": {
+    "criteria": {
+      "has_armadillo_scute": "2026-10-03 23:56:32 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2026-10-04 00:20:59 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2026-10-04 00:20:59 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2026-10-04 00:12:27 -0400"
     },
     "done": true
   },

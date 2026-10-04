@@ -51,6 +51,7 @@
       "minecraft:warm_ocean": "2026-09-29 23:17:11 -0400",
       "minecraft:deep_lukewarm_ocean": "2026-09-28 00:20:19 -0400",
       "minecraft:flower_forest": "2026-09-05 00:29:29 -0400",
+      "minecraft:dappled_forest": "2026-10-04 13:35:20 -0400",
       "minecraft:frozen_peaks": "2026-09-05 16:09:10 -0400",
       "minecraft:old_growth_birch_forest": "2026-09-05 00:56:58 -0400",
       "minecraft:sulfur_caves": "2026-09-17 23:35:30 -0400",
@@ -597,6 +598,7 @@
       "minecraft:slime": "2026-09-15 23:24:33 -0400",
       "minecraft:evoker": "2026-09-27 23:48:31 -0400",
       "minecraft:phantom": "2026-09-07 20:32:30 -0400",
+      "minecraft:zombified_piglin": "2026-10-03 21:11:45 -0400",
       "minecraft:witch": "2026-09-05 00:24:32 -0400",
       "minecraft:wither_skeleton": "2026-09-07 21:16:52 -0400",
       "minecraft:husk": "2026-09-20 15:59:24 -0400",
@@ -6282,6 +6284,138 @@
   "minecraft:recipes/building_blocks/dye_lime_wool_stairs": {
     "criteria": {
       "has_needed_dye": "2026-10-01 21:34:21 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2026-10-03 21:41:49 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2026-10-03 21:41:49 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2026-10-03 21:41:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2026-10-03 21:41:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2026-10-03 22:42:13 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2026-10-03 22:42:13 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_leggings_dyed": {
+    "criteria": {
+      "has_leather_leggings": "2026-10-04 13:09:37 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wolf_armor": {
+    "criteria": {
+      "has_armadillo_scute": "2026-10-04 13:55:06 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2026-10-04 14:39:58 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2026-10-04 14:39:58 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2026-10-04 15:16:56 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_red_cushion": {
+    "criteria": {
+      "has_needed_dye": "2026-10-04 15:17:00 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_red_dye": "2026-10-04 15:17:00 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool_stairs": {
+    "criteria": {
+      "has_needed_dye": "2026-10-04 15:17:00 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2026-10-04 15:17:00 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2026-10-04 15:17:00 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2026-10-04 15:17:00 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2026-10-04 15:17:00 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/red_bundle": {
+    "criteria": {
+      "has_red_dye": "2026-10-04 15:17:00 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2026-10-04 15:17:00 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool_slab": {
+    "criteria": {
+      "has_needed_dye": "2026-10-04 15:17:00 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_red_harness": {
+    "criteria": {
+      "has_needed_dye": "2026-10-04 15:17:00 -0400"
     },
     "done": true
   },
