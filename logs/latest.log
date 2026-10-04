@@ -1399,3 +1399,4 @@ io.netty.channel.StacklessClosedChannelException
 [17:59:53] [Server thread/INFO]: BrookeBabyCakes lost connection: Disconnected
 [17:59:53] [Server thread/INFO]: System chat: BrookeBabyCakes left the game
 [18:00:53] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[19:30:28] [Thread-0/INFO]: Stopping server
