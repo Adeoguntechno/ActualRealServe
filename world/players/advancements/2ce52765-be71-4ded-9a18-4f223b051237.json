@@ -572,6 +572,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2026-09-08 19:11:10 -0400",
+      "minecraft:spider": "2026-10-10 18:05:03 -0400",
       "minecraft:zombie": "2026-09-06 16:31:52 -0400"
     },
     "done": false
@@ -2043,6 +2044,24 @@
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2026-09-27 16:51:56 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2026-10-10 18:05:56 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2026-10-10 18:03:07 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_poppy": {
+    "criteria": {
+      "has_poppy": "2026-10-10 18:05:56 -0400"
     },
     "done": true
   },

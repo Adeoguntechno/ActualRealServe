@@ -336,9 +336,12 @@
       "minecraft:zombified_piglin": "2026-09-07 13:48:01 -0400",
       "minecraft:witch": "2026-09-02 17:45:11 -0400",
       "minecraft:wither_skeleton": "2026-09-07 01:27:35 -0400",
+      "minecraft:husk": "2026-10-10 14:38:37 -0400",
       "minecraft:piglin": "2026-09-05 16:38:01 -0400",
       "minecraft:zombie_horse": "2026-09-02 18:21:43 -0400",
+      "minecraft:breeze": "2026-10-10 14:38:58 -0400",
       "minecraft:enderman": "2026-09-02 17:24:31 -0400",
+      "minecraft:stray": "2026-10-10 14:38:53 -0400",
       "minecraft:magma_cube": "2026-09-05 16:36:10 -0400",
       "minecraft:spider": "2026-09-02 17:39:29 -0400",
       "minecraft:zombie": "2026-09-02 17:37:58 -0400",
@@ -382,16 +385,17 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2026-09-05 16:14:34 -0400",
-      "apple": "2026-09-03 22:15:15 -0400",
       "chicken": "2026-09-10 21:34:01 -0400",
       "bread": "2026-09-05 00:43:45 -0400",
       "golden_apple": "2026-09-07 14:02:54 -0400",
       "rotten_flesh": "2026-09-02 17:27:40 -0400",
+      "cookie": "2026-10-10 14:27:48 -0400",
       "cooked_mutton": "2026-09-02 19:40:18 -0400",
       "glow_berries": "2026-09-23 21:03:45 -0400",
       "salmon": "2026-09-06 00:56:08 -0400",
       "cooked_beef": "2026-09-05 01:12:27 -0400",
       "melon_slice": "2026-09-02 20:13:15 -0400",
+      "apple": "2026-09-03 22:15:15 -0400",
       "carrot": "2026-09-07 00:34:40 -0400"
     },
     "done": false
@@ -3862,33 +3866,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/orange_wool_stairs": {
+  "minecraft:recipes/misc/coal": {
     "criteria": {
-      "has_orange_wool": "2026-10-09 17:50:07 -0400"
+      "has_coal_block": "2026-10-09 17:23:32 -0400"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/orange_bed": {
+  "minecraft:recipes/misc/raw_iron": {
     "criteria": {
-      "has_orange_wool": "2026-10-09 17:50:07 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_banner": {
-    "criteria": {
-      "has_orange_wool": "2026-10-09 17:50:07 -0400"
+      "has_raw_iron_block": "2026-10-09 17:30:29 -0400"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/light_blue_wool_slab": {
     "criteria": {
       "has_light_blue_wool": "2026-10-09 17:40:01 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coal": {
-    "criteria": {
-      "has_coal_block": "2026-10-09 17:23:32 -0400"
     },
     "done": true
   },
@@ -3910,9 +3902,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/pink_dye_from_cactus_flower": {
+  "minecraft:recipes/decorations/light_blue_carpet": {
     "criteria": {
-      "has_cactus_flower": "2026-10-09 18:55:05 -0400"
+      "has_light_blue_wool": "2026-10-09 17:40:01 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_wool_stairs": {
+    "criteria": {
+      "has_orange_wool": "2026-10-09 17:50:07 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_bed": {
+    "criteria": {
+      "has_orange_wool": "2026-10-09 17:50:07 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_banner": {
+    "criteria": {
+      "has_orange_wool": "2026-10-09 17:50:07 -0400"
     },
     "done": true
   },
@@ -3922,21 +3932,219 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_blue_carpet": {
-    "criteria": {
-      "has_light_blue_wool": "2026-10-09 17:40:01 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/raw_iron": {
-    "criteria": {
-      "has_raw_iron_block": "2026-10-09 17:30:29 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/orange_carpet": {
     "criteria": {
       "has_orange_wool": "2026-10-09 17:50:07 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_cactus_flower": {
+    "criteria": {
+      "has_cactus_flower": "2026-10-09 18:55:05 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_wool_stairs": {
+    "criteria": {
+      "has_red_wool": "2026-10-09 19:07:11 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2026-10-09 19:07:11 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2026-10-09 19:07:11 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_wool_slab": {
+    "criteria": {
+      "has_red_wool": "2026-10-09 19:07:11 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2026-10-09 19:07:11 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pale_oak_planks": {
+    "criteria": {
+      "has_log": "2026-10-09 19:21:10 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2026-10-09 19:33:44 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2026-10-09 20:16:01 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2026-10-09 20:16:01 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2026-10-09 20:17:49 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_vine": {
+    "criteria": {
+      "has_vine": "2026-10-09 21:04:07 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
+    "criteria": {
+      "has_vine": "2026-10-09 21:04:07 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bordure_indented_banner_pattern": {
+    "criteria": {
+      "has_vines": "2026-10-09 21:04:07 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2026-10-09 21:06:03 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_stairs_from_light_blue_concrete_stonecutting": {
+    "criteria": {
+      "has_light_blue_concrete": "2026-10-10 15:24:40 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_stairs": {
+    "criteria": {
+      "has_light_blue_concrete": "2026-10-10 15:24:40 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_slab": {
+    "criteria": {
+      "has_white_wool": "2026-10-10 15:29:57 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_glazed_terracotta": {
+    "criteria": {
+      "has_pink_terracotta": "2026-10-10 14:55:06 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2026-10-10 15:23:43 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/mace": {
+    "criteria": {
+      "has_breeze_rod": "2026-10-10 14:38:58 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2026-10-10 15:29:57 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_golden_dandelion": {
+    "criteria": {
+      "has_golden_dandelion": "2026-10-10 16:21:29 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_slab": {
+    "criteria": {
+      "has_green_concrete": "2026-10-10 15:25:01 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_slab": {
+    "criteria": {
+      "has_light_blue_concrete": "2026-10-10 15:24:40 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2026-10-10 16:20:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wind_charge": {
+    "criteria": {
+      "has_breeze_rod": "2026-10-10 14:38:58 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2026-10-10 15:29:57 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_stairs": {
+    "criteria": {
+      "has_white_wool": "2026-10-10 15:29:57 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_slab_from_green_concrete_stonecutting": {
+    "criteria": {
+      "has_green_concrete": "2026-10-10 15:25:01 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_stairs_from_green_concrete_stonecutting": {
+    "criteria": {
+      "has_green_concrete": "2026-10-10 15:25:01 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_golden_dandelion": {
+    "criteria": {
+      "has_golden_dandelion": "2026-10-10 16:21:29 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_stairs": {
+    "criteria": {
+      "has_green_concrete": "2026-10-10 15:25:01 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_slab_from_light_blue_concrete_stonecutting": {
+    "criteria": {
+      "has_light_blue_concrete": "2026-10-10 15:24:40 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2026-10-10 15:29:57 -0400"
     },
     "done": true
   },
