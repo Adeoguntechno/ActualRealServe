@@ -4,5 +4,11 @@
     "name": "TechnoCool",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "75c32407-6783-431b-aa56-6db6eebd48ba",
+    "name": "DJdrowsydrawers",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]

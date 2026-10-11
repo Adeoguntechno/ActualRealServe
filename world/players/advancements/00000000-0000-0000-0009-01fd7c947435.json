@@ -13,6 +13,7 @@
       "minecraft:forest": "2026-09-06 23:56:07 -0400",
       "minecraft:taiga": "2026-09-10 18:52:24 -0400",
       "minecraft:deep_ocean": "2026-09-13 16:22:57 -0400",
+      "minecraft:lush_caves": "2026-10-11 14:08:28 -0400",
       "minecraft:frozen_ocean": "2026-09-10 18:57:36 -0400",
       "minecraft:frozen_river": "2026-09-10 18:55:36 -0400",
       "minecraft:jungle": "2026-09-09 22:44:23 -0400",
@@ -271,6 +272,7 @@
     "criteria": {
       "apple": "2026-09-07 00:15:00 -0400",
       "bread": "2026-09-07 01:17:06 -0400",
+      "cookie": "2026-10-11 13:56:31 -0400",
       "potato": "2026-09-13 18:34:01 -0400",
       "cooked_cod": "2026-09-07 18:23:55 -0400",
       "sweet_berries": "2026-09-13 16:44:22 -0400",
@@ -278,7 +280,8 @@
       "cod": "2026-09-09 20:41:40 -0400",
       "melon_slice": "2026-09-07 14:45:47 -0400",
       "cooked_salmon": "2026-09-07 16:00:20 -0400",
-      "tropical_fish": "2026-09-07 23:35:52 -0400"
+      "tropical_fish": "2026-09-07 23:35:52 -0400",
+      "beetroot": "2026-10-11 13:51:17 -0400"
     },
     "done": false
   },
@@ -2793,27 +2796,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/dried_kelp_from_smelting": {
+  "minecraft:recipes/misc/pink_dye_from_peony": {
     "criteria": {
-      "has_kelp": "2026-10-09 17:05:50 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
-    "criteria": {
-      "has_kelp": "2026-10-09 17:05:50 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/beetroot_soup": {
-    "criteria": {
-      "has_beetroot": "2026-10-09 16:32:49 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
-    "criteria": {
-      "has_poppy": "2026-10-09 16:06:20 -0400"
+      "has_peony": "2026-10-09 15:54:17 -0400"
     },
     "done": true
   },
@@ -2829,15 +2814,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/dried_kelp_from_smoking": {
+  "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
-      "has_kelp": "2026-10-09 17:05:50 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_beetroot": {
-    "criteria": {
-      "has_beetroot": "2026-10-09 16:32:49 -0400"
+      "has_poppy": "2026-10-09 16:06:20 -0400"
     },
     "done": true
   },
@@ -2847,9 +2826,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/pink_dye_from_peony": {
+  "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
-      "has_peony": "2026-10-09 15:54:17 -0400"
+      "has_beetroot": "2026-10-09 16:32:49 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2026-10-09 16:32:49 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2026-10-09 17:05:50 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2026-10-09 17:05:50 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2026-10-09 17:05:50 -0400"
     },
     "done": true
   },
