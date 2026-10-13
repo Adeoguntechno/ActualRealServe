@@ -295,3 +295,4 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 [18:36:46] [Server thread/INFO]: GARFUNCLE1234 lost connection: Timed out
 [18:36:46] [Server thread/INFO]: System chat: GARFUNCLE1234 left the game
 [18:40:46] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[19:10:09] [Thread-0/INFO]: Stopping server
