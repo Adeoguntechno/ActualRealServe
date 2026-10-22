@@ -1,4 +1,4 @@
-[15:00:05] [ServerMain/WARN]: Unable to parse version 27.0 to a codename.
+[15:00:04] [ServerMain/WARN]: Unable to parse version 27.0 to a codename.
 [15:00:07] [ServerMain/INFO]: Environment: Environment[discoveryUrl=https://discovery.minecraftservices.com/minecraft/client, name=PROD]
 [15:00:07] [ServerMain/INFO]: Found non-pack entry './world/datapacks/.DS_Store', ignoring
 [15:00:07] [ServerMain/INFO]: Found non-pack entry './world/datapacks/douay_rheims_minecraft_commands.mcfunction', ignoring
@@ -18,7 +18,7 @@
 [15:00:09] [Server thread/INFO]: [ViaBackwards] Loading translations...
 [15:00:09] [Server thread/INFO]: [ViaBackwards] Registering protocols...
 [15:00:09] [Server thread/INFO]: [floodgate] Loading floodgate v2.2.5-SNAPSHOT (b141-81b65cc)
-[15:00:09] [Server thread/INFO]: [floodgate] Took 252ms to boot Floodgate
+[15:00:09] [Server thread/INFO]: [floodgate] Took 289ms to boot Floodgate
 [15:00:09] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v5.12.1-SNAPSHOT
 [15:00:09] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser-Spigot v2.11.3-SNAPSHOT
 [15:00:09] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
@@ -53,13 +53,13 @@
 [15:00:09] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
 [15:00:09] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
 [15:00:09] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:00:09] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[15:00:09] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
 [15:00:09] [Server thread/INFO]: View Distance: 10
 [15:00:09] [Server thread/INFO]: Simulation Distance: 7
 [15:00:09] [Server thread/INFO]: Item Despawn Rate: 6000
 [15:00:09] [Server thread/INFO]: Item Merge Radius: 2.5
 [15:00:09] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
-[15:00:09] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[15:00:09] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
 [15:00:09] [Server thread/INFO]: -------- World Settings For [world_nether] --------
 [15:00:09] [Server thread/INFO]: Experience Merge Radius: 3.0
 [15:00:09] [Server thread/INFO]: Mob Spawn Range: 6
@@ -89,13 +89,13 @@
 [15:00:09] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
 [15:00:09] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
 [15:00:09] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:00:09] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[15:00:09] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
 [15:00:09] [Server thread/INFO]: View Distance: 10
 [15:00:09] [Server thread/INFO]: Simulation Distance: 7
 [15:00:09] [Server thread/INFO]: Item Despawn Rate: 6000
 [15:00:09] [Server thread/INFO]: Item Merge Radius: 2.5
 [15:00:09] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
-[15:00:09] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[15:00:09] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
 [15:00:09] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
 [15:00:09] [Server thread/INFO]: Experience Merge Radius: 3.0
 [15:00:09] [Server thread/INFO]: Mob Spawn Range: 6
@@ -125,19 +125,18 @@
 [15:00:09] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
 [15:00:09] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
 [15:00:09] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:00:09] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[15:00:09] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
 [15:00:09] [Server thread/INFO]: View Distance: 10
 [15:00:09] [Server thread/INFO]: Simulation Distance: 7
 [15:00:09] [Server thread/INFO]: Item Despawn Rate: 6000
 [15:00:09] [Server thread/INFO]: Item Merge Radius: 2.5
 [15:00:09] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
-[15:00:09] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[15:00:09] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
 [15:00:09] [Server thread/INFO]: Loading 0 persistent chunks...
-[15:00:09] [Server thread/INFO]: Preparing spawn area: 100%
-[15:00:09] [Server thread/INFO]: Time elapsed: 1 ms
+[15:00:09] [Server thread/INFO]: Time elapsed: 0 ms
 [15:00:09] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.12.1
-[15:00:09] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 26.3 (777)
-[15:00:09] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.5-SNAPSHOT (b141-81b65cc)
+[15:00:10] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 26.3 (777)
+[15:00:10] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.5-SNAPSHOT (b141-81b65cc)
 [15:00:10] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.12.1-SNAPSHOT
 [15:00:10] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.11.3-SNAPSHOT
 [15:00:10] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
@@ -151,12 +150,13 @@
 [15:00:11] [Server thread/INFO]: [Geyser-Spigot] Registered 7 custom blocks.
 [15:00:12] [Server thread/INFO]: [Geyser-Spigot] Registered 1 custom items
 [15:00:13] [Server thread/INFO]: [Geyser-Spigot] Built-in signaling started on http://0.0.0.0:19132
-[15:00:13] [Server thread/INFO]: [Geyser-Spigot] Done (1.814s)! Run /geyser help for help!
-[15:00:13] [Server thread/INFO]: Done (3.535s)! For help, type "help"
+[15:00:13] [Server thread/INFO]: [Geyser-Spigot] Done (1.986s)! Run /geyser help for help!
+[15:00:13] [Server thread/INFO]: Done (3.620s)! For help, type "help"
 [15:00:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
 [15:00:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
 [15:00:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
 [15:00:13] [Geyser LegacyPingPassthrough Thread/WARN]: [Geyser-Spigot] Failed to ping the remote Java server! Is it online and configured in Geyser's config?
 [15:00:13] [Craft Scheduler Thread - 1/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
 [15:01:13] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[16:24:49] [Server thread/WARN]: handleDisconnection() called twice
+[15:26:08] [Server thread/WARN]: handleDisconnection() called twice
+[17:08:29] [Thread-1/INFO]: Stopping server
