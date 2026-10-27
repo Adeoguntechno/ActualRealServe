@@ -158,3 +158,4 @@
 [15:00:11] [Geyser LegacyPingPassthrough Thread/WARN]: [Geyser-Spigot] Failed to ping the remote Java server! Is it online and configured in Geyser's config?
 [15:00:11] [Craft Scheduler Thread - 1/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
 [15:01:11] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[20:08:21] [Thread-1/INFO]: Stopping server
